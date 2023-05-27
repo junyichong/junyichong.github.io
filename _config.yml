@@ -111,6 +111,8 @@ navbar:
         url   : /archive
       - title : Current skin
         url   : /current-skin
+      - title : Resume
+        url   : /resume
 
 #  - title   : # Label submenu
 #    child:		
