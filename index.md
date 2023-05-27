@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chulapa on remote
-header_type: hero
+header_type: splash # base, post, hero, image, splash
+header_img: assets/image/cover.jpg
 subtitle: Starter pack
 ---
 
