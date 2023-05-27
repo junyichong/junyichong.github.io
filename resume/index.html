@@ -1,0 +1,42 @@
+---
+layout: minimal
+title: Resume
+subtitle: 'News and updates'
+excerpt: Latest news
+og_image: /assets/img/site/banner-blog.png
+---
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="resume-bar w3-hide-small w3-hide-medium w3-right w3-opacity w3-black" id="navbar">
+        <a class="w3-button w3-hover-teal w3-bar w3-padding-32 " href="#profile">Profile</a>
+        <a class="w3-button w3-hover-teal w3-bar w3-padding-32" href="#educations">Educations</a>
+        <a class="w3-button w3-hover-teal w3-bar w3-padding-32" href="#abilities">Abilities</a>
+        <a class="w3-button w3-hover-teal w3-bar w3-padding-32" href="#contact">Contact</a>
+</div>
+
+<script>
+
+var navbar = document.getElementById("navbar");
+var sticky = navbar.offsetTop - 200;
+var btns = navbar.getElementsByClassName("");
+
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+}
+
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+  var current = document.getElementsByClassName("active");
+  current[0].className = current[0].className.replace(" active", "");
+  this.className += " active";
+  });
+}
+
+</script>

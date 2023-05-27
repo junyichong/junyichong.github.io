@@ -1,0 +1,177 @@
+{% load static %}
+
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="{% static 'blog/css/main.css' %}">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <link href='https://fonts.googleapis.com/css?family=Averia Serif Libre' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Marck Script' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=IM Fell English' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Julius Sans One' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Krub' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Bebas Neue' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Poiret One' rel='stylesheet'>
+
+    {% if title %}
+        <title>{{ title }} - junyichong</title>
+    {% else %}
+        <title>junyichong</title>
+    {% endif %}
+
+    <link rel="shortcut icon" href="{% static 'blog/images/favicon.ico' %}" />
+
+</head>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<style>
+
+</style>
+
+<body class="w3-white">
+
+    <!-- Navigation -->
+<div class="w3-top w3-text-white" id="top-navbar"
+     style="transition: top 0.5s; height:100px;">
+    <div class="w3-bar">
+        <a class="hover1 w3-bar-item w3-wide left" style="font-size:13px" href="{% url 'home' %}">junyichong</a>
+
+        <div class="centered w3-hide-small font-nav">
+            <b>
+                <a class="hover-nav zoom w3-bar-item bar-item"
+                   href="{% url 'gallery-home' %}"> GALLERY </a>
+                <a class="hover-nav zoom w3-bar-item bar-item"
+                   href="{% url 'blog-home' %}"> BLOG </a>
+            </b>
+        </div>
+
+        <div class="w3-right right">
+
+            <div onclick="w3_open()" style="font-size:35px; cursor:pointer"
+                    class="w3-bar-item hover1 w3-hover-none">&#9776;</div>
+        </div>
+    </div>
+</div>
+
+        <!-- Menu -->
+<div class="w3-sidebar w3-black w3-animate-top" style="display:none" id="Menu">
+    <button onclick="w3_close()" class="w3-row w3-button w3-hover-red w3-right">Close &times;</button>
+    <div class="w3-row">
+    <div class="w3-col l8 s12" style="padding:16px">
+        <h3 class="" style="padding: 0px 32px 10px">Menu</h3>
+
+        <div class="w3-row">
+        <div class="w3-third w3-container w3-padding">
+            <img class="w3-image w3-hide-small" src="{% static 'blog/images/hacking1.jpeg' %}"
+                 style="border-radius:0px" alt="About Me">
+            <a class="w3-block w3-button w3-large" href="{% url 'about-me' %}">About Me</a>
+        </div>
+
+        <div class="w3-third w3-container w3-padding">
+            <img class="w3-image w3-hide-small" src="{% static 'blog/images/camera.jpg' %}"
+                 style="border-radius:0px" alt="Gallery">
+            <a class="w3-block w3-button w3-large" href="{% url 'gallery-home' %}">Gallery</a>
+        </div>
+
+        <div class="w3-third w3-container w3-padding">
+            <img class="w3-image w3-hide-small" src="{% static 'blog/images/typing1.jpg' %}"
+                 style="border-radius:0px" alt="Blog">
+            <a class="w3-block w3-button w3-large" href="{% url 'blog-home' %}">Blog</a>
+        </div>
+        </div>
+
+        <div class="w3-row">
+        <div class="w3-third w3-container w3-padding">
+            <img class="w3-image w3-hide-small" src="{% static 'blog/images/dart1.jpg' %}"
+                 style="border-radius:0px" alt="Resume">
+            <a class="w3-block w3-button w3-large" href="{% url 'resume' %}">Resume</a>
+        </div>
+        </div>
+    </div>
+
+    <div class="w3-col l4 s12" style="padding:30px">
+        <h3 class="" style="padding:0px 16px 10px">Find me</h3>
+        <div class="w3-container w3-center" style="font-size:50px; padding:0px 16px 30px">
+            <a href="https://www.facebook.com/junyichong520" target="_blank"><i class="fa fa-facebook-official zoom3"></i></a>
+            <a href="https://twitter.com/junyichong" target="_blank"><i class="fa fa-twitter zoom3"></i></a>
+            <a href="https://www.instagram.com/junyichong/" target="_blank"><i class="fa fa-instagram zoom3 w3-text-pink"></i></a>
+            <a href="https://www.linkedin.com/in/junyichong/" target="_blank"><i class="fa fa-linkedin-square zoom3"></i></a>
+            <a href="mailto:junyichong@gmail.com"><i class="fa fa-envelope-o zoom3 w3-text-grey"></i></a>
+        </div>
+        {% if user.is_authenticated %}
+            <div class="w3-dropdown-hover w3-hide-small">
+                <div class="w3-button">Create</div>
+                <div class="w3-dropdown-content w3-bar-block">
+                    <a href="{% url 'post-create' %}" class="w3-bar-item w3-button">New Post</a>
+                    <a href="{% url 'album-create' %}" class="w3-bar-item w3-button">New Album</a>
+                </div>
+            </div>
+        {% endif %}
+    </div>
+    </div>
+</div>
+
+<a name="top"></a>
+
+<div class="w3-content" style="max-width:1600px">
+
+{% block content %}
+<!-- Content Goes here -->
+{% endblock content %}
+</div>
+    <!-- Footer -->
+<footer class="w3-container w3-black" style="padding:64px">
+    <a href="#top" class="w3-button w3-grey w3-padding-large w3-margin-bottom">To the top</a>
+</footer>
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+<script>
+function w3_open() {
+    document.getElementById("Menu").style.width = "100%";
+    document.getElementById("Menu").style.display = "block";
+}
+function w3_close() {
+    document.getElementById("Menu").style.display = "none";
+}
+
+window.onscroll = function() {myFunction1(), myFunction()};
+
+var prevScrollpos = window.pageYOffset;
+var topbar = document.getElementById("top-navbar")
+
+function myFunction1() {
+  var currentScrollPos = window.pageYOffset;
+  if (prevScrollpos > currentScrollPos) {
+    topbar.style.top = "0";
+    topbar.classList.remove("w3-text-white");
+    topbar.classList.add("w3-card", "white-nav");
+    topbar.style.height = "50px";
+  } else {
+    topbar.style.top = "-100px";
+  }
+  prevScrollpos = currentScrollPos;
+}
+
+AOS.init({
+  duration: 800,
+  delay: 0,
+
+})
+
+</script>
+
+
+</body>
+</html>
