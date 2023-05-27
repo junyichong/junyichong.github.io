@@ -8,10 +8,10 @@ remote_theme: dieghernan/chulapa
 # Overall options for your site, would affect your site SEO
 # Default values are explained
 locale                  :     #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
-title                   : Chulapa 101    #default["repository_name"]
+title                   : Page Found    #default["repository_name"]
 title_separator         :     #default [" | "]
-subtitle                : Chulapa Jekyll Theme starter pack    #default [your-repository-tagline]  
-description             : Chulapa Jekyll Theme starter pack #default [your-repository-tagline]
+subtitle                : by junyichong    #default [your-repository-tagline]  
+description             : by junyichong #default [your-repository-tagline]
 url                     :     #See baseurl - On Github Pages you may leave it blank - If you use CNAME use your domain
 baseurl                 :     #On Github Pages you may leave it blank. Have a look to: https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 words_per_minute        :     #default[200]
@@ -90,7 +90,7 @@ comments:
 #   "brand" options would be set on the left side of your navbar
 #   "nav" would be set on the right side. Two-level nav links available
 navbar:
-  style     :  fab #default is the classical top navbar, set "fab" for a floating action button navbar or "dual"
+  style     :  # default is the classical top navbar, set "fab" for a floating action button navbar or "dual"
   expand    :  # At which device size expand the navbar menu. default[md] https://getbootstrap.com/docs/4.5/layout/overview/
   brand:
     title   :  Home # Title in navbar
@@ -98,21 +98,22 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : Blog # Label
-    url     : /blog/ # url	
-  - title   : Cheatsheets
-    url     : /cheatsheets
-  - title   : Extras
+    url     : /blog # url	
+  - title   : Projects
+    url     : /projects
+  - title   : More
     child   :
-      - title : Tags
-        url   : /tags
-      - title : Categories
-        url   : /categories
-      - title : Archive
-        url   : /archive
-      - title : Current skin
-        url   : /current-skin
       - title : Resume
         url   : /resume
+      - title : Gallery
+        url   : /gallery
+      # - title : Categories
+      #   url   : /categories
+      # - title : Archive
+      #   url   : /archive
+      # - title : Current skin
+      #   url   : /current-skin
+
 
 #  - title   : # Label submenu
 #    child:		
@@ -123,12 +124,25 @@ navbar:
 #Social links to be placed on your site footer
 footer:
   links:
-    - label : Repo on Github # Label
+    - label : Github # Label
       icon  : fab fa-github # Fontawesome 5 icon
-      url   : https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
-    - label: "RSS"
-      icon: "fa fa-rss"
-      url:  "./atom.xml"
+      url   : https://github.com/junyichong # A link or email: https://twitter.com/jack, mail@example.com
+    - label : Linkedin
+      icon  : fab fa-linkedin
+      url   : https://www.linkedin.com/in/junyichong/
+    - label : Twitter
+      icon  : fab fa-twitter
+      url   : https://twitter.com/junyichong
+    - label: Facebook
+      icon: fab fa-facebook
+      url:  "https://www.facebook.com/jun1chong/"
+    - label: Instagram
+      icon: fab fa-instagram
+      url:  "https://www.instagram.com/junyichong/"
+    - label: Email
+      icon: fas fa-envelope
+      url:  "junyichong@gmail.com"
+    
   copyright: # default is © <year> <name> 
   
 # C. Theme Settings
@@ -140,7 +154,7 @@ googlefonts:
 chulapa-skin: 
   highlight     :  # default["default"]
   skin         :  twitter-dim # Optional predefined skins
-  autothemer    :  true # Bool: Use autotheming
+  autothemer    :  false # Bool: Use autotheming
   vars          :    
     primary     : lightskyblue #default ["#007bff"] - Bootstrap blue
     
@@ -152,13 +166,16 @@ paginate_path: "/blog/page:num/"
 paginator_maxnum: 3  #default[3] Custom: max of number to be displayed on the paginator
 
 # Collections https://jekyllrb.com/docs/step-by-step/09-collections/
-collections:
-  cheatsheet:
-    output: true
-    permalink: /cheatsheets/:name
-collections_dir     : 
-permalink           : /:year:month:day_:title/
 
+collections_dir: collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title
+  posts: 
+    output: true
+    permalink: /:year:month_:title/
+permalink: /:title
 
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
 defaults:
@@ -191,6 +208,26 @@ defaults:
       breadcrumb_list   :
         - label: Blog
           url: /blog/
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      header_type       : "hero"
+      include_on_search : true
+      include_on_feed   : true
+      show_date         : true
+      show_related      : true
+      show_bottomnavs   : true
+      show_sociallinks  : true
+      show_comments     : true
+      show_tags         : true
+      show_categories   : true
+      show_author       : true
+      show_breadcrumb   : true
+      breadcrumb_list   :
+        - label: Projects
+          url: /projects/
   -
     scope:
       path: ""

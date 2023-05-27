@@ -21,7 +21,7 @@ var store = [{
         "categories": [],
         "date": "2015-01-04",
         "tags": ["random","exciting-stuff"],
-        "url": "http://localhost:4000/20150104_first-post/",
+        "url": "http://localhost:4000/201501_first-post/",
         "img": null
       },{
         "title": "Pirates arrrr",
@@ -31,7 +31,7 @@ var store = [{
         "categories": [],
         "date": "2015-01-15",
         "tags": ["pirates","random","wikipedia"],
-        "url": "http://localhost:4000/20150115_pirates/",
+        "url": "http://localhost:4000/201501_pirates/",
         "img": null
       },{
         "title": "Soccer",
@@ -41,7 +41,7 @@ var store = [{
         "categories": [],
         "date": "2015-01-19",
         "tags": ["random","exciting-stuff","wikipedia"],
-        "url": "http://localhost:4000/20150119_soccer/",
+        "url": "http://localhost:4000/201501_soccer/",
         "img": null
       },{
         "title": "Dear diary",
@@ -51,7 +51,7 @@ var store = [{
         "categories": [],
         "date": "2015-01-27",
         "tags": ["random","diary","school","manuscript"],
-        "url": "http://localhost:4000/20150127_dear-diary/",
+        "url": "http://localhost:4000/201501_dear-diary/",
         "img": null
       },{
         "title": "To be",
@@ -61,7 +61,7 @@ var store = [{
         "categories": [],
         "date": "2015-02-13",
         "tags": ["wikipedia","manuscript"],
-        "url": "http://localhost:4000/20150213_hamlet-monologue/",
+        "url": "http://localhost:4000/201502_hamlet-monologue/",
         "img": null
       },{
         "title": "Test markdown",
@@ -71,7 +71,7 @@ var store = [{
         "categories": [],
         "date": "2015-02-20",
         "tags": ["markdown","exciting-stuff"],
-        "url": "http://localhost:4000/20150220_test-markdown/",
+        "url": "http://localhost:4000/201502_test-markdown/",
         "img": null
       },{
         "title": "Flake it till you make it",
@@ -81,7 +81,7 @@ var store = [{
         "categories": [],
         "date": "2015-02-26",
         "tags": ["random","manuscript"],
-        "url": "http://localhost:4000/20150226_flake-it-till-you-make-it/",
+        "url": "http://localhost:4000/201502_flake-it-till-you-make-it/",
         "img": null
       },{
         "title": "Urban art",
@@ -91,7 +91,7 @@ var store = [{
         "categories": ["picture"],
         "date": "2018-11-09",
         "tags": ["urban art","street","downtown","image"],
-        "url": "http://localhost:4000/20181109_urban_art/",
+        "url": "http://localhost:4000/201811_urban_art/",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Madrid_-_Graffiti_11.jpg/407px-Madrid_-_Graffiti_11.jpg"
       },{
         "title": "Dean Village",
@@ -101,7 +101,7 @@ var store = [{
         "categories": ["picture"],
         "date": "2019-05-02",
         "tags": ["landscape","trips","downtown","edinburgh","kramdown","bootstrap","wikipedia","demo","image"],
-        "url": "http://localhost:4000/20190502_dean-village/",
+        "url": "http://localhost:4000/201905_dean-village/",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg/800px-Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg"
       },{
         "title": "A landing page",
@@ -111,7 +111,7 @@ var store = [{
         "categories": ["landing-page"],
         "date": "2019-08-03",
         "tags": ["example","demo","layout","guest-author","image"],
-        "url": "http://localhost:4000/20190803_landing-page/",
+        "url": "http://localhost:4000/201908_landing-page/",
         "img": "https://dieghernan.github.io/chulapa/assets/img/site/transparent.png"
       },{
         "title": "The Acueduct of Segovia",
@@ -121,36 +121,56 @@ var store = [{
         "categories": ["picture"],
         "date": "2019-11-27",
         "tags": ["landscape","trips","downtown","project-links","wikipedia","image"],
-        "url": "http://localhost:4000/20191127_acueduct-of-segovia/",
+        "url": "http://localhost:4000/201911_acueduct-of-segovia/",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Acueducto_Segovia_noche.JPG/1024px-Acueducto_Segovia_noche.JPG"
+      },{
+        "title": "Should I Get a Part-time Job in Japan?",
+        "subtitle": null,
+        "excerpt":
+            "One of the most surprising things I encountered in Japan is the percentage of students having a part-time job. Among my 46 classmates, I can confidently say that at least...",
+        "categories": ["picture"],
+        "date": "2020-07-29",
+        "tags": ["landscape","trips","downtown","project-links","wikipedia","image"],
+        "url": "http://localhost:4000/202007_part-time-job/",
+        "img": "http://localhost:4000/assets/image/sadkeanu2.jpg"
       },{
         "title": "Current skin",
         "subtitle": "Showing al the different Bootstrap components available",
         "excerpt":
-            "This is a demo page showing the different components of Bootstrap and how they look on this site under the current configuration. Previous The Acueduct of Segovia The Acueduct o......",
+            "This is a demo page showing the different components of Bootstrap and how they look on this site under the current configuration. Previous Should I Get a Part-time Jo... Should...",
         "categories": ["skins"],
         "date": "2020-12-31",
         "tags": ["skin","bootstrap","current-theme","header-hero","image","demo"],
-        "url": "http://localhost:4000/20201231_current-skin/",
+        "url": "http://localhost:4000/202012_current-skin/",
         "img": "https://picsum.photos/id/1018/2000/2000"
       },{
-        "title": "Markdown cheatsheet",
-        "subtitle": "The basic syntax of your page",
+        "title": "First post!",
+        "subtitle": null,
         "excerpt":
-            "What’s Markdown? Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one...",
-        "categories": ["tutorial"],
-        "date": "2023-05-27",
-        "tags": ["starter","syntax","markdown"],
-        "url": "http://localhost:4000/cheatsheets/01-markdown-cheat-sheet",
+            "This is my first post, how exciting!  ",
+        "categories": [],
+        "date": "2015-01-04",
+        "tags": ["random","exciting-stuff"],
+        "url": "http://localhost:4000/projects/first-post",
         "img": null
       },{
-        "title": "kramdown cheatsheet",
-        "subtitle": "Beyond Markdown",
+        "title": "Pirates arrrr",
+        "subtitle": null,
         "excerpt":
-            "What’s kramdown? kramdown supercharges Markdown with some interesting features. kramdown is the default Jekyll Markdown processor. When creating your site with Jekyll, you can use the standard Markdown syntax plus...",
-        "categories": ["tutorial"],
-        "date": "2023-05-27",
-        "tags": ["starter","syntax","kramdown"],
-        "url": "http://localhost:4000/cheatsheets/02-kramdown-cheat-sheet",
+            "Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water...",
+        "categories": [],
+        "date": "2015-01-15",
+        "tags": ["pirates","random","wikipedia"],
+        "url": "http://localhost:4000/projects/pirates",
+        "img": null
+      },{
+        "title": "Soccer",
+        "subtitle": "Best sport ever!",
+        "excerpt":
+            "From Wikipedia: Association football, more commonly known as football or soccer,[2] is a sport played between two teams of eleven players with a spherical ball. It is played by 250...",
+        "categories": [],
+        "date": "2015-01-19",
+        "tags": ["random","exciting-stuff","wikipedia"],
+        "url": "http://localhost:4000/projects/soccer",
         "img": null
       }]
