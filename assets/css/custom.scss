@@ -39,3 +39,18 @@ a.hover3:active {}
     50% {bottom: 5px;}
     100% {bottom: -5px;}
   }
+
+
+.image-container {
+    display: flex; /* Use flexbox to align images */
+  }
+
+.image-container a {
+    margin-right: 1em; /* Add right margin to create space between images */
+    margin-top: 1em;
+  }
+
+.image-container img {
+    width: 70px; /* Adjust the width as per your requirement */
+    height: 70px; /* Set the height to maintain aspect ratio */
+  }

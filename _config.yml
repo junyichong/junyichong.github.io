@@ -107,8 +107,8 @@ navbar:
         url   : /resume
       - title : Gallery
         url   : /gallery
-      # - title : Categories
-      #   url   : /categories
+      - title : Portfolio
+        url   : /portfolio
       # - title : Archive
       #   url   : /archive
       # - title : Current skin
