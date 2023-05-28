@@ -2,7 +2,7 @@
 title: "Serba Dinamik: The Hindsight"
 header_type: hero
 header_img: ../assets/image/blog/mcd.jpg
-tags: [stock, portfolio, Serba Dinamik]
+tags: [stock, portfolio, investment, Serba Dinamik]
 ---
 
 Earlier this year, Serba Dinamik’s auditor KPMG had raised issues regarding the company’s sales transactions, trade receivables and payables, as well as material on-site balances. The issues raised involved 11 parties which accounted for total sales transactions of RM2.32 billion, trade receivables balance of RM652 million and materials on site balance of RM569 million. Since then, the share price of the company had dropped all the way down from RM1.6 to RM0.35 and has been suspended from trading since October 22.
@@ -17,7 +17,7 @@ Even though I'm definitely sceptical about Serba Dinamik's innocence, I'm not he
 Let's start by analyzing the 6 most important things to identify a great business, credit to Rule #1 by Phil Town. (It's originally The Big 5, but I modified it a bit.)
 
 <div class="w3-container" style="padding:0px 0px 10px">
-    <img title="The Big 6" class="w3-image w3-padding" width="400"
+    <img title="The Big 6" class="w3-image w3-padding" width="400" max-width="400"
         src="../assets/image/blog/serbadk/big6.png" alt="The Big 6">
 </div>
 
@@ -29,7 +29,7 @@ At first sight, this seems like a rare gem that almost checks all the boxes. Som
 ### Dilution
 
 <div class="w3-container" style="padding:0px 0px 10px">
-    <img title="Dilution" class="w3-image w3-padding" width="400"
+    <img title="Dilution" class="w3-image w3-padding" width="400" max-width="400"
         src="../assets/image/blog/serbadk/graph1.png" alt="Dilution">
 </div>
 
@@ -48,7 +48,7 @@ From the income statements, they actually grew the shares outstanding from 2.7 b
 Receivables are debts owed to a company by its customers for goods or services that have been delivered or used but not yet paid for. Receivables are recorded as revenue at the time of a sale when a good or service has been delivered but not yet been paid for. 
 
 <div class="w3-container" style="padding:0px 0px 10px">
-    <img title="Receivables" class="w3-image w3-padding" width="400"
+    <img title="Receivables" class="w3-image w3-padding" width="400" max-width="400"
         src="../assets/image/blog/serbadk/graph2.png" alt="Receivables">
 </div>
 
@@ -59,7 +59,7 @@ In the case of Serba Dinamik, their receivables were growing strongly along with
 ### Free Cash Flow
 
 <div class="w3-container" style="padding:0px 0px 10px">
-    <img title="Free Cash Flow" class="w3-image w3-padding" width="400"
+    <img title="Free Cash Flow" class="w3-image w3-padding" width="400" max-width="400"
         src="../assets/image/blog/serbadk/graph3.png" alt="Free Cash Flow">
 </div>
 
@@ -70,7 +70,7 @@ Free cash flow is the real profit generated for the owners, while net income is 
 ### Fund Raising
 
 <div class="w3-container" style="padding:0px 0px 10px">
-    <img title="Fund Raising" class="w3-image w3-padding" width="400"
+    <img title="Fund Raising" class="w3-image w3-padding" width="400" max-width="400"
         src="../assets/image/blog/serbadk/graph4.png" alt="Fund Raising">
 </div>
 
