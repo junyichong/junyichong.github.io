@@ -1,0 +1,116 @@
+{% extends "blog/base.html" %}
+{% block content %}
+{% load static %}
+
+<header class="w3-display-container cover-img"
+        style="background-image: url({% static 'blog/images/cover6.jpg' %})">
+    <div class=""></div>
+    <div class="w3-display-middle w3-center">
+        <h1 class="header-text"> junyichong presents </h1>
+        <h1 class="header-title">insert cool<br>site name</h1>
+    </div>
+    <div class="w3-display-bottommiddle" style="padding-bottom: 50px">
+        <a class="box w3-text-white w3-right w3-opacity w3-padding-16 hover1" href="#about"
+           style="font-size:70px"><i class="fa fa-angle-down"></i></a>
+    </div>
+</header>
+
+<a name="about"></a>
+
+<div class="w3-container w3-white" style="padding:64px 16px">
+    <div class="w3-content" style="max-width:900px">
+        <div class="w3-container w3-center" style="padding:0px 0px 30px">
+            <h1 class="" data-aos="fade-up" style="padding-bottom:32px"><b>Hi! I am Jun Yi.</b></h1>
+            <p data-aos="fade-up">Chong is my last name. Call me Jun Yi, or Chong, or Jun if you like.
+                I'm a mechanical engineering student having fun in Japan sponsored
+                <i>(not really)</i> by the Malaysian government.
+                I'm an INTJ, an optimist, an apatheist.
+                Definitely not a writer or a photographer.</p>
+            <p data-aos="fade-up">Check out my <a class="hover2" href="{% url 'resume' %}">resume</a> if you are into that kind of stuff.</p>
+        </div>
+    </div>
+</div>
+
+<div class="parallax2-img"
+     style="background-image: url({% static 'blog/images/snowboardme.jpg' %})"></div>
+
+<div class="w3-container w3-white" style="padding:64px 16px">
+    <div class="w3-content" style="max-width:900px">
+        <div class="w3-container w3-center" style="padding:0px 0px 30px">
+            <h1 class="" data-aos="fade-up" style="padding-bottom:32px"><b>I write sometimes.</b></h1>
+            <p data-aos="fade-up">
+                Here is my training ground to put my thoughts into words.
+                I (plan to) write about tech, education, life in Japan and everything I care about.
+                I doesn't noe how 2 write gud but i try lol. Sorry for my english bad.</p>
+            <p data-aos="fade-up">Here are three of my latest <a class="hover2" href="{% url 'blog-home' %}">posts</a>:</p>
+        </div>
+    </div>
+
+    <div class="w3-content" style="max-width:1100px; padding:10px 24px">
+        {% for post in posts %}
+        <a class="w3-col l4 m6 s12 home-post-img zoom" data-aos="fade-up"
+           style="padding:10px" href="{% url 'post-detail' post.slug %}">
+            <img src="{{ post.image.url }}" style="border-radius:30px" class="w3-image" alt="post image">
+            <h4 class="home-post-text w3-text-white">{{ post.title }}</h4>
+        </a>
+        {% endfor %}
+    </div>
+</div>
+
+<div class="parallax2-img"
+     style="background-image: url({% static 'blog/images/sakurame2.jpg' %})"></div>
+
+<div class="w3-container" style="padding:64px 0px">
+    <div class="w3-content" style="max-width:900px">
+    <div class="w3-container w3-center" style="padding:0px 16px 30px">
+        <h1 class="" data-aos="fade-up" style="padding-bottom:32px"><b>I travel sometimes.</b></h1>
+        <p data-aos="fade-up">Always believe we should live in the moment instead of taking pictures,
+            but 9/10 of the time regret not taking enough pictures afterwards.</p>
+        <p data-aos="fade-up">Here are some of the <a class="hover2" href="{% url 'gallery-home' %}">places</a> I've been to recently:</p>
+    </div>
+    </div>
+    {% for album in albums %}
+    <div class="w3-col l3 m4 s6 w3-center home-album-img" data-aos="fade-up" style="">
+        <img src="{{ album.image.url }}" class="w3-image w3-greyscale-max" alt="cover image">
+        <a href="{% url 'album-detail' album.slug %}" class="overlay hover1">
+            <h1 class="w3-display-middle myfont11 hover1 w3-hide-small"><b>{{ album.title }}</b></h1>
+            <h3 class="w3-display-middle myfont11 hover1 w3-hide-medium w3-hide-large"><b>{{ album.title }}</b></h3>
+        </a>
+    </div>
+    {% endfor %}
+</div>
+
+<div class="motto-img" style="background-image: url({% static 'blog/images/sky.jpg' %})">
+    <div class="motto-overlay"></div>
+    <div class="motto" data-aos="fade-up" style="padding:64px 0px">
+        <h1 class="w3-text-white" style="padding-bottom:48px;"><b>Note to self</b></h1>
+        <p class="motto-text">Seek discomfort</p>
+        <p class="motto-text">No man is above learning a new lesson</p>
+        <p class="motto-text">Be confident but humble</p>
+        <p class="motto-text">Never too late to start</p>
+        <p class="motto-text">Care less about things you couldn't change</p>
+        <p class="motto-text">Do important things</p>
+        <p class="motto-text">Read more</p>
+
+    </div>
+</div>
+
+
+<div class="w3-container w3-white" style="padding:64px 16px">
+    <div class="w3-content" style="max-width:900px">
+        <div class="w3-container w3-center" style="padding:0px 0px 30px">
+            <h1 class="" data-aos="fade-up" style="padding-bottom:32px"><b>About this website</b></h1>
+            <p data-aos="fade-up">Built with Django. Deployed with Heroku. 7 usd/year domain name from Namecheap. Made possible by tutorials on YouTube. Published during the Covid-19 pandemic. <br>Come back again in some time, junyichong.com will only get better! Thanks for visiting.</p>
+            <p data-aos="fade-up">Drop me a message here:</p>
+        </div>
+        <div class="w3-container w3-center" data-aos="fade-up" style="font-size:90px; padding:0px 0px 30px">
+            <a href="https://www.facebook.com/junyichong520" target="_blank"><i class="fa fa-facebook-official zoom3"></i></a>
+            <a href="https://twitter.com/junyichong" target="_blank"><i class="fa fa-twitter zoom3"></i></a>
+            <a href="https://www.instagram.com/junyichong/" target="_blank"><i class="fa fa-instagram zoom3 w3-text-pink"></i></a>
+            <a href="https://www.linkedin.com/in/junyichong/" target="_blank"><i class="fa fa-linkedin-square zoom3"></i></a>
+            <a href="mailto:junyichong@gmail.com"><i class="fa fa-envelope-o zoom3 w3-text-grey"></i></a>
+        </div>
+    </div>
+</div>
+
+{%endblock%}

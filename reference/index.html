@@ -1,0 +1,75 @@
+{% extends "blog/base.html" %}
+{% block content %}
+{% load static %}
+
+<header class="w3-display-container cover-img"
+        style="background-image: url({% static 'blog/images/flower.jpg' %})">
+    <div class="cover-overlay"></div>
+    <div class="w3-display-middle w3-center">
+        <h1 class="header-text"> junyichong presents </h1>
+        <h1 class="header-title">might be<br>offensive blog</h1>
+    </div>
+    <div class="w3-display-bottommiddle" style="padding-bottom: 50px">
+        <a class="box w3-text-white w3-right w3-opacity w3-padding-16 hover1" href="#post"
+           style="font-size:70px"><i class="fa fa-angle-down"></i></a>
+    </div>
+</header>
+
+<a name="post"></a>
+
+<div class="w3-container w3-white" style="padding:20px 16px">
+<div class="w3-content" style="max-width:1000px">
+        <!-- Blog Entries Column -->
+    {% autoescape off %}
+    {% for post in post_list %}
+    <div class="w3-container" style="padding:0px">
+    <div class="w3-container" style="padding: 30px 0px 50px">
+        <div class="w3-content w3-row" style="max-width:800px">
+            <div class="w3-col l5 m5" data-aos="fade-up" style="padding:20px 16px 10px">
+                <div class="post-index-img" style="background-image: url({{ post.image.url }})"></div>
+            </div>
+
+            <div class="w3-col l7 m7" data-aos="fade-up" style="padding:0px 16px 0px">
+                <h6 class="w3-opacity" style="font-size:13px">
+                    <i class="fa fa-pencil" style="padding-right:5px"></i><a href="{% url 'about-me' %}" class="hover3">{{post.author}}</a>
+                    <i class="fa fa-clock-o" style="padding:0px 5px 0px 20px"></i>{{post.created_on}}</h6>
+                <a class="hover-post-title" style="font-size:35px;" href="{% url 'post-detail' post.slug  %}">
+                    {{ post.title }}</a>
+                <h6 style="padding:10px 0px 0px">{{post.content | linebreaksbr | truncatewords:45 }}</h6>
+                <a class="w3-button w3-white w3-border" href="{% url 'post-detail' post.slug  %}"
+                style="margin-top:10px">Read More &rarr;</a>
+            </div>
+        </div>
+    </div>
+    <hr>
+    </div>
+    {% endfor %}
+    {% endautoescape %}
+
+    <div class="w3-row w3-center w3-padding-32">
+        {% if is_paginated %}
+
+          {% if page_obj.has_previous %}
+            <a class="w3-button w3-blue" href="?page=1">First</a>
+            <a class="w3-button w3-border" href="?page={{ page_obj.previous_page_number }}"> < </a>
+          {% endif %}
+
+          {% for num in page_obj.paginator.page_range %}
+            {% if page_obj.number == num %}
+              <a class="w3-button" href="#">{{ num }}</a>
+            {% elif num > page_obj.number|add:'-3' and num < page_obj.number|add:'3' %}
+              <a class="w3-button w3-border" href="?page={{ num }}">{{ num }}</a>
+            {% endif %}
+          {% endfor %}
+
+          {% if page_obj.has_next %}
+            <a class="w3-button w3-border" href="?page={{ page_obj.next_page_number }}"> > </a>
+            <a class="w3-button w3-blue" href="?page={{ page_obj.paginator.num_pages }}">Last</a>
+          {% endif %}
+
+        {% endif %}
+    </div>
+</div>
+</div>
+
+{%endblock%}
