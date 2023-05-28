@@ -1,9 +1,8 @@
 ---
 title: "Should I Get a Part-time Job in Japan?"
 header_type: hero
-header_img: ../assets/image/sadkeanu2.jpg
-categories: [picture]
-tags: [landscape, trips, downtown, project-links, wikipedia, image]
+header_img: ../assets/image/blog/sadkeanu2.jpg
+tags: [life, work]
 ---
 
 One of the most surprising things I encountered in Japan is the percentage of students having a part-time job. Among my 46 classmates, I can confidently say that at least 30 of them are working after school, mostly at a restaurant or a convenience store. The number might even be higher because I don’t really know every one of them. 
@@ -20,11 +19,15 @@ However, from what I see, most of them just wanted to save money to buy things t
 
 One of my friends spent ¥52465 for a pair of Eytys Halo Suede Off White, size 41. Woah, how did I know all the details? He couldn’t read the English website so I translated every word for him (except for the T&C). He worked almost 60 hours for the shoes, which is really beyond my imagination. An 18-year-old me wouldn’t even spend more than RM40 for a t-shirt and it still hurts if I do it now.
 
+<br/>
+
 ## What can I get from working part-time? 
 
 As a scholar who is being paid to study and has allowance enough to travel multiple times a year, do I really need to work? That’s the question I asked myself a lot last year.
 
 Like any other job, it comes down to just two things: Money and experience.
+
+<br/>
 
 ### Do I need the money? 
 
@@ -33,6 +36,8 @@ Who doesn’t like having more money, right? If you think about it, working part
 I’m really privileged to not have any problems financially, all thanks to the sponsor of this post, JPA. That means every cent I ever made from a part-time job will go straight into my saving.
 
 If I could save more in Japan, my life would be so much easier when I’m back in Malaysia. I could’ve started saving money to buy a house or start a business now, earlier than all of my peers.
+
+<br/>
 
 ### Do I need the experience? 
 
@@ -43,6 +48,8 @@ But that’s not the case for me. I have to work for the Malaysian government in
 If I were to work part-time, I would surely choose a job that could be useful for my endeavour to become an engineer. At least I don’t see how working as a cashier help.
 
 Of course working as a tutor is a great experience, no matter what my job will be in the future. I am teaching English in my school once or twice in a month too! Even though I suck at teaching!
+
+<br/>
 
 ## So, should I get a part-time job? 
 

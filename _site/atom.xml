@@ -3,9 +3,9 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
-	<updated>2023-05-28T14:51:49+09:00</updated>
+	<updated>2023-05-28T16:38:21+09:00</updated>
 	<id>http://localhost:4000/atom.xml</id>
-	<title>Page Found | by junyichong</title>
+	<title>Page Found 404 | by junyichong</title>
 	<subtitle>by junyichong</subtitle>
 	<author>
 		<name>Chong Jun Yi</name>
@@ -14,1481 +14,481 @@
 	<rights>(c) 2023, Chong Jun Yi</rights>
 	
 	<logo>https://github.com/junyichong.png</logo><entry>
-		<title>Current skin</title>
-		<link href="http://localhost:4000/202012_current-skin/" rel="alternate" type="text/html" title="Current skin"/>
-		<published>2020-12-31T00:00:00+09:00</published>
-		<updated>2021-02-03T00:00:00+09:00</updated>
-		<id>http://localhost:4000/202012_current-skin/</id>
-		<content type="html" xml:base="http://localhost:4000/202012_current-skin/">
+		<title>2021 RECAP</title>
+		<link href="http://localhost:4000/202201_2021-recap/" rel="alternate" type="text/html" title="2021 RECAP"/>
+		<published>2022-01-15T00:00:00+09:00</published>
+		<updated>2022-01-15T00:00:00+09:00</updated>
+		<id>http://localhost:4000/202201_2021-recap/</id>
+		<content type="html" xml:base="http://localhost:4000/202201_2021-recap/">
 		
-		&lt;h3&gt;Showing al the different Bootstrap components available&lt;/h3&gt;
+		&lt;h3&gt;My Investment Portfolio&lt;/h3&gt;
 		
 		
   		
-			&lt;img src=&#39;https://picsum.photos/id/1018/2000/2000&#39; &gt;
+			&lt;img src=&#39;https://cdn.vox-cdn.com/thumbor/rFOABU_NwquL9sBMldiQb39bPFQ=/1400x788/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/13739200/Screen_Shot_2019_02_05_at_3.24.25_PM.png&#39; &gt;
 			
-	&lt;p&gt;8 min.&lt;/p&gt;
-			&lt;p&gt;This is a demo page showing the different components of Bootstrap and how they look on this site under the current configuration.&lt;/p&gt;
+	&lt;p&gt;5 min.&lt;/p&gt;
+			&lt;h1 id=&quot;ahhh-its-rewind-time&quot;&gt;AHHH IT’S REWIND TIME&lt;/h1&gt;
 
-&lt;nav aria-label=&quot;Navigation&quot; class=&quot;container-lg chulapa-pagination  &quot;&gt;
-  &lt;ul class=&quot;col-lg-8 offset-lg-2 pagination chulapa-pagination-round px-0 &quot;&gt;
-    &lt;li class=&quot;page-item text-left mr-0 &quot;&gt;
-      &lt;a class=&quot;page-link border-0 px-4&quot; href=&quot;http://localhost:4000/202007_part-time-job/&quot; tabindex=&quot;-1&quot;&gt;
-	  &lt;i class=&quot;fa fa-chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-	  &lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;page-item border-0 disabled text-left ml-0 mr-auto d-none d-md-inline &quot;&gt;
-      &lt;p class=&quot;page-link chulapa-label&quot;&gt;Should I Get a Part-time Jo...&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;page-item border-0 disabled text-left ml-0 mr-auto d-none d-sm-inline d-md-none &quot;&gt;
-      &lt;p class=&quot;page-link chulapa-label&quot;&gt;Should I Get a...&lt;/p&gt;
-    &lt;/li&gt;
-	  &lt;li class=&quot;page-item disabled mx-auto invisible&quot;&gt;
-	   &lt;p class=&quot;page-link&quot;&gt;|&lt;/p&gt;
-	  &lt;/li&gt;	
-	  &lt;li class=&quot;page-item border-0 disabled text-right mr-0 ml-auto d-none d-sm-inline d-md-none invisible&quot;&gt;
-	    &lt;p class=&quot;page-link chulapa-label&quot;&gt;&lt;/p&gt;
-	  &lt;/li&gt;
-	  &lt;li class=&quot;page-item border-0 disabled text-right mr-0 ml-auto d-none d-md-inline invisible&quot;&gt;
-	    &lt;p class=&quot;page-link chulapa-label&quot;&gt;&lt;/p&gt;
-	  &lt;/li&gt;
-    &lt;li class=&quot;page-item text-right ml-0 invisible&quot;&gt;
-      &lt;a class=&quot;page-link border-0 px-4&quot; href=&quot;#&quot;&gt;
-	  &lt;i class=&quot;fa fa-chevron-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;&lt;/a&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;container-lg my-1&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-lg-8 offset-lg-2 col&quot;&gt;
-      &lt;i class=&quot;far fa-folder-open fa-xs&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
-      &lt;a href=&quot;http://localhost:4000/categories#skins&quot; class=&quot;badge chulapa-pill-bg-secondary p-category&quot; rel=&quot;tag&quot;&gt;skins&lt;/a&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
+&lt;p&gt;2021 is definitely a bad year. I lost 19.6% of my portfolio this year, with only cryptocurrencies in the green. If I had invested all my money in the S&amp;amp;P500 in January, I would have made 26.9% this year, which means I would have 50% more money than I have now.&lt;/p&gt;
+
+&lt;p&gt;I went through all my winners and losers, and write down all the lessons and mistakes I have learnt, hopefully 17% is the biggest loss I will ever have. One thing I am most grateful for is that I made all these blunders when I am 22, instead of 44 when I should have a much higher net worth and a lower risk tolerance.&lt;/p&gt;
+
+&lt;p&gt;Since I didn’t do a recap for 2020, below are all the things the market taught me from September 2020 till the end of 2021.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;open-positions&quot;&gt;Open Positions&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;ethereum-59-6-of-portfolio&quot;&gt;Ethereum &lt;em&gt;(+59%, 6% of portfolio)&lt;/em&gt;&lt;/h5&gt;
+
+&lt;p&gt;I had my biggest gain of 2021 in a cryptocurrency, who would have thought. I wouldn’t be surprised if the NFT bubble pops and crashes ETH.
+Crypto is still a non-productive asset.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;apple-48-15-of-portfolio&quot;&gt;Apple &lt;em&gt;(+48%, 1.5% of portfolio)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;My biggest winner in 2021 - a single share of $AAPL.&lt;/p&gt;
+
+&lt;p&gt;The strong get stronger.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;public-bank-36-4-of-portfolio&quot;&gt;Public Bank &lt;em&gt;(+36%, 4% of portfolio)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;The first stock I ever bought. Should’ve taken the advantage of the spike after the bonus issue where the price was at RM4.70 for no reason. I knew the stock was overpriced but didn’t sell because I wanted to hold on to my first stock.&lt;/p&gt;
+
+&lt;p&gt;Bonus issue or stock split doesn’t make a difference in the value of the business.
+Don’t be overly attached to a stock.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;bitcoin-21-8-of-portfolio&quot;&gt;Bitcoin &lt;em&gt;(+21%, 8% of portfolio)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Don’t try to time the market.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;tenaga-nasional-05-12-of-portfolio&quot;&gt;Tenaga Nasional &lt;em&gt;(+0.5%, 12% of portfolio)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;I bought the stock because of the monopoly by Tenaga. Got a few rounds of dividends but they couldn’t make up the drop in share price. At one point I was over-exposed to the stock but now sold off 25%.&lt;/p&gt;
+
+&lt;p&gt;Don’t buy a company that is not growing.
+Check for special dividend and dividend payout ratio.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;alibaba--30-15-of-portfolio&quot;&gt;Alibaba &lt;em&gt;(-30%, 15% of portfolio)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;I bought all the way down from $240 to $125. I still have a pretty high conviction, let’s see how it plays out! I see this as my first true test as a value investor.&lt;/p&gt;
+
+&lt;p&gt;Don’t clone blindly.
+Identify what changes the fundamental and what is just noise.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;clover-health--61-6-of-portfolio&quot;&gt;Clover Health &lt;em&gt;(-61%, 6% of portfolio)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;A stock that r/wallstreetbets was speculating for a short squeeze, or a gamma squeeze, whatever it is. It crashed when the management announced a new share offering at a really low price without an explanation, which is a huge red flag. I still believe the company has a good growth prospect but I certainly bought in too early.&lt;/p&gt;
+
+&lt;p&gt;NO MORE FOMO!
+Buy only profitable companies.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;closed-positions&quot;&gt;Closed Positions&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;revenue-40&quot;&gt;Revenue &lt;em&gt;(+40%)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;I bought when the stock had a P/E ratio of 70, which is in hindsight too high considering the growth shown by the company. At one point I was up almost 100% but it didn’t make an impact because I bought too little. The CEO said a lot about making an ecosystem, digital banking, overseas expansion, etc but no real progress so far (might be because of Covid-19). I sold the stock because I was holding too little of it, might be buying back if it drops to its fair value.&lt;/p&gt;
+
+&lt;p&gt;Beware of management that gives too many promises.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;arbb-4&quot;&gt;ARBB &lt;em&gt;(+4%)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;The company is in a growing industry with a P/E ratio of only 3. Sold after the Serba Dinamik saga as the company has the exact same problem - high receivables.&lt;/p&gt;
+
+&lt;p&gt;Sometimes a company has a low valuation for a reason.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;hong-seng--2&quot;&gt;Hong Seng &lt;em&gt;(-2%)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;After seeing the news about the company’s plan to manufacture gloves, I bought the stock in anticipation of the stock going up like other glove stocks, without doing any further research. I sold off when the price didn’t go anywhere after a few months. However, the stock had 7x at its peak in 2021.&lt;/p&gt;
+
+&lt;p&gt;You can’t hold a stock without strong conviction.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;teledoc--2&quot;&gt;Teledoc &lt;em&gt;(-2%)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Followed Cathie Wood who kept buying the dip, without doing proper valuation. The price dropped another 35% after I sold.&lt;/p&gt;
+
+&lt;p&gt;Buy after a company had proved their business model.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;bursa-malaysia--12&quot;&gt;Bursa Malaysia &lt;em&gt;(-12%)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;I bought it because I expected the daily trading value to be around 3B which is higher than pre-pandemic. Sold when the market cooled off quickly (ADV of ~2B) after the announcement of increased trading cost.&lt;/p&gt;
+
+&lt;p&gt;Always have a margin of safety.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;cypark--24&quot;&gt;Cypark &lt;em&gt;(-24%)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;High debt company. Sold after it announced private placement.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;vivocom--45&quot;&gt;Vivocom &lt;em&gt;(-45%)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;My first huge loss in the stock market. Blindly trusting the confidence of a Facebook page Mr Bursa, and hoping to get some quick profit, I bought right at the top and kept buying the ‘dip’. I didn’t even know what the company does. The stock has down another 60% after I sold.&lt;/p&gt;
+
+&lt;p&gt;There is no easy money.
+If something is too good to be true, it’s not.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;kpower--51&quot;&gt;Kpower &lt;em&gt;(-51%)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;The company seemed to be transitioning into great industries, namely renewable energy and logistic. However, it crashed along with Serba Dinamik as they share the same director. I bought the dip after making the judgement that it has independent management and no real connection with Serba Dinamik, which turned out to be a bad decision. It has dropped another 40% after I sold my last positions.&lt;/p&gt;
+
+&lt;p&gt;Never buy a company just because of a high profile CEO&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;serba-dinamik--52&quot;&gt;Serba Dinamik &lt;em&gt;(-52%)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;This is definitely my biggest lesson in 2021. Even though I was a self-proclaimed value investor since the beginning, the unfortunate case of Serba Dinamik was what got me into digging into a company’s financials and doing serious valuation.&lt;/p&gt;
+
+&lt;p&gt;When I was getting started in the stock market, I thought I found a gem that was trading at a low P/E ratio with high growth. However, the EPS actually didn’t increase much as they kept issuing new shares over the years through private placement. I felt strange when the company kept venturing into new businesses (e-commerce, IT, space exploration) but failed to do anything about it.&lt;/p&gt;
+
+&lt;p&gt;Sold after the company got exposed for accounting fraud, where it’s suspected that some of the receivables were made up, and the stock price suffered limit down (30% decline) for 2 days straight. Glad I made the right call by selling at a huge loss, the stock is now suspended from trading.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Beware of dilution.&lt;/li&gt;
+  &lt;li&gt;No company should raise funds to give dividends.&lt;/li&gt;
+  &lt;li&gt;Avoid companies with high receivables.&lt;/li&gt;
+  &lt;li&gt;Free cash flow is the money made, not net earnings. In a good company, the two should align.&lt;/li&gt;
+  &lt;li&gt;Diworsification is a real thing.&lt;/li&gt;
+  &lt;li&gt;Sell company that involves in an accounting scandal immediately. You can always buy back when the issue is resolved.&lt;/li&gt;
+&lt;/ul&gt;
+
+		</content>
+		
+		<author>
+			<name>Chong Jun Yi</name></author>
+		<summary type="html">&lt;h1 id=&quot;ahhh-its-rewind-time&quot;&gt;AHHH IT’S REWIND TIME&lt;/h1&gt;
+
+</summary>
+		<category term="posts"/>
+		<category term="portfolio"/><category term="recap"/><category term="stock"/>
+	</entry><entry>
+		<title>2022 PLAN</title>
+		<link href="http://localhost:4000/202201_2022-plan/" rel="alternate" type="text/html" title="2022 PLAN"/>
+		<published>2022-01-07T00:00:00+09:00</published>
+		<updated>2022-01-07T00:00:00+09:00</updated>
+		<id>http://localhost:4000/202201_2022-plan/</id>
+		<content type="html" xml:base="http://localhost:4000/202201_2022-plan/">
+		
+		&lt;h3&gt;My Investment Plan&lt;/h3&gt;
+		
+		
+  		
+			&lt;img src=&#39;http://localhost:4000/assets/image/blog/stonk.jpg&#39; &gt;
+			
+	&lt;p&gt;1 min.&lt;/p&gt;
+			&lt;p&gt;&lt;img src=&quot;../assets/image/blog/2022bad.jpg&quot; alt=&quot;2021 is finally over!&quot; title=&quot;2022 is coming!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;individual-stocks-50&quot;&gt;Individual Stocks (50%)&lt;/h3&gt;
+
+&lt;p&gt;Sell stocks that I don’t have strong enough conviction.
+Continue finding great businesses that I understand.
+Do valuation and wait.
+Buy in batches when the price falls in my fair value range.&lt;/p&gt;
+
+&lt;p&gt;Some great companies that are not too far off from my valuation:&lt;/p&gt;
+
+&lt;p&gt;Alphabet ($GOOG), Meta Platforms ($FB), Taiwan Semiconductor ($TSM), Disney ($DIS), Xiaomi (HKG:1810)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;etf----25&quot;&gt;ETF    (25%)&lt;/h3&gt;
+
+&lt;h5 id=&quot;cspx&quot;&gt;$CSPX&lt;/h5&gt;
+
+&lt;p&gt;A much smaller S&amp;amp;P500 index-tracking ETF compared to $SPY and $VOO. However, it is more attractive to foreigners with lower dividend withholding tax, and is easier to manage because the dividend is automatically reinvested. I would love to have it as a benchmark to see if I can do better with picking individual stocks after learning for more than a year in the market.&lt;/p&gt;
+
+&lt;p&gt;Buy every quarter.
+Don’t try to time the market.&lt;/p&gt;
+
+&lt;h5 id=&quot;smh&quot;&gt;$SMH&lt;/h5&gt;
+
+&lt;p&gt;One of the best-performing holdings I had in 2021 because of the boom of the semiconductor industry. I am still bullish in the sector but some of the companies are just way too overvalued. A good way to hold great monopolies like $TSM, $ASML, $NVDA and more.&lt;/p&gt;
+
+&lt;h5 id=&quot;ipay&quot;&gt;$IPAY&lt;/h5&gt;
+
+&lt;p&gt;Another industry that I am optimistic about - mobile/cashless payment. Bought some during the selloff in 2021. $V, $MA, $PYPL, $SQ are all companies I am interested in but there is just too much competition to be sure which company will come on top. The improvement of the technology of cryptocurrencies especially lightning network might disrupt the whole industry too.&lt;/p&gt;
+
+&lt;h5 id=&quot;kweb&quot;&gt;$KWEB&lt;/h5&gt;
+
+&lt;p&gt;China internet sector ETF which had dropped more than 50% from its peak. Wouldn’t mind buying more due to the cheap valuation but beware not to overexpose to Chinese stocks. I plan to keep the Chinese part of my portfolio under 30%.&lt;/p&gt;
+
+&lt;h5 id=&quot;meta&quot;&gt;$META&lt;/h5&gt;
+
+&lt;p&gt;I might buy this for exposure to metaverse concept companies like $NVDA, $U, $RBLX. However, these companies have just too crazy valuations to justify buying.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;cryptocurrencies--15&quot;&gt;Cryptocurrencies  (15%)&lt;/h3&gt;
+
+&lt;h6 id=&quot;btc-eth&quot;&gt;BTC, ETH&lt;/h6&gt;
+&lt;p&gt;Buy more if the market crashes.
+HODL if the bull market continues.
+Keep my exposure to below 15%.&lt;/p&gt;
+
+&lt;h5 id=&quot;whiteboardcrypto-club&quot;&gt;WhiteBoardCrypto Club&lt;/h5&gt;
+
+&lt;p&gt;Learn more about DeFi and blockchain.
+Don’t waste the $29 per month.
+Be cautious with NFT.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;cash----10&quot;&gt;Cash    (10%)&lt;/h3&gt;
+&lt;p&gt;Have at least 10% cash in my brokerage accounts at all times.
+Put in more money after I settle everything in university.&lt;/p&gt;
+
+		</content>
+		
+		<author>
+			<name>Chong Jun Yi</name></author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;../assets/image/blog/2022bad.jpg&quot; alt=&quot;2021 is finally over!&quot; title=&quot;2022 is coming!&quot; /&gt;&lt;/p&gt;
+
+</summary>
+		<category term="posts"/>
+		<category term="plan"/><category term="portfolio"/><category term="stock"/>
+	</entry><entry>
+		<title>Serba Dinamik: The Hindsight</title>
+		<link href="http://localhost:4000/202112_serba-dinamik/" rel="alternate" type="text/html" title="Serba Dinamik: The Hindsight"/>
+		<published>2021-12-19T00:00:00+09:00</published>
+		<updated>2021-12-19T00:00:00+09:00</updated>
+		<id>http://localhost:4000/202112_serba-dinamik/</id>
+		<content type="html" xml:base="http://localhost:4000/202112_serba-dinamik/">
+		
+  		
+			&lt;img src=&#39;http://localhost:4000/assets/image/blog/mcd.jpg&#39; &gt;
+			
+	&lt;p&gt;4 min.&lt;/p&gt;
+			&lt;p&gt;Earlier this year, Serba Dinamik’s auditor KPMG had raised issues regarding the company’s sales transactions, trade receivables and payables, as well as material on-site balances. The issues raised involved 11 parties which accounted for total sales transactions of RM2.32 billion, trade receivables balance of RM652 million and materials on site balance of RM569 million. Since then, the share price of the company had dropped all the way down from RM1.6 to RM0.35 and has been suspended from trading since October 22.&lt;/p&gt;
+
+&lt;p&gt;However, that didn’t free Serba Dinamik from further troubles such as preventing the release of a special independent review (SIR), failing to release their annual report, endless changes in the board room, and missing coupon payments, just to name a few. Currently, they are seeking legal recourse against Bursa Malaysia, EY and its original auditors KPMG.&lt;/p&gt;
+
+&lt;p&gt;Even though I’m definitely sceptical about Serba Dinamik’s innocence, I’m not here to judge who’s right and wrong, since the damage to all the retail investors’ wealth had already been done (including 52% of my invested capital). Instead, I’m trying to learn from my mistake of investing in Serba Dinamik by studying their annual reports from 2013 to 2021.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-big-6&quot;&gt;The Big 6&lt;/h3&gt;
+&lt;p&gt;Let’s start by analyzing the 6 most important things to identify a great business, credit to Rule #1 by Phil Town. (It’s originally The Big 5, but I modified it a bit.)&lt;/p&gt;
+
+&lt;div class=&quot;w3-container&quot; style=&quot;padding:0px 0px 10px&quot;&gt;
+    &lt;img title=&quot;The Big 6&quot; class=&quot;w3-image w3-padding&quot; width=&quot;400&quot; src=&quot;../assets/image/blog/serbadk/big6.png&quot; alt=&quot;The Big 6&quot; /&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;container-lg my-1&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-lg-8 offset-lg-2 col&quot;&gt;
-      &lt;i class=&quot;fas fa-tag mr-1 fa-xs&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
-      &lt;a href=&quot;http://localhost:4000/tags#skin&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;skin&lt;/a&gt;
-      
-      &lt;a href=&quot;http://localhost:4000/tags#bootstrap&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;bootstrap&lt;/a&gt;
-      
-      &lt;a href=&quot;http://localhost:4000/tags#current-theme&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;current-theme&lt;/a&gt;
-      
-      &lt;a href=&quot;http://localhost:4000/tags#header-hero&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;header-hero&lt;/a&gt;
-      
-      &lt;a href=&quot;http://localhost:4000/tags#image&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;image&lt;/a&gt;
-      
-      &lt;a href=&quot;http://localhost:4000/tags#demo&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;demo&lt;/a&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
+&lt;p&gt;At first sight, this seems like a rare gem that almost checks all the boxes. Some of the companies that I found so many greens are monopolies like $GOOG, $FB and $MSFT. However, a closer look will prove otherwise. For one, the seemingly high free cash flow growth is actually growing over 50% in the negative direction. In hindsight, below are all the issues that I could’ve found in their financial statements, without looking into their allegedly questionable business practices, but just the numbers.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;dilution&quot;&gt;Dilution&lt;/h3&gt;
+
+&lt;div class=&quot;w3-container&quot; style=&quot;padding:0px 0px 10px&quot;&gt;
+    &lt;img title=&quot;Dilution&quot; class=&quot;w3-image w3-padding&quot; width=&quot;400&quot; src=&quot;../assets/image/blog/serbadk/graph1.png&quot; alt=&quot;Dilution&quot; /&gt;
 &lt;/div&gt;
 
-&lt;!-- snippets/bootstrapdemo.html --&gt;
-&lt;!-- Taken from Bootswatch: Free themes for Bootstrap  https://bootswatch.com/ --&gt;
+&lt;p&gt;5-year net income CAGR:    25.6%&lt;/p&gt;
 
-&lt;style&gt;
-.bs-docs-section {
-    margin-top: 4em;
-}
+&lt;p&gt;5-year earnings per share CAGR:    16.5%&lt;/p&gt;
 
-.bs-docs-section .page-header h1 {
-    padding: 2rem 0;
-    font-size: 3rem;
-}
+&lt;p&gt;Even though the company had a really impressive net income 5-year CAGR of over 30%, its EPS growth rates were almost always lower than its net income growth rate, and in some years was just half of that of its earnings. Don’t get me wrong, 16% CAGR is in no way weak growth, but this should be the first red flag that the company is diluting its shareholders since the earnings had to be divided into more and more shares.&lt;/p&gt;
 
-.bs-component {
-    position: relative;
-}
+&lt;p&gt;From the income statements, they actually grew the shares outstanding from 2.7 billion in 2017 to 3.7 billion in 2021, with a CAGR of 7.8%. This is actually not that bad, considering high-growth companies usually need more cash to fund their operations. For comparison, $TSLA diluted their shareholders by 10.7% annually from 2017 to 2020.&lt;/p&gt;
 
-.bs-component+.bs-component {
-    margin-top: 1rem;
-}
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-.bs-component .card {
-    margin-bottom: 1rem;
-}
+&lt;h3 id=&quot;receivables&quot;&gt;Receivables&lt;/h3&gt;
 
-.bs-component .modal {
-    position: relative;
-    top: auto;
-    right: auto;
-    left: auto;
-    bottom: auto;
-    z-index: 1;
-    display: block;
-}
+&lt;p&gt;Receivables are debts owed to a company by its customers for goods or services that have been delivered or used but not yet paid for. Receivables are recorded as revenue at the time of a sale when a good or service has been delivered but not yet been paid for.&lt;/p&gt;
 
-.bs-component .modal-dialog {
-    width: 90%;
-}
-
-.bs-component .popover {
-    position: relative;
-    display: inline-block;
-    width: 220px;
-    margin: 20px;
-}
-&lt;/style&gt;
-
-&lt;div class=&quot;bs-docs-section clearfix&quot;&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-12&quot;&gt;
-         &lt;div class=&quot;page-header&quot;&gt;
-            &lt;h2 id=&quot;navbars&quot;&gt;Navbars&lt;/h2&gt;
-         &lt;/div&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;nav class=&quot;navbar navbar-expand-lg navbar-dark bg-primary&quot;&gt;
-               &lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;Navbar&lt;/a&gt;
-               &lt;button class=&quot;navbar-toggler&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#navbarColor01&quot; aria-controls=&quot;navbarColor01&quot; aria-expanded=&quot;false&quot; aria-label=&quot;Toggle navigation&quot;&gt;
-               &lt;span class=&quot;navbar-toggler-icon&quot;&gt;&lt;/span&gt;
-               &lt;/button&gt;
-               &lt;div class=&quot;collapse navbar-collapse&quot; id=&quot;navbarColor01&quot;&gt;
-                  &lt;ul class=&quot;navbar-nav mr-auto&quot;&gt;
-                     &lt;li class=&quot;nav-item active&quot;&gt;
-                        &lt;a class=&quot;nav-link&quot; href=&quot;#&quot;&gt;Home &lt;span class=&quot;sr-only&quot;&gt;(current)&lt;/span&gt;&lt;/a&gt;
-                     &lt;/li&gt;
-                     &lt;li class=&quot;nav-item&quot;&gt;
-                        &lt;a class=&quot;nav-link&quot; href=&quot;#&quot;&gt;Features&lt;/a&gt;
-                     &lt;/li&gt;
-                     &lt;li class=&quot;nav-item&quot;&gt;
-                        &lt;a class=&quot;nav-link&quot; href=&quot;#&quot;&gt;Pricing&lt;/a&gt;
-                     &lt;/li&gt;
-                     &lt;li class=&quot;nav-item&quot;&gt;
-                        &lt;a class=&quot;nav-link&quot; href=&quot;#&quot;&gt;About&lt;/a&gt;
-                     &lt;/li&gt;
-                  &lt;/ul&gt;
-                  &lt;form class=&quot;form-inline my-2 my-lg-0&quot;&gt;
-                     &lt;input class=&quot;form-control mr-sm-2&quot; type=&quot;text&quot; placeholder=&quot;Search&quot; /&gt;
-                     &lt;button class=&quot;btn btn-secondary my-2 my-sm-0&quot; type=&quot;submit&quot;&gt;Search&lt;/button&gt;
-                  &lt;/form&gt;
-               &lt;/div&gt;
-            &lt;/nav&gt;
-         &lt;/div&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;nav class=&quot;navbar navbar-expand-lg navbar-dark bg-dark&quot;&gt;
-               &lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;Navbar&lt;/a&gt;
-               &lt;button class=&quot;navbar-toggler&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#navbarColor02&quot; aria-controls=&quot;navbarColor02&quot; aria-expanded=&quot;false&quot; aria-label=&quot;Toggle navigation&quot;&gt;
-               &lt;span class=&quot;navbar-toggler-icon&quot;&gt;&lt;/span&gt;
-               &lt;/button&gt;
-               &lt;div class=&quot;collapse navbar-collapse&quot; id=&quot;navbarColor02&quot;&gt;
-                  &lt;ul class=&quot;navbar-nav mr-auto&quot;&gt;
-                     &lt;li class=&quot;nav-item active&quot;&gt;
-                        &lt;a class=&quot;nav-link&quot; href=&quot;#&quot;&gt;Home &lt;span class=&quot;sr-only&quot;&gt;(current)&lt;/span&gt;&lt;/a&gt;
-                     &lt;/li&gt;
-                     &lt;li class=&quot;nav-item&quot;&gt;
-                        &lt;a class=&quot;nav-link&quot; href=&quot;#&quot;&gt;Features&lt;/a&gt;
-                     &lt;/li&gt;
-                     &lt;li class=&quot;nav-item&quot;&gt;
-                        &lt;a class=&quot;nav-link&quot; href=&quot;#&quot;&gt;Pricing&lt;/a&gt;
-                     &lt;/li&gt;
-                     &lt;li class=&quot;nav-item&quot;&gt;
-                        &lt;a class=&quot;nav-link&quot; href=&quot;#&quot;&gt;About&lt;/a&gt;
-                     &lt;/li&gt;
-                  &lt;/ul&gt;
-                  &lt;form class=&quot;form-inline my-2 my-lg-0&quot;&gt;
-                     &lt;input class=&quot;form-control mr-sm-2&quot; type=&quot;text&quot; placeholder=&quot;Search&quot; /&gt;
-                     &lt;button class=&quot;btn btn-secondary my-2 my-sm-0&quot; type=&quot;submit&quot;&gt;Search&lt;/button&gt;
-                  &lt;/form&gt;
-               &lt;/div&gt;
-            &lt;/nav&gt;
-         &lt;/div&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;nav class=&quot;navbar navbar-expand-lg navbar-light bg-light&quot;&gt;
-               &lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;Navbar&lt;/a&gt;
-               &lt;button class=&quot;navbar-toggler&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#navbarColor03&quot; aria-controls=&quot;navbarColor03&quot; aria-expanded=&quot;false&quot; aria-label=&quot;Toggle navigation&quot;&gt;
-               &lt;span class=&quot;navbar-toggler-icon&quot;&gt;&lt;/span&gt;
-               &lt;/button&gt;
-               &lt;div class=&quot;collapse navbar-collapse&quot; id=&quot;navbarColor03&quot;&gt;
-                  &lt;ul class=&quot;navbar-nav mr-auto&quot;&gt;
-                     &lt;li class=&quot;nav-item active&quot;&gt;
-                        &lt;a class=&quot;nav-link&quot; href=&quot;#&quot;&gt;Home &lt;span class=&quot;sr-only&quot;&gt;(current)&lt;/span&gt;&lt;/a&gt;
-                     &lt;/li&gt;
-                     &lt;li class=&quot;nav-item&quot;&gt;
-                        &lt;a class=&quot;nav-link&quot; href=&quot;#&quot;&gt;Features&lt;/a&gt;
-                     &lt;/li&gt;
-                     &lt;li class=&quot;nav-item&quot;&gt;
-                        &lt;a class=&quot;nav-link&quot; href=&quot;#&quot;&gt;Pricing&lt;/a&gt;
-                     &lt;/li&gt;
-                     &lt;li class=&quot;nav-item&quot;&gt;
-                        &lt;a class=&quot;nav-link&quot; href=&quot;#&quot;&gt;About&lt;/a&gt;
-                     &lt;/li&gt;
-                  &lt;/ul&gt;
-                  &lt;form class=&quot;form-inline my-2 my-lg-0&quot;&gt;
-                     &lt;input class=&quot;form-control mr-sm-2&quot; type=&quot;text&quot; placeholder=&quot;Search&quot; /&gt;
-                     &lt;button class=&quot;btn btn-secondary my-2 my-sm-0&quot; type=&quot;submit&quot;&gt;Search&lt;/button&gt;
-                  &lt;/form&gt;
-               &lt;/div&gt;
-            &lt;/nav&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bs-docs-section&quot;&gt;
-   &lt;div class=&quot;page-header&quot;&gt;
-      &lt;div class=&quot;row&quot;&gt;
-         &lt;div class=&quot;col-lg-12&quot;&gt;
-            &lt;h2 id=&quot;buttons&quot;&gt;Buttons&lt;/h2&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-7&quot;&gt;
-         &lt;p class=&quot;bs-component&quot;&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;Primary&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot;&gt;Secondary&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-success&quot;&gt;Success&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-info&quot;&gt;Info&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-warning&quot;&gt;Warning&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-danger&quot;&gt;Danger&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-link&quot;&gt;Link&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-dark&quot;&gt;Dark&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;Light&lt;/button&gt;
-         &lt;/p&gt;
-         &lt;p class=&quot;bs-component&quot;&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-primary disabled&quot;&gt;Primary&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary disabled&quot;&gt;Secondary&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-success disabled&quot;&gt;Success&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-info disabled&quot;&gt;Info&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-warning disabled&quot;&gt;Warning&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-danger disabled&quot;&gt;Danger&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-link disabled&quot;&gt;Link&lt;/button&gt;
-         &lt;/p&gt;
-         &lt;p class=&quot;bs-component&quot;&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-outline-primary&quot;&gt;Primary&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-outline-secondary&quot;&gt;Secondary&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-outline-success&quot;&gt;Success&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-outline-info&quot;&gt;Info&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-outline-warning&quot;&gt;Warning&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-outline-danger&quot;&gt;Danger&lt;/button&gt;
-         &lt;/p&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;btn-group&quot; role=&quot;group&quot; aria-label=&quot;Button group with nested dropdown&quot;&gt;
-               &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;Primary&lt;/button&gt;
-               &lt;div class=&quot;btn-group&quot; role=&quot;group&quot;&gt;
-                  &lt;button id=&quot;btnGroupDrop1&quot; type=&quot;button&quot; class=&quot;btn btn-primary dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;&lt;/button&gt;
-                  &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;btnGroupDrop1&quot;&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Dropdown link&lt;/a&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Dropdown link&lt;/a&gt;
-                  &lt;/div&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;btn-group&quot; role=&quot;group&quot; aria-label=&quot;Button group with nested dropdown&quot;&gt;
-               &lt;button type=&quot;button&quot; class=&quot;btn btn-success&quot;&gt;Success&lt;/button&gt;
-               &lt;div class=&quot;btn-group&quot; role=&quot;group&quot;&gt;
-                  &lt;button id=&quot;btnGroupDrop2&quot; type=&quot;button&quot; class=&quot;btn btn-success dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;&lt;/button&gt;
-                  &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;btnGroupDrop2&quot;&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Dropdown link&lt;/a&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Dropdown link&lt;/a&gt;
-                  &lt;/div&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;btn-group&quot; role=&quot;group&quot; aria-label=&quot;Button group with nested dropdown&quot;&gt;
-               &lt;button type=&quot;button&quot; class=&quot;btn btn-info&quot;&gt;Info&lt;/button&gt;
-               &lt;div class=&quot;btn-group&quot; role=&quot;group&quot;&gt;
-                  &lt;button id=&quot;btnGroupDrop3&quot; type=&quot;button&quot; class=&quot;btn btn-info dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;&lt;/button&gt;
-                  &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;btnGroupDrop3&quot;&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Dropdown link&lt;/a&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Dropdown link&lt;/a&gt;
-                  &lt;/div&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;btn-group&quot; role=&quot;group&quot; aria-label=&quot;Button group with nested dropdown&quot;&gt;
-               &lt;button type=&quot;button&quot; class=&quot;btn btn-danger&quot;&gt;Danger&lt;/button&gt;
-               &lt;div class=&quot;btn-group&quot; role=&quot;group&quot;&gt;
-                  &lt;button id=&quot;btnGroupDrop4&quot; type=&quot;button&quot; class=&quot;btn btn-danger dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;&lt;/button&gt;
-                  &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;btnGroupDrop4&quot;&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Dropdown link&lt;/a&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Dropdown link&lt;/a&gt;
-                  &lt;/div&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Large button&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;Default button&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;Small button&lt;/button&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-lg-5&quot;&gt;
-         &lt;p class=&quot;bs-component&quot;&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-primary btn-lg btn-block&quot;&gt;Block level button&lt;/button&gt;
-         &lt;/p&gt;
-         &lt;div class=&quot;bs-component&quot; style=&quot;margin-bottom: 15px;&quot;&gt;
-            &lt;div class=&quot;btn-group btn-group-toggle&quot; data-toggle=&quot;buttons&quot;&gt;
-               &lt;label class=&quot;btn btn-primary active&quot;&gt;
-               &lt;input type=&quot;checkbox&quot; checked=&quot;&quot; autocomplete=&quot;off&quot; /&gt; Active
-               &lt;/label&gt;
-               &lt;label class=&quot;btn btn-primary&quot;&gt;
-               &lt;input type=&quot;checkbox&quot; autocomplete=&quot;off&quot; /&gt; Check
-               &lt;/label&gt;
-               &lt;label class=&quot;btn btn-primary&quot;&gt;
-               &lt;input type=&quot;checkbox&quot; autocomplete=&quot;off&quot; /&gt; Check
-               &lt;/label&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-         &lt;div class=&quot;bs-component&quot; style=&quot;margin-bottom: 15px;&quot;&gt;
-            &lt;div class=&quot;btn-group btn-group-toggle&quot; data-toggle=&quot;buttons&quot;&gt;
-               &lt;label class=&quot;btn btn-primary active&quot;&gt;
-               &lt;input type=&quot;radio&quot; name=&quot;options&quot; id=&quot;option1&quot; autocomplete=&quot;off&quot; checked=&quot;&quot; /&gt; Active
-               &lt;/label&gt;
-               &lt;label class=&quot;btn btn-primary&quot;&gt;
-               &lt;input type=&quot;radio&quot; name=&quot;options&quot; id=&quot;option2&quot; autocomplete=&quot;off&quot; /&gt; Radio
-               &lt;/label&gt;
-               &lt;label class=&quot;btn btn-primary&quot;&gt;
-               &lt;input type=&quot;radio&quot; name=&quot;options&quot; id=&quot;option3&quot; autocomplete=&quot;off&quot; /&gt; Radio
-               &lt;/label&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;btn-group-vertical&quot;&gt;
-               &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;Button&lt;/button&gt;
-               &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;Button&lt;/button&gt;
-               &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;Button&lt;/button&gt;
-               &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;Button&lt;/button&gt;
-               &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;Button&lt;/button&gt;
-               &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;Button&lt;/button&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-         &lt;div class=&quot;bs-component&quot; style=&quot;margin-bottom: 15px;&quot;&gt;
-            &lt;div class=&quot;btn-group&quot; role=&quot;group&quot; aria-label=&quot;Basic example&quot;&gt;
-               &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot;&gt;Left&lt;/button&gt;
-               &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot;&gt;Middle&lt;/button&gt;
-               &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot;&gt;Right&lt;/button&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-         &lt;div class=&quot;bs-component&quot; style=&quot;margin-bottom: 15px;&quot;&gt;
-            &lt;div class=&quot;btn-toolbar&quot; role=&quot;toolbar&quot; aria-label=&quot;Toolbar with button groups&quot;&gt;
-               &lt;div class=&quot;btn-group mr-2&quot; role=&quot;group&quot; aria-label=&quot;First group&quot;&gt;
-                  &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot;&gt;1&lt;/button&gt;
-                  &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot;&gt;2&lt;/button&gt;
-                  &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot;&gt;3&lt;/button&gt;
-                  &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot;&gt;4&lt;/button&gt;
-               &lt;/div&gt;
-               &lt;div class=&quot;btn-group mr-2&quot; role=&quot;group&quot; aria-label=&quot;Second group&quot;&gt;
-                  &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot;&gt;5&lt;/button&gt;
-                  &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot;&gt;6&lt;/button&gt;
-                  &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot;&gt;7&lt;/button&gt;
-               &lt;/div&gt;
-               &lt;div class=&quot;btn-group&quot; role=&quot;group&quot; aria-label=&quot;Third group&quot;&gt;
-                  &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot;&gt;8&lt;/button&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bs-docs-section&quot;&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-12&quot;&gt;
-         &lt;div class=&quot;page-header&quot;&gt;
-            &lt;h2 id=&quot;typography&quot;&gt;Typography&lt;/h2&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-   &lt;!-- Headings --&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-4&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;h1&gt;Heading 1&lt;/h1&gt;
-            &lt;h2&gt;Heading 2&lt;/h2&gt;
-            &lt;h3&gt;Heading 3&lt;/h3&gt;
-            &lt;h4&gt;Heading 4&lt;/h4&gt;
-            &lt;h5&gt;Heading 5&lt;/h5&gt;
-            &lt;h6&gt;Heading 6&lt;/h6&gt;
-            &lt;h4&gt;
-               Heading
-               &lt;small class=&quot;text-muted&quot;&gt;with muted text&lt;/small&gt;
-            &lt;/h4&gt;
-            &lt;p class=&quot;lead&quot;&gt;Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.&lt;/p&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-lg-4&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;h3&gt;Example body text&lt;/h3&gt;
-            &lt;p&gt;Nullam quis risus eget &lt;a href=&quot;#&quot;&gt;urna mollis ornare&lt;/a&gt; vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula.&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;This line of text is meant to be treated as fine print.&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;The following is &lt;strong&gt;rendered as bold text&lt;/strong&gt;.&lt;/p&gt;
-            &lt;p&gt;The following is &lt;em&gt;rendered as italicized text&lt;/em&gt;.&lt;/p&gt;
-            &lt;p&gt;An abbreviation of the word attribute is &lt;abbr title=&quot;attribute&quot;&gt;attr&lt;/abbr&gt;.&lt;/p&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-lg-4&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;h3&gt;Emphasis classes&lt;/h3&gt;
-            &lt;p class=&quot;text-muted&quot;&gt;Fusce dapibus, tellus ac cursus commodo, tortor mauris nibh.&lt;/p&gt;
-            &lt;p class=&quot;text-primary&quot;&gt;Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
-            &lt;p class=&quot;text-secondary&quot;&gt;Pellentesque ornare sem lacinia quam venenatis vestibulum.&lt;/p&gt;
-            &lt;p class=&quot;text-warning&quot;&gt;Etiam porta sem malesuada magna mollis euismod.&lt;/p&gt;
-            &lt;p class=&quot;text-danger&quot;&gt;Donec ullamcorper nulla non metus auctor fringilla.&lt;/p&gt;
-            &lt;p class=&quot;text-success&quot;&gt;Duis mollis, est non commodo luctus, nisi erat porttitor ligula.&lt;/p&gt;
-            &lt;p class=&quot;text-info&quot;&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/p&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-   &lt;!-- Blockquotes --&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-12&quot;&gt;
-         &lt;h3 id=&quot;type-blockquotes&quot;&gt;Blockquotes&lt;/h3&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-4&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;blockquote class=&quot;blockquote&quot;&gt;
-               &lt;p class=&quot;mb-0&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.&lt;/p&gt;
-               &lt;footer class=&quot;blockquote-footer&quot;&gt;Someone famous in &lt;cite title=&quot;Source Title&quot;&gt;Source Title&lt;/cite&gt;&lt;/footer&gt;
-            &lt;/blockquote&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-lg-4&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;blockquote class=&quot;blockquote text-center&quot;&gt;
-               &lt;p class=&quot;mb-0&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.&lt;/p&gt;
-               &lt;footer class=&quot;blockquote-footer&quot;&gt;Someone famous in &lt;cite title=&quot;Source Title&quot;&gt;Source Title&lt;/cite&gt;&lt;/footer&gt;
-            &lt;/blockquote&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-lg-4&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;blockquote class=&quot;blockquote text-right&quot;&gt;
-               &lt;p class=&quot;mb-0&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.&lt;/p&gt;
-               &lt;footer class=&quot;blockquote-footer&quot;&gt;Someone famous in &lt;cite title=&quot;Source Title&quot;&gt;Source Title&lt;/cite&gt;&lt;/footer&gt;
-            &lt;/blockquote&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bs-docs-section&quot;&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-12&quot;&gt;
-         &lt;div class=&quot;page-header&quot;&gt;
-            &lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
-         &lt;/div&gt;
-         &lt;div class=&quot;bs-component table-responsive&quot;&gt;
-            &lt;table class=&quot;table table-hover&quot;&gt;
-               &lt;thead&gt;
-                  &lt;tr&gt;
-                     &lt;th scope=&quot;col&quot;&gt;Type&lt;/th&gt;
-                     &lt;th scope=&quot;col&quot;&gt;Column heading&lt;/th&gt;
-                     &lt;th scope=&quot;col&quot;&gt;Column heading&lt;/th&gt;
-                     &lt;th scope=&quot;col&quot;&gt;Column heading&lt;/th&gt;
-                  &lt;/tr&gt;
-               &lt;/thead&gt;
-               &lt;tbody&gt;
-                  &lt;tr class=&quot;table-active&quot;&gt;
-                     &lt;th scope=&quot;row&quot;&gt;Active&lt;/th&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                  &lt;/tr&gt;
-                  &lt;tr&gt;
-                     &lt;th scope=&quot;row&quot;&gt;Default&lt;/th&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                  &lt;/tr&gt;
-                  &lt;tr class=&quot;table-primary&quot;&gt;
-                     &lt;th scope=&quot;row&quot;&gt;Primary&lt;/th&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                  &lt;/tr&gt;
-                  &lt;tr class=&quot;table-secondary&quot;&gt;
-                     &lt;th scope=&quot;row&quot;&gt;Secondary&lt;/th&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                  &lt;/tr&gt;
-                  &lt;tr class=&quot;table-success&quot;&gt;
-                     &lt;th scope=&quot;row&quot;&gt;Success&lt;/th&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                  &lt;/tr&gt;
-                  &lt;tr class=&quot;table-danger&quot;&gt;
-                     &lt;th scope=&quot;row&quot;&gt;Danger&lt;/th&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                  &lt;/tr&gt;
-                  &lt;tr class=&quot;table-warning&quot;&gt;
-                     &lt;th scope=&quot;row&quot;&gt;Warning&lt;/th&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                  &lt;/tr&gt;
-                  &lt;tr class=&quot;table-info&quot;&gt;
-                     &lt;th scope=&quot;row&quot;&gt;Info&lt;/th&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                  &lt;/tr&gt;
-                  &lt;tr class=&quot;table-light&quot;&gt;
-                     &lt;th scope=&quot;row&quot;&gt;Light&lt;/th&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                  &lt;/tr&gt;
-                  &lt;tr class=&quot;table-dark&quot;&gt;
-                     &lt;th scope=&quot;row&quot;&gt;Dark&lt;/th&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                     &lt;td&gt;Column content&lt;/td&gt;
-                  &lt;/tr&gt;
-               &lt;/tbody&gt;
-            &lt;/table&gt;
-         &lt;/div&gt;
-         &lt;div&gt;
-            &lt;table&gt;
-              &lt;thead&gt;
-                &lt;tr&gt;
-                  &lt;th&gt;Header&lt;/th&gt;
-                  &lt;th&gt;Header&lt;/th&gt;
-                  &lt;th&gt;Header&lt;/th&gt;
-                  &lt;th&gt;Header&lt;/th&gt;
-                  &lt;th&gt;Header&lt;/th&gt;
-                  &lt;th&gt;Header&lt;/th&gt;
-                  &lt;th&gt;Header&lt;/th&gt;
-                  &lt;th&gt;Header&lt;/th&gt;
-                  &lt;th&gt;Header&lt;/th&gt;
-                  &lt;th&gt;Header&lt;/th&gt;
-                  &lt;th&gt;Header&lt;/th&gt;
-                  &lt;th&gt;Header&lt;/th&gt;
-                  &lt;th&gt;Header&lt;/th&gt;
-                  &lt;th&gt;Header&lt;/th&gt;
-                  &lt;th&gt;Header&lt;/th&gt;
-                &lt;/tr&gt;
-              &lt;/thead&gt;
-              &lt;tbody&gt;
-                &lt;tr&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                  &lt;td&gt;Cell&lt;/td&gt;
-                &lt;/tr&gt;
-              &lt;/tbody&gt;
-            &lt;/table&gt;
-         &lt;/div&gt;
-         &lt;!-- /example --&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bs-docs-section&quot;&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-12&quot;&gt;
-         &lt;div class=&quot;page-header&quot;&gt;
-            &lt;h2 id=&quot;forms&quot;&gt;Forms&lt;/h2&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-6&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;form&gt;
-               &lt;fieldset&gt;
-                  &lt;legend&gt;Legend&lt;/legend&gt;
-                  &lt;div class=&quot;form-group row&quot;&gt;
-                     &lt;label for=&quot;staticEmail&quot; class=&quot;col-sm-2 col-form-label&quot;&gt;Email&lt;/label&gt;
-                     &lt;div class=&quot;col-sm-10&quot;&gt;
-                        &lt;input type=&quot;text&quot; readonly=&quot;&quot; class=&quot;form-control-plaintext&quot; id=&quot;staticEmail&quot; value=&quot;email@example.com&quot; /&gt;
-                     &lt;/div&gt;
-                  &lt;/div&gt;
-                  &lt;div class=&quot;form-group&quot;&gt;
-                     &lt;label for=&quot;exampleInputEmail1&quot;&gt;Email address&lt;/label&gt;
-                     &lt;input type=&quot;email&quot; class=&quot;form-control&quot; id=&quot;exampleInputEmail1&quot; aria-describedby=&quot;emailHelp&quot; placeholder=&quot;Enter email&quot; /&gt;
-                     &lt;small id=&quot;emailHelp&quot; class=&quot;form-text text-muted&quot;&gt;We&#39;ll never share your email with anyone else.&lt;/small&gt;
-                  &lt;/div&gt;
-                  &lt;div class=&quot;form-group&quot;&gt;
-                     &lt;label for=&quot;exampleInputPassword1&quot;&gt;Password&lt;/label&gt;
-                     &lt;input type=&quot;password&quot; class=&quot;form-control&quot; id=&quot;exampleInputPassword1&quot; placeholder=&quot;Password&quot; /&gt;
-                  &lt;/div&gt;
-                  &lt;div class=&quot;form-group&quot;&gt;
-                     &lt;label for=&quot;exampleSelect1&quot;&gt;Example select&lt;/label&gt;
-                     &lt;select class=&quot;form-control&quot; id=&quot;exampleSelect1&quot;&gt;
-                        &lt;option&gt;1&lt;/option&gt;
-                        &lt;option&gt;2&lt;/option&gt;
-                        &lt;option&gt;3&lt;/option&gt;
-                        &lt;option&gt;4&lt;/option&gt;
-                        &lt;option&gt;5&lt;/option&gt;
-                     &lt;/select&gt;
-                  &lt;/div&gt;
-                  &lt;div class=&quot;form-group&quot;&gt;
-                     &lt;label for=&quot;exampleSelect2&quot;&gt;Example multiple select&lt;/label&gt;
-                     &lt;select multiple=&quot;&quot; class=&quot;form-control&quot; id=&quot;exampleSelect2&quot;&gt;
-                        &lt;option&gt;1&lt;/option&gt;
-                        &lt;option&gt;2&lt;/option&gt;
-                        &lt;option&gt;3&lt;/option&gt;
-                        &lt;option&gt;4&lt;/option&gt;
-                        &lt;option&gt;5&lt;/option&gt;
-                     &lt;/select&gt;
-                  &lt;/div&gt;
-                  &lt;div class=&quot;form-group&quot;&gt;
-                     &lt;label for=&quot;exampleTextarea&quot;&gt;Example textarea&lt;/label&gt;
-                     &lt;textarea class=&quot;form-control&quot; id=&quot;exampleTextarea&quot; rows=&quot;3&quot;&gt;&lt;/textarea&gt;
-                  &lt;/div&gt;
-                  &lt;div class=&quot;form-group&quot;&gt;
-                     &lt;label for=&quot;exampleInputFile&quot;&gt;File input&lt;/label&gt;
-                     &lt;input type=&quot;file&quot; class=&quot;form-control-file&quot; id=&quot;exampleInputFile&quot; aria-describedby=&quot;fileHelp&quot; /&gt;
-                     &lt;small id=&quot;fileHelp&quot; class=&quot;form-text text-muted&quot;&gt;This is some placeholder block-level help text for the above input. It&#39;s a bit lighter and easily wraps to a new line.&lt;/small&gt;
-                  &lt;/div&gt;
-                  &lt;fieldset class=&quot;form-group&quot;&gt;
-                     &lt;legend&gt;Radio buttons&lt;/legend&gt;
-                     &lt;div class=&quot;form-check&quot;&gt;
-                        &lt;label class=&quot;form-check-label&quot;&gt;
-                        &lt;input type=&quot;radio&quot; class=&quot;form-check-input&quot; name=&quot;optionsRadios&quot; id=&quot;optionsRadios1&quot; value=&quot;option1&quot; checked=&quot;&quot; /&gt;
-                        Option one is this and that&amp;mdash;be sure to include why it&#39;s great
-                        &lt;/label&gt;
-                     &lt;/div&gt;
-                     &lt;div class=&quot;form-check&quot;&gt;
-                        &lt;label class=&quot;form-check-label&quot;&gt;
-                        &lt;input type=&quot;radio&quot; class=&quot;form-check-input&quot; name=&quot;optionsRadios&quot; id=&quot;optionsRadios2&quot; value=&quot;option2&quot; /&gt;
-                        Option two can be something else and selecting it will deselect option one
-                        &lt;/label&gt;
-                     &lt;/div&gt;
-                     &lt;div class=&quot;form-check disabled&quot;&gt;
-                        &lt;label class=&quot;form-check-label&quot;&gt;
-                        &lt;input type=&quot;radio&quot; class=&quot;form-check-input&quot; name=&quot;optionsRadios&quot; id=&quot;optionsRadios3&quot; value=&quot;option3&quot; disabled=&quot;&quot; /&gt;
-                        Option three is disabled
-                        &lt;/label&gt;
-                     &lt;/div&gt;
-                  &lt;/fieldset&gt;
-                  &lt;fieldset class=&quot;form-group&quot;&gt;
-                     &lt;legend&gt;Checkboxes&lt;/legend&gt;
-                     &lt;div class=&quot;form-check&quot;&gt;
-                        &lt;label class=&quot;form-check-label&quot;&gt;
-                        &lt;input class=&quot;form-check-input&quot; type=&quot;checkbox&quot; value=&quot;&quot; checked=&quot;&quot; /&gt;
-                        Option one is this and that&amp;mdash;be sure to include why it&#39;s great
-                        &lt;/label&gt;
-                     &lt;/div&gt;
-                     &lt;div class=&quot;form-check disabled&quot;&gt;
-                        &lt;label class=&quot;form-check-label&quot;&gt;
-                        &lt;input class=&quot;form-check-input&quot; type=&quot;checkbox&quot; value=&quot;&quot; disabled=&quot;&quot; /&gt;
-                        Option two is disabled
-                        &lt;/label&gt;
-                     &lt;/div&gt;
-                  &lt;/fieldset&gt;
-                  &lt;fieldset class=&quot;form-group&quot;&gt;
-                     &lt;legend&gt;Sliders&lt;/legend&gt;
-                     &lt;label for=&quot;customRange1&quot;&gt;Example range&lt;/label&gt;
-                     &lt;input type=&quot;range&quot; class=&quot;custom-range&quot; id=&quot;customRange1&quot; /&gt;
-                  &lt;/fieldset&gt;
-                  &lt;button type=&quot;submit&quot; class=&quot;btn btn-primary&quot;&gt;Submit&lt;/button&gt;
-               &lt;/fieldset&gt;
-            &lt;/form&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-lg-4 offset-lg-1&quot;&gt;
-         &lt;form class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;form-group&quot;&gt;
-               &lt;fieldset disabled=&quot;&quot;&gt;
-                  &lt;label class=&quot;control-label&quot; for=&quot;disabledInput&quot;&gt;Disabled input&lt;/label&gt;
-                  &lt;input class=&quot;form-control&quot; id=&quot;disabledInput&quot; type=&quot;text&quot; placeholder=&quot;Disabled input here...&quot; disabled=&quot;&quot; /&gt;
-               &lt;/fieldset&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;form-group&quot;&gt;
-               &lt;fieldset&gt;
-                  &lt;label class=&quot;control-label&quot; for=&quot;readOnlyInput&quot;&gt;Readonly input&lt;/label&gt;
-                  &lt;input class=&quot;form-control&quot; id=&quot;readOnlyInput&quot; type=&quot;text&quot; placeholder=&quot;Readonly input here…&quot; readonly=&quot;&quot; /&gt;
-               &lt;/fieldset&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;form-group has-success&quot;&gt;
-               &lt;label class=&quot;form-control-label&quot; for=&quot;inputSuccess1&quot;&gt;Valid input&lt;/label&gt;
-               &lt;input type=&quot;text&quot; value=&quot;correct value&quot; class=&quot;form-control is-valid&quot; id=&quot;inputValid&quot; /&gt;
-               &lt;div class=&quot;valid-feedback&quot;&gt;Success! You&#39;ve done it.&lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;form-group has-danger&quot;&gt;
-               &lt;label class=&quot;form-control-label&quot; for=&quot;inputDanger1&quot;&gt;Invalid input&lt;/label&gt;
-               &lt;input type=&quot;text&quot; value=&quot;wrong value&quot; class=&quot;form-control is-invalid&quot; id=&quot;inputInvalid&quot; /&gt;
-               &lt;div class=&quot;invalid-feedback&quot;&gt;Sorry, that username&#39;s taken. Try another?&lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;form-group&quot;&gt;
-               &lt;label class=&quot;col-form-label col-form-label-lg&quot; for=&quot;inputLarge&quot;&gt;Large input&lt;/label&gt;
-               &lt;input class=&quot;form-control form-control-lg&quot; type=&quot;text&quot; placeholder=&quot;.form-control-lg&quot; id=&quot;inputLarge&quot; /&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;form-group&quot;&gt;
-               &lt;label class=&quot;col-form-label&quot; for=&quot;inputDefault&quot;&gt;Default input&lt;/label&gt;
-               &lt;input type=&quot;text&quot; class=&quot;form-control&quot; placeholder=&quot;Default input&quot; id=&quot;inputDefault&quot; /&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;form-group&quot;&gt;
-               &lt;label class=&quot;col-form-label col-form-label-sm&quot; for=&quot;inputSmall&quot;&gt;Small input&lt;/label&gt;
-               &lt;input class=&quot;form-control form-control-sm&quot; type=&quot;text&quot; placeholder=&quot;.form-control-sm&quot; id=&quot;inputSmall&quot; /&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;form-group&quot;&gt;
-               &lt;label class=&quot;control-label&quot;&gt;Input addons&lt;/label&gt;
-               &lt;div class=&quot;form-group&quot;&gt;
-                  &lt;div class=&quot;input-group mb-3&quot;&gt;
-                     &lt;div class=&quot;input-group-prepend&quot;&gt;
-                        &lt;span class=&quot;input-group-text&quot;&gt;$&lt;/span&gt;
-                     &lt;/div&gt;
-                     &lt;input type=&quot;text&quot; class=&quot;form-control&quot; aria-label=&quot;Amount (to the nearest dollar)&quot; /&gt;
-                     &lt;div class=&quot;input-group-append&quot;&gt;
-                        &lt;span class=&quot;input-group-text&quot;&gt;.00&lt;/span&gt;
-                     &lt;/div&gt;
-                  &lt;/div&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-         &lt;/form&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;fieldset&gt;
-               &lt;legend&gt;Custom forms&lt;/legend&gt;
-               &lt;div class=&quot;form-group&quot;&gt;
-                  &lt;div class=&quot;custom-control custom-radio&quot;&gt;
-                     &lt;input type=&quot;radio&quot; id=&quot;customRadio1&quot; name=&quot;customRadio&quot; class=&quot;custom-control-input&quot; checked=&quot;&quot; /&gt;
-                     &lt;label class=&quot;custom-control-label&quot; for=&quot;customRadio1&quot;&gt;Toggle this custom radio&lt;/label&gt;
-                  &lt;/div&gt;
-                  &lt;div class=&quot;custom-control custom-radio&quot;&gt;
-                     &lt;input type=&quot;radio&quot; id=&quot;customRadio2&quot; name=&quot;customRadio&quot; class=&quot;custom-control-input&quot; /&gt;
-                     &lt;label class=&quot;custom-control-label&quot; for=&quot;customRadio2&quot;&gt;Or toggle this other custom radio&lt;/label&gt;
-                  &lt;/div&gt;
-                  &lt;div class=&quot;custom-control custom-radio&quot;&gt;
-                     &lt;input type=&quot;radio&quot; id=&quot;customRadio3&quot; name=&quot;customRadio&quot; class=&quot;custom-control-input&quot; disabled=&quot;&quot; /&gt;
-                     &lt;label class=&quot;custom-control-label&quot; for=&quot;customRadio3&quot;&gt;Disabled custom radio&lt;/label&gt;
-                  &lt;/div&gt;
-               &lt;/div&gt;
-               &lt;div class=&quot;form-group&quot;&gt;
-                  &lt;div class=&quot;custom-control custom-checkbox&quot;&gt;
-                     &lt;input type=&quot;checkbox&quot; class=&quot;custom-control-input&quot; id=&quot;customCheck1&quot; checked=&quot;&quot; /&gt;
-                     &lt;label class=&quot;custom-control-label&quot; for=&quot;customCheck1&quot;&gt;Check this custom checkbox&lt;/label&gt;
-                  &lt;/div&gt;
-                  &lt;div class=&quot;custom-control custom-checkbox&quot;&gt;
-                     &lt;input type=&quot;checkbox&quot; class=&quot;custom-control-input&quot; id=&quot;customCheck2&quot; disabled=&quot;&quot; /&gt;
-                     &lt;label class=&quot;custom-control-label&quot; for=&quot;customCheck2&quot;&gt;Disabled custom checkbox&lt;/label&gt;
-                  &lt;/div&gt;
-               &lt;/div&gt;
-               &lt;div class=&quot;form-group&quot;&gt;
-                  &lt;div class=&quot;custom-control custom-switch&quot;&gt;
-                     &lt;input type=&quot;checkbox&quot; class=&quot;custom-control-input&quot; id=&quot;customSwitch1&quot; checked=&quot;&quot; /&gt;
-                     &lt;label class=&quot;custom-control-label&quot; for=&quot;customSwitch1&quot;&gt;Toggle this switch element&lt;/label&gt;
-                  &lt;/div&gt;
-                  &lt;div class=&quot;custom-control custom-switch&quot;&gt;
-                     &lt;input type=&quot;checkbox&quot; class=&quot;custom-control-input&quot; disabled=&quot;&quot; id=&quot;customSwitch2&quot; /&gt;
-                     &lt;label class=&quot;custom-control-label&quot; for=&quot;customSwitch2&quot;&gt;Disabled switch element&lt;/label&gt;
-                  &lt;/div&gt;
-               &lt;/div&gt;
-               &lt;div class=&quot;form-group&quot;&gt;
-                  &lt;select class=&quot;custom-select&quot;&gt;
-                     &lt;option selected=&quot;&quot;&gt;Open this select menu&lt;/option&gt;
-                     &lt;option value=&quot;1&quot;&gt;One&lt;/option&gt;
-                     &lt;option value=&quot;2&quot;&gt;Two&lt;/option&gt;
-                     &lt;option value=&quot;3&quot;&gt;Three&lt;/option&gt;
-                  &lt;/select&gt;
-               &lt;/div&gt;
-               &lt;div class=&quot;form-group&quot;&gt;
-                  &lt;div class=&quot;input-group mb-3&quot;&gt;
-                     &lt;div class=&quot;custom-file&quot;&gt;
-                        &lt;input type=&quot;file&quot; class=&quot;custom-file-input&quot; id=&quot;inputGroupFile02&quot; /&gt;
-                        &lt;label class=&quot;custom-file-label&quot; for=&quot;inputGroupFile02&quot;&gt;Choose file&lt;/label&gt;
-                     &lt;/div&gt;
-                     &lt;div class=&quot;input-group-append&quot;&gt;
-                        &lt;span class=&quot;input-group-text&quot;&gt;Upload&lt;/span&gt;
-                     &lt;/div&gt;
-                  &lt;/div&gt;
-               &lt;/div&gt;
-            &lt;/fieldset&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bs-docs-section&quot;&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-12&quot;&gt;
-         &lt;div class=&quot;page-header&quot;&gt;
-            &lt;h2 id=&quot;navs&quot;&gt;Navs&lt;/h2&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-   &lt;div class=&quot;row&quot; style=&quot;margin-bottom: 2rem;&quot;&gt;
-      &lt;div class=&quot;col-lg-6&quot;&gt;
-         &lt;h3 id=&quot;nav-tabs&quot;&gt;Tabs&lt;/h3&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;ul class=&quot;nav nav-tabs&quot;&gt;
-               &lt;li class=&quot;nav-item&quot;&gt;
-                  &lt;a class=&quot;nav-link active&quot; data-toggle=&quot;tab&quot; href=&quot;#home&quot;&gt;Home&lt;/a&gt;
-               &lt;/li&gt;
-               &lt;li class=&quot;nav-item&quot;&gt;
-                  &lt;a class=&quot;nav-link&quot; data-toggle=&quot;tab&quot; href=&quot;#profile&quot;&gt;Profile&lt;/a&gt;
-               &lt;/li&gt;
-               &lt;li class=&quot;nav-item&quot;&gt;
-                  &lt;a class=&quot;nav-link disabled&quot; href=&quot;#&quot;&gt;Disabled&lt;/a&gt;
-               &lt;/li&gt;
-               &lt;li class=&quot;nav-item dropdown&quot;&gt;
-                  &lt;a class=&quot;nav-link dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot; role=&quot;button&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Dropdown&lt;/a&gt;
-                  &lt;div class=&quot;dropdown-menu&quot;&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
-                     &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Separated link&lt;/a&gt;
-                  &lt;/div&gt;
-               &lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;div id=&quot;myTabContent&quot; class=&quot;tab-content&quot;&gt;
-               &lt;div class=&quot;tab-pane fade show active&quot; id=&quot;home&quot;&gt;
-                  &lt;p&gt;Raw denim you probably haven&#39;t heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui.&lt;/p&gt;
-               &lt;/div&gt;
-               &lt;div class=&quot;tab-pane fade&quot; id=&quot;profile&quot;&gt;
-                  &lt;p&gt;Food truck fixie locavore, accusamus mcsweeney&#39;s marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit.&lt;/p&gt;
-               &lt;/div&gt;
-               &lt;div class=&quot;tab-pane fade&quot; id=&quot;dropdown1&quot;&gt;
-                  &lt;p&gt;Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney&#39;s organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer, iphone skateboard locavore carles etsy salvia banksy hoodie helvetica. DIY synth PBR banksy irony. Leggings gentrify squid 8-bit cred pitchfork.&lt;/p&gt;
-               &lt;/div&gt;
-               &lt;div class=&quot;tab-pane fade&quot; id=&quot;dropdown2&quot;&gt;
-                  &lt;p&gt;Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater.&lt;/p&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-lg-6&quot;&gt;
-         &lt;h3 id=&quot;nav-pills&quot;&gt;Pills&lt;/h3&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;ul class=&quot;nav nav-pills&quot;&gt;
-               &lt;li class=&quot;nav-item&quot;&gt;
-                  &lt;a class=&quot;nav-link active&quot; href=&quot;#&quot;&gt;Active&lt;/a&gt;
-               &lt;/li&gt;
-               &lt;li class=&quot;nav-item dropdown&quot;&gt;
-                  &lt;a class=&quot;nav-link dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot; role=&quot;button&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Dropdown&lt;/a&gt;
-                  &lt;div class=&quot;dropdown-menu&quot;&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
-                     &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Separated link&lt;/a&gt;
-                  &lt;/div&gt;
-               &lt;/li&gt;
-               &lt;li class=&quot;nav-item&quot;&gt;
-                  &lt;a class=&quot;nav-link&quot; href=&quot;#&quot;&gt;Link&lt;/a&gt;
-               &lt;/li&gt;
-               &lt;li class=&quot;nav-item&quot;&gt;
-                  &lt;a class=&quot;nav-link disabled&quot; href=&quot;#&quot;&gt;Disabled&lt;/a&gt;
-               &lt;/li&gt;
-            &lt;/ul&gt;
-         &lt;/div&gt;
-         &lt;br /&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;ul class=&quot;nav nav-pills flex-column&quot;&gt;
-               &lt;li class=&quot;nav-item&quot;&gt;
-                  &lt;a class=&quot;nav-link active&quot; href=&quot;#&quot;&gt;Active&lt;/a&gt;
-               &lt;/li&gt;
-               &lt;li class=&quot;nav-item dropdown&quot;&gt;
-                  &lt;a class=&quot;nav-link dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot; role=&quot;button&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Dropdown&lt;/a&gt;
-                  &lt;div class=&quot;dropdown-menu&quot;&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
-                     &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;
-                     &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Separated link&lt;/a&gt;
-                  &lt;/div&gt;
-               &lt;/li&gt;
-               &lt;li class=&quot;nav-item&quot;&gt;
-                  &lt;a class=&quot;nav-link&quot; href=&quot;#&quot;&gt;Link&lt;/a&gt;
-               &lt;/li&gt;
-               &lt;li class=&quot;nav-item&quot;&gt;
-                  &lt;a class=&quot;nav-link disabled&quot; href=&quot;#&quot;&gt;Disabled&lt;/a&gt;
-               &lt;/li&gt;
-            &lt;/ul&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-6&quot;&gt;
-         &lt;h3 id=&quot;nav-breadcrumbs&quot;&gt;Breadcrumbs&lt;/h3&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;ol class=&quot;breadcrumb&quot;&gt;
-               &lt;li class=&quot;breadcrumb-item active&quot;&gt;Home&lt;/li&gt;
-            &lt;/ol&gt;
-            &lt;ol class=&quot;breadcrumb&quot;&gt;
-               &lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;#&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
-               &lt;li class=&quot;breadcrumb-item active&quot;&gt;Library&lt;/li&gt;
-            &lt;/ol&gt;
-            &lt;ol class=&quot;breadcrumb&quot;&gt;
-               &lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;#&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
-               &lt;li class=&quot;breadcrumb-item&quot;&gt;&lt;a href=&quot;#&quot;&gt;Library&lt;/a&gt;&lt;/li&gt;
-               &lt;li class=&quot;breadcrumb-item active&quot;&gt;Data&lt;/li&gt;
-            &lt;/ol&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-lg-6&quot;&gt;
-         &lt;h3 id=&quot;pagination&quot;&gt;Pagination&lt;/h3&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div&gt;
-               &lt;ul class=&quot;pagination&quot;&gt;
-                  &lt;li class=&quot;page-item disabled&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;&amp;laquo;&lt;/a&gt;
-                  &lt;/li&gt;
-                  &lt;li class=&quot;page-item active&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;1&lt;/a&gt;
-                  &lt;/li&gt;
-                  &lt;li class=&quot;page-item&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;2&lt;/a&gt;
-                  &lt;/li&gt;
-                  &lt;li class=&quot;page-item&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;3&lt;/a&gt;
-                  &lt;/li&gt;
-                  &lt;li class=&quot;page-item&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;4&lt;/a&gt;
-                  &lt;/li&gt;
-                  &lt;li class=&quot;page-item&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;5&lt;/a&gt;
-                  &lt;/li&gt;
-                  &lt;li class=&quot;page-item&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;&amp;raquo;&lt;/a&gt;
-                  &lt;/li&gt;
-               &lt;/ul&gt;
-            &lt;/div&gt;
-            &lt;div&gt;
-               &lt;ul class=&quot;pagination pagination-lg&quot;&gt;
-                  &lt;li class=&quot;page-item disabled&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;&amp;laquo;&lt;/a&gt;
-                  &lt;/li&gt;
-                  &lt;li class=&quot;page-item active&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;1&lt;/a&gt;
-                  &lt;/li&gt;
-                  &lt;li class=&quot;page-item&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;2&lt;/a&gt;
-                  &lt;/li&gt;
-                  &lt;li class=&quot;page-item&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;3&lt;/a&gt;
-                  &lt;/li&gt;
-                  &lt;li class=&quot;page-item&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;&amp;raquo;&lt;/a&gt;
-                  &lt;/li&gt;
-               &lt;/ul&gt;
-            &lt;/div&gt;
-            &lt;div&gt;
-               &lt;ul class=&quot;pagination pagination-sm&quot;&gt;
-                  &lt;li class=&quot;page-item disabled&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;&amp;laquo;&lt;/a&gt;
-                  &lt;/li&gt;
-                  &lt;li class=&quot;page-item active&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;1&lt;/a&gt;
-                  &lt;/li&gt;
-                  &lt;li class=&quot;page-item&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;2&lt;/a&gt;
-                  &lt;/li&gt;
-                  &lt;li class=&quot;page-item&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;3&lt;/a&gt;
-                  &lt;/li&gt;
-                  &lt;li class=&quot;page-item&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;4&lt;/a&gt;
-                  &lt;/li&gt;
-                  &lt;li class=&quot;page-item&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;5&lt;/a&gt;
-                  &lt;/li&gt;
-                  &lt;li class=&quot;page-item&quot;&gt;
-                     &lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;&amp;raquo;&lt;/a&gt;
-                  &lt;/li&gt;
-               &lt;/ul&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bs-docs-section&quot;&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-12&quot;&gt;
-         &lt;div class=&quot;page-header&quot;&gt;
-            &lt;h2 id=&quot;indicators&quot;&gt;Indicators&lt;/h2&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-12&quot;&gt;
-         &lt;h3&gt;Alerts&lt;/h3&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;alert alert-dismissible alert-warning&quot;&gt;
-               &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;alert&quot;&gt;&amp;times;&lt;/button&gt;
-               &lt;h5 class=&quot;alert-heading&quot;&gt;Warning!&lt;/h5&gt;
-               &lt;p class=&quot;mb-0&quot;&gt;Best check yo self, you&#39;re not looking too good. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, &lt;a href=&quot;#&quot; class=&quot;alert-link&quot;&gt;vel scelerisque nisl consectetur et&lt;/a&gt;.&lt;/p&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-4&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;alert alert-dismissible alert-danger&quot;&gt;
-               &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;alert&quot;&gt;&amp;times;&lt;/button&gt;
-               &lt;strong&gt;Oh snap!&lt;/strong&gt; &lt;a href=&quot;#&quot; class=&quot;alert-link&quot;&gt;Change a few things up&lt;/a&gt; and try submitting again.
-            &lt;/div&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-lg-4&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;alert alert-dismissible alert-success&quot;&gt;
-               &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;alert&quot;&gt;&amp;times;&lt;/button&gt;
-               &lt;strong&gt;Well done!&lt;/strong&gt; You successfully read &lt;a href=&quot;#&quot; class=&quot;alert-link&quot;&gt;this important alert message&lt;/a&gt;.
-            &lt;/div&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-lg-4&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;alert alert-dismissible alert-info&quot;&gt;
-               &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;alert&quot;&gt;&amp;times;&lt;/button&gt;
-               &lt;strong&gt;Heads up!&lt;/strong&gt; This &lt;a href=&quot;#&quot; class=&quot;alert-link&quot;&gt;alert needs your attention&lt;/a&gt;, but it&#39;s not super important.
-            &lt;/div&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-4&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;alert alert-dismissible alert-primary&quot;&gt;
-               &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;alert&quot;&gt;&amp;times;&lt;/button&gt;
-               &lt;strong&gt;Oh snap!&lt;/strong&gt; &lt;a href=&quot;#&quot; class=&quot;alert-link&quot;&gt;Change a few things up&lt;/a&gt; and try submitting again.
-            &lt;/div&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-lg-4&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;alert alert-dismissible alert-secondary&quot;&gt;
-               &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;alert&quot;&gt;&amp;times;&lt;/button&gt;
-               &lt;strong&gt;Well done!&lt;/strong&gt; You successfully read &lt;a href=&quot;#&quot; class=&quot;alert-link&quot;&gt;this important alert message&lt;/a&gt;.
-            &lt;/div&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-lg-4&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;alert alert-dismissible alert-light&quot;&gt;
-               &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;alert&quot;&gt;&amp;times;&lt;/button&gt;
-               &lt;strong&gt;Heads up!&lt;/strong&gt; This &lt;a href=&quot;#&quot; class=&quot;alert-link&quot;&gt;alert needs your attention&lt;/a&gt;, but it&#39;s not super important.
-            &lt;/div&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-   &lt;div&gt;
-      &lt;h3&gt;Badges&lt;/h3&gt;
-      &lt;div class=&quot;bs-component&quot; style=&quot;margin-bottom: 40px;&quot;&gt;
-         &lt;span class=&quot;badge badge-primary&quot;&gt;Primary&lt;/span&gt;
-         &lt;span class=&quot;badge badge-secondary&quot;&gt;Secondary&lt;/span&gt;
-         &lt;span class=&quot;badge badge-success&quot;&gt;Success&lt;/span&gt;
-         &lt;span class=&quot;badge badge-danger&quot;&gt;Danger&lt;/span&gt;
-         &lt;span class=&quot;badge badge-warning&quot;&gt;Warning&lt;/span&gt;
-         &lt;span class=&quot;badge badge-info&quot;&gt;Info&lt;/span&gt;
-         &lt;span class=&quot;badge badge-light&quot;&gt;Light&lt;/span&gt;
-         &lt;span class=&quot;badge badge-dark&quot;&gt;Dark&lt;/span&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;bs-component&quot;&gt;
-         &lt;span class=&quot;badge badge-pill badge-primary&quot;&gt;Primary&lt;/span&gt;
-         &lt;span class=&quot;badge badge-pill badge-secondary&quot;&gt;Secondary&lt;/span&gt;
-         &lt;span class=&quot;badge badge-pill badge-success&quot;&gt;Success&lt;/span&gt;
-         &lt;span class=&quot;badge badge-pill badge-danger&quot;&gt;Danger&lt;/span&gt;
-         &lt;span class=&quot;badge badge-pill badge-warning&quot;&gt;Warning&lt;/span&gt;
-         &lt;span class=&quot;badge badge-pill badge-info&quot;&gt;Info&lt;/span&gt;
-         &lt;span class=&quot;badge badge-pill badge-light&quot;&gt;Light&lt;/span&gt;
-         &lt;span class=&quot;badge badge-pill badge-dark&quot;&gt;Dark&lt;/span&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bs-docs-section&quot;&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-12&quot;&gt;
-         &lt;div class=&quot;page-header&quot;&gt;
-            &lt;h2 id=&quot;progress&quot;&gt;Progress&lt;/h2&gt;
-         &lt;/div&gt;
-         &lt;h3 id=&quot;progress-basic&quot;&gt;Basic&lt;/h3&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;progress&quot;&gt;
-               &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 25%;&quot; aria-valuenow=&quot;25&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;&lt;/div&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-         &lt;h3 id=&quot;progress-alternatives&quot;&gt;Contextual alternatives&lt;/h3&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;progress&quot;&gt;
-               &lt;div class=&quot;progress-bar bg-success&quot; role=&quot;progressbar&quot; style=&quot;width: 25%&quot; aria-valuenow=&quot;25&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;&lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;progress&quot;&gt;
-               &lt;div class=&quot;progress-bar bg-info&quot; role=&quot;progressbar&quot; style=&quot;width: 50%&quot; aria-valuenow=&quot;50&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;&lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;progress&quot;&gt;
-               &lt;div class=&quot;progress-bar bg-warning&quot; role=&quot;progressbar&quot; style=&quot;width: 75%&quot; aria-valuenow=&quot;75&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;&lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;progress&quot;&gt;
-               &lt;div class=&quot;progress-bar bg-danger&quot; role=&quot;progressbar&quot; style=&quot;width: 100%&quot; aria-valuenow=&quot;100&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;&lt;/div&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-         &lt;h3 id=&quot;progress-multiple&quot;&gt;Multiple bars&lt;/h3&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;progress&quot;&gt;
-               &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 15%&quot; aria-valuenow=&quot;15&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;&lt;/div&gt;
-               &lt;div class=&quot;progress-bar bg-success&quot; role=&quot;progressbar&quot; style=&quot;width: 30%&quot; aria-valuenow=&quot;30&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;&lt;/div&gt;
-               &lt;div class=&quot;progress-bar bg-info&quot; role=&quot;progressbar&quot; style=&quot;width: 20%&quot; aria-valuenow=&quot;20&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;&lt;/div&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-         &lt;h3 id=&quot;progress-striped&quot;&gt;Striped&lt;/h3&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;progress&quot;&gt;
-               &lt;div class=&quot;progress-bar progress-bar-striped&quot; role=&quot;progressbar&quot; style=&quot;width: 10%&quot; aria-valuenow=&quot;10&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;&lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;progress&quot;&gt;
-               &lt;div class=&quot;progress-bar progress-bar-striped bg-success&quot; role=&quot;progressbar&quot; style=&quot;width: 25%&quot; aria-valuenow=&quot;25&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;&lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;progress&quot;&gt;
-               &lt;div class=&quot;progress-bar progress-bar-striped bg-info&quot; role=&quot;progressbar&quot; style=&quot;width: 50%&quot; aria-valuenow=&quot;50&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;&lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;progress&quot;&gt;
-               &lt;div class=&quot;progress-bar progress-bar-striped bg-warning&quot; role=&quot;progressbar&quot; style=&quot;width: 75%&quot; aria-valuenow=&quot;75&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;&lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;progress&quot;&gt;
-               &lt;div class=&quot;progress-bar progress-bar-striped bg-danger&quot; role=&quot;progressbar&quot; style=&quot;width: 100%&quot; aria-valuenow=&quot;100&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;&lt;/div&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-         &lt;h4 id=&quot;progress-animated&quot;&gt;Animated&lt;/h4&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;progress&quot;&gt;
-               &lt;div class=&quot;progress-bar progress-bar-striped progress-bar-animated&quot; role=&quot;progressbar&quot; aria-valuenow=&quot;75&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width: 75%&quot;&gt;&lt;/div&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bs-docs-section&quot;&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-12&quot;&gt;
-         &lt;div class=&quot;page-header&quot;&gt;
-            &lt;h2 id=&quot;containers&quot;&gt;Containers&lt;/h2&gt;
-         &lt;/div&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;jumbotron&quot;&gt;
-               &lt;h2 class=&quot;display-3&quot;&gt;Hello, world!&lt;/h2&gt;
-               &lt;p class=&quot;lead&quot;&gt;This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.&lt;/p&gt;
-               &lt;hr class=&quot;my-4&quot; /&gt;
-               &lt;p&gt;It uses utility classes for typography and spacing to space content out within the larger container.&lt;/p&gt;
-               &lt;p class=&quot;lead&quot;&gt;
-                  &lt;a class=&quot;btn btn-primary btn-lg&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;Learn more&lt;/a&gt;
-               &lt;/p&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-12&quot;&gt;
-         &lt;h3&gt;List groups&lt;/h3&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-4&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;ul class=&quot;list-group&quot;&gt;
-               &lt;li class=&quot;list-group-item d-flex justify-content-between align-items-center&quot;&gt;
-                  Cras justo odio
-                  &lt;span class=&quot;badge badge-primary badge-pill&quot;&gt;14&lt;/span&gt;
-               &lt;/li&gt;
-               &lt;li class=&quot;list-group-item d-flex justify-content-between align-items-center&quot;&gt;
-                  Dapibus ac facilisis in
-                  &lt;span class=&quot;badge badge-primary badge-pill&quot;&gt;2&lt;/span&gt;
-               &lt;/li&gt;
-               &lt;li class=&quot;list-group-item d-flex justify-content-between align-items-center&quot;&gt;
-                  Morbi leo risus
-                  &lt;span class=&quot;badge badge-primary badge-pill&quot;&gt;1&lt;/span&gt;
-               &lt;/li&gt;
-            &lt;/ul&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-lg-4&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;list-group&quot;&gt;
-               &lt;a href=&quot;#&quot; class=&quot;list-group-item list-group-item-action active&quot;&gt;
-               Cras justo odio
-               &lt;/a&gt;
-               &lt;a href=&quot;#&quot; class=&quot;list-group-item list-group-item-action&quot;&gt;Dapibus ac facilisis in
-               &lt;/a&gt;
-               &lt;a href=&quot;#&quot; class=&quot;list-group-item list-group-item-action disabled&quot;&gt;Morbi leo risus
-               &lt;/a&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-lg-4&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;list-group&quot;&gt;
-               &lt;a href=&quot;#&quot; class=&quot;list-group-item list-group-item-action flex-column align-items-start active&quot;&gt;
-                  &lt;div class=&quot;d-flex w-100 justify-content-between&quot;&gt;
-                     &lt;h6 class=&quot;mb-1&quot;&gt;List group item heading&lt;/h6&gt;
-                     &lt;small&gt;3 days ago&lt;/small&gt;
-                  &lt;/div&gt;
-                  &lt;p class=&quot;mb-1&quot;&gt;Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.&lt;/p&gt;
-                  &lt;small&gt;Donec id elit non mi porta.&lt;/small&gt;
-               &lt;/a&gt;
-               &lt;a href=&quot;#&quot; class=&quot;list-group-item list-group-item-action flex-column align-items-start&quot;&gt;
-                  &lt;div class=&quot;d-flex w-100 justify-content-between&quot;&gt;
-                     &lt;h6 class=&quot;mb-1&quot;&gt;List group item heading&lt;/h6&gt;
-                     &lt;small class=&quot;text-muted&quot;&gt;3 days ago&lt;/small&gt;
-                  &lt;/div&gt;
-                  &lt;p class=&quot;mb-1&quot;&gt;Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.&lt;/p&gt;
-                  &lt;small class=&quot;text-muted&quot;&gt;Donec id elit non mi porta.&lt;/small&gt;
-               &lt;/a&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-12&quot;&gt;
-         &lt;h3&gt;Cards&lt;/h3&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-4&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;card text-white bg-primary mb-3&quot; style=&quot;max-width: 20rem;&quot;&gt;
-               &lt;div class=&quot;card-header&quot;&gt;Header&lt;/div&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;h5 class=&quot;card-title&quot;&gt;Primary card title&lt;/h5&gt;
-                  &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/p&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;card text-white bg-secondary mb-3&quot; style=&quot;max-width: 20rem;&quot;&gt;
-               &lt;div class=&quot;card-header&quot;&gt;Header&lt;/div&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;h5 class=&quot;card-title&quot;&gt;Secondary card title&lt;/h5&gt;
-                  &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/p&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;card text-white bg-success mb-3&quot; style=&quot;max-width: 20rem;&quot;&gt;
-               &lt;div class=&quot;card-header&quot;&gt;Header&lt;/div&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;h5 class=&quot;card-title&quot;&gt;Success card title&lt;/h5&gt;
-                  &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/p&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;card text-white bg-danger mb-3&quot; style=&quot;max-width: 20rem;&quot;&gt;
-               &lt;div class=&quot;card-header&quot;&gt;Header&lt;/div&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;h5 class=&quot;card-title&quot;&gt;Danger card title&lt;/h5&gt;
-                  &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/p&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;card text-white bg-warning mb-3&quot; style=&quot;max-width: 20rem;&quot;&gt;
-               &lt;div class=&quot;card-header&quot;&gt;Header&lt;/div&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;h5 class=&quot;card-title&quot;&gt;Warning card title&lt;/h5&gt;
-                  &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/p&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;card text-white bg-info mb-3&quot; style=&quot;max-width: 20rem;&quot;&gt;
-               &lt;div class=&quot;card-header&quot;&gt;Header&lt;/div&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;h5 class=&quot;card-title&quot;&gt;Info card title&lt;/h5&gt;
-                  &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/p&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;card bg-light mb-3&quot; style=&quot;max-width: 20rem;&quot;&gt;
-               &lt;div class=&quot;card-header&quot;&gt;Header&lt;/div&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;h5 class=&quot;card-title&quot;&gt;Light card title&lt;/h5&gt;
-                  &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/p&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;card text-white bg-dark mb-3&quot; style=&quot;max-width: 20rem;&quot;&gt;
-               &lt;div class=&quot;card-header&quot;&gt;Header&lt;/div&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;h5 class=&quot;card-title&quot;&gt;Dark card title&lt;/h5&gt;
-                  &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/p&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-lg-4&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;card border-primary mb-3&quot; style=&quot;max-width: 20rem;&quot;&gt;
-               &lt;div class=&quot;card-header&quot;&gt;Header&lt;/div&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;h5 class=&quot;card-title&quot;&gt;Primary card title&lt;/h5&gt;
-                  &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/p&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;card border-secondary mb-3&quot; style=&quot;max-width: 20rem;&quot;&gt;
-               &lt;div class=&quot;card-header&quot;&gt;Header&lt;/div&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;h5 class=&quot;card-title&quot;&gt;Secondary card title&lt;/h5&gt;
-                  &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/p&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;card border-success mb-3&quot; style=&quot;max-width: 20rem;&quot;&gt;
-               &lt;div class=&quot;card-header&quot;&gt;Header&lt;/div&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;h5 class=&quot;card-title&quot;&gt;Success card title&lt;/h5&gt;
-                  &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/p&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;card border-danger mb-3&quot; style=&quot;max-width: 20rem;&quot;&gt;
-               &lt;div class=&quot;card-header&quot;&gt;Header&lt;/div&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;h5 class=&quot;card-title&quot;&gt;Danger card title&lt;/h5&gt;
-                  &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/p&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;card border-warning mb-3&quot; style=&quot;max-width: 20rem;&quot;&gt;
-               &lt;div class=&quot;card-header&quot;&gt;Header&lt;/div&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;h5 class=&quot;card-title&quot;&gt;Warning card title&lt;/h5&gt;
-                  &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/p&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;card border-info mb-3&quot; style=&quot;max-width: 20rem;&quot;&gt;
-               &lt;div class=&quot;card-header&quot;&gt;Header&lt;/div&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;h5 class=&quot;card-title&quot;&gt;Info card title&lt;/h5&gt;
-                  &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/p&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;card border-light mb-3&quot; style=&quot;max-width: 20rem;&quot;&gt;
-               &lt;div class=&quot;card-header&quot;&gt;Header&lt;/div&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;h5 class=&quot;card-title&quot;&gt;Light card title&lt;/h5&gt;
-                  &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/p&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;card border-dark mb-3&quot; style=&quot;max-width: 20rem;&quot;&gt;
-               &lt;div class=&quot;card-header&quot;&gt;Header&lt;/div&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;h5 class=&quot;card-title&quot;&gt;Dark card title&lt;/h5&gt;
-                  &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/p&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;col-lg-4&quot;&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;card mb-3&quot;&gt;
-               &lt;h4 class=&quot;card-header&quot;&gt;Card header&lt;/h4&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;h6 class=&quot;card-title&quot;&gt;Special title treatment&lt;/h6&gt;
-                  &lt;h6 class=&quot;card-subtitle text-muted&quot;&gt;Support card subtitle&lt;/h6&gt;
-               &lt;/div&gt;
-               &lt;div style=&quot;height: 200px;background-position: center;background-repeat: no-repeat;background-size: cover;background-image: url(&#39;https://source.unsplash.com/1200x800/?madrid&#39;);&quot;&gt;&lt;/div&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/p&gt;
-               &lt;/div&gt;
-               &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-                  &lt;li class=&quot;list-group-item&quot;&gt;Cras justo odio&lt;/li&gt;
-                  &lt;li class=&quot;list-group-item&quot;&gt;Dapibus ac facilisis in&lt;/li&gt;
-                  &lt;li class=&quot;list-group-item&quot;&gt;Vestibulum at eros&lt;/li&gt;
-               &lt;/ul&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;a href=&quot;#&quot; class=&quot;card-link&quot;&gt;Card link&lt;/a&gt;
-                  &lt;a href=&quot;#&quot; class=&quot;card-link&quot;&gt;Another link&lt;/a&gt;
-               &lt;/div&gt;
-               &lt;div class=&quot;card-footer text-muted&quot;&gt;
-                  2 days ago
-               &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;card&quot;&gt;
-               &lt;div class=&quot;card-body&quot;&gt;
-                  &lt;h5 class=&quot;card-title&quot;&gt;Card title&lt;/h5&gt;
-                  &lt;h6 class=&quot;card-subtitle mb-2 text-muted&quot;&gt;Card subtitle&lt;/h6&gt;
-                  &lt;p class=&quot;card-text&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content.&lt;/p&gt;
-                  &lt;a href=&quot;#&quot; class=&quot;card-link&quot;&gt;Card link&lt;/a&gt;
-                  &lt;a href=&quot;#&quot; class=&quot;card-link&quot;&gt;Another link&lt;/a&gt;
-               &lt;/div&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bs-docs-section&quot;&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-12&quot;&gt;
-         &lt;div class=&quot;page-header&quot;&gt;
-            &lt;h2 id=&quot;dialogs&quot;&gt;Dialogs&lt;/h2&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
-   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col&quot;&gt;
-         &lt;h3&gt;Popovers&lt;/h3&gt;
-         &lt;div class=&quot;bs-component&quot; style=&quot;margin-bottom: 3em;&quot;&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; title=&quot;Popover Title&quot; data-container=&quot;body&quot; data-toggle=&quot;popover&quot; data-placement=&quot;left&quot; data-content=&quot;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&quot;&gt;Left&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; title=&quot;Popover Title&quot; data-container=&quot;body&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&quot;&gt;Top&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; title=&quot;Popover Title&quot; data-container=&quot;body&quot; data-toggle=&quot;popover&quot; data-placement=&quot;bottom&quot; data-content=&quot;Vivamus
-               sagittis lacus vel augue laoreet rutrum faucibus.&quot;&gt;Bottom&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; title=&quot;Popover Title&quot; data-container=&quot;body&quot; data-toggle=&quot;popover&quot; data-placement=&quot;right&quot; data-content=&quot;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&quot;&gt;Right&lt;/button&gt;
-         &lt;/div&gt;
-         &lt;h3&gt;Tooltips&lt;/h3&gt;
-         &lt;div class=&quot;bs-component&quot; style=&quot;margin-bottom: 3em;&quot;&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;left&quot; title=&quot;Tooltip on left&quot;&gt;Left&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;Tooltip on top&quot;&gt;Top&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;bottom&quot; title=&quot;Tooltip on bottom&quot;&gt;Bottom&lt;/button&gt;
-            &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;right&quot; title=&quot;Tooltip on right&quot;&gt;Right&lt;/button&gt;
-         &lt;/div&gt;
-         &lt;h3&gt;Toasts&lt;/h3&gt;
-         &lt;div class=&quot;bs-component&quot;&gt;
-            &lt;div class=&quot;toast show&quot; role=&quot;alert&quot; aria-live=&quot;assertive&quot; aria-atomic=&quot;true&quot;&gt;
-               &lt;div class=&quot;toast-header&quot;&gt;
-                  &lt;strong class=&quot;mr-auto&quot;&gt;Bootstrap&lt;/strong&gt;
-                  &lt;small&gt;11 mins ago&lt;/small&gt;
-                  &lt;button type=&quot;button&quot; class=&quot;ml-2 mb-1 close&quot; data-dismiss=&quot;toast&quot; aria-label=&quot;Close&quot;&gt;
-                  &lt;span aria-hidden=&quot;true&quot;&gt;&amp;times;&lt;/span&gt;
-                  &lt;/button&gt;
-               &lt;/div&gt;
-               &lt;div class=&quot;toast-body&quot;&gt;
-                  Hello, world! This is a toast message.
-               &lt;/div&gt;
-            &lt;/div&gt;
-         &lt;/div&gt;
-      &lt;/div&gt;
-   &lt;/div&gt;
+&lt;div class=&quot;w3-container&quot; style=&quot;padding:0px 0px 10px&quot;&gt;
+    &lt;img title=&quot;Receivables&quot; class=&quot;w3-image w3-padding&quot; width=&quot;400&quot; src=&quot;../assets/image/blog/serbadk/graph2.png&quot; alt=&quot;Receivables&quot; /&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&quot;chulapa-comp&quot;&gt;&lt;span class=&quot;chulapa&quot;&gt;Chulapa&lt;/span&gt; components&lt;/h2&gt;
+&lt;p&gt;In the case of Serba Dinamik, their receivables were growing strongly along with their revenue and earnings, and in recent years, the receivables generated in a single year were even higher than the net income of the year. If they failed to collect the payments from their customers, it would risk wiping out all the net income.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;free-cash-flow&quot;&gt;Free Cash Flow&lt;/h3&gt;
+
+&lt;div class=&quot;w3-container&quot; style=&quot;padding:0px 0px 10px&quot;&gt;
+    &lt;img title=&quot;Free Cash Flow&quot; class=&quot;w3-image w3-padding&quot; width=&quot;400&quot; src=&quot;../assets/image/blog/serbadk/graph3.png&quot; alt=&quot;Free Cash Flow&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Free cash flow is the real profit generated for the owners, while net income is just the money made on the income statement. Therefore, it is said that buying a company is buying the future cash flow of the company. In a good company, free cash flow and net income generated should be heading in the same direction in the long run, even though there might be some one-time events that hurt the free cash flow. For Serba Dinamik, the two were both growing consistently, in a completely different directions. By running a company like this, you can achieve good growth on the earnings reports but will never see the money coming into your pocket (unless you are a genius and do the following trick).&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;fund-raising&quot;&gt;Fund Raising&lt;/h3&gt;
+
+&lt;div class=&quot;w3-container&quot; style=&quot;padding:0px 0px 10px&quot;&gt;
+    &lt;img title=&quot;Fund Raising&quot; class=&quot;w3-image w3-padding&quot; width=&quot;400&quot; src=&quot;../assets/image/blog/serbadk/graph4.png&quot; alt=&quot;Fund Raising&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;From 2017 to 2021, the company raised around RM2.2 billion from its investors by issuing new shares. However, the company had also been increasing the dividends paid to their shareholders, at a stunning rate of 35%. For a company that failed to generate free cash flow every year, they sure were generous with their dividends. This essentially means that they were getting cash from their investors, just to give a part out as dividends. In the end, the management was the people who benefited from the multiple fund-raisings by pocketing their huge sum of dividends.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;金玉其外，败絮其中 is a Chinese idiom which means something that is looking good on the outside but is a mess on the inside.&lt;/p&gt;
+
+&lt;p&gt;The top-line and bottom-line growth alone can’t give the full picture of how well a company is doing, but what is on the headline is always revenue and income. Always look for red flags in a company’s financial statements. Don’t be a sheep.&lt;/p&gt;
+
+		</content>
+		
+		<author>
+			<name>Chong Jun Yi</name></author>
+		<summary type="html">&lt;p&gt;Earlier this year, Serba Dinamik’s auditor KPMG had raised issues regarding the company’s sales transactions, trade receivables and payables, as well as material on-site balances. The issues raised involved 11 parties which accounted for total sales transactions of RM2.32 billion, trade receivables balance of RM652 million and materials on site balance of RM569 million. Since then, the share price of the company had dropped all the way down from RM1.6 to RM0.35 and has been suspended from trading since October 22.&lt;/p&gt;
+
+</summary>
+		<category term="posts"/>
+		<category term="Serba Dinamik"/><category term="portfolio"/><category term="stock"/>
+	</entry><entry>
+		<title>Being Multilingual</title>
+		<link href="http://localhost:4000/202008_being-multilingual/" rel="alternate" type="text/html" title="Being Multilingual"/>
+		<published>2020-08-01T00:00:00+09:00</published>
+		<updated>2020-08-01T00:00:00+09:00</updated>
+		<id>http://localhost:4000/202008_being-multilingual/</id>
+		<content type="html" xml:base="http://localhost:4000/202008_being-multilingual/">
+		
+  		
+			&lt;img src=&#39;http://localhost:4000/assets/image/blog/bigbrain.jpg&#39; &gt;
+			
+	&lt;p&gt;5 min.&lt;/p&gt;
+			&lt;p&gt;This comes from the perspective of a person (me) who can technically (it’s complicated, trust me) speak 5 languages. Here’s a little about me:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;My mother tongue is Chinese.&lt;/li&gt;
+  &lt;li&gt;I have had 13 years of formal education in Chinese, English and Malay.&lt;/li&gt;
+  &lt;li&gt;I learnt to speak Cantonese through Hong Kong movies and dramas.&lt;/li&gt;
+  &lt;li&gt;My family speaks Hakka, which I can understand but can’t speak.&lt;/li&gt;
+  &lt;li&gt;I’m currently studying mechanical engineering in Japanese.&lt;/li&gt;
+  &lt;li&gt;I just started learning German in Japanese.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here are some of the advantages, struggles and thoughts I found about being multilingual. I’m not sure about all those “increased career opportunities” claims though, but I wish I could get a five-fold salary.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;learning-a-new-language-is-easy&quot;&gt;Learning a new language is easy&lt;/h3&gt;
+
+&lt;p&gt;Let’s start off with a common one! Coming from someone who knows Chinese, arguably one of the hardest languages to learn, I find learning Japanese really not that hard.&lt;/p&gt;
+
+&lt;p&gt;Having 10+ years of experience writing Chinese characters undoubtedly gave me a huge head start in learning Japanese, so I really can’t brag about how easy Japanese is. However, being able to speak Cantonese just by watching TV might be a prove of this point.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;open-for-more-information&quot;&gt;Open for more information&lt;/h3&gt;
+
+&lt;p&gt;Multilingual means I can do multilingual searches on Google.&lt;/p&gt;
+
+&lt;p&gt;When you are doing research or studying, knowing more languages won’t hurt. You can find way more tutorials and papers online in English than say, Japanese. When I have a hard time understanding a topic in Japanese, I always try googling it in Chinese and English, which most of the time gives me a better understanding. Okay, maybe because my Japanese sucks.&lt;/p&gt;
+
+&lt;p&gt;Knowing less language really limits the information you can obtain from the world, the internet especially.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;getting-a-bigger-picture&quot;&gt;Getting a bigger picture&lt;/h3&gt;
+
+&lt;p&gt;We all have been click-baited by a news site before. Even if it’s about the same topic, journalists of different news sources will try to come up with titles and articles that are more likely to be clicked on and shared by their targeted readers.&lt;/p&gt;
+
+&lt;p&gt;In Malaysia, people of different races generally have very different cultures, religions, political views, and often, they speak different languages and consume only media of their own language. Because of that, so-called “news sites” will always filter or tweak the news to fit with what their readers want to see, religiously or politically, to a point where the bias is obvious.&lt;/p&gt;
+
+&lt;p&gt;It’s certainly wiser to get your daily news from different sources, even better if you read them in different languages, to get a bigger picture of what really happened.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;making-friends-through-translation&quot;&gt;Making friends through translation&lt;/h3&gt;
+
+&lt;p&gt;You can make friends pretty naturally by being the translation guy, more effective than any conversation starter because they’ll have no choice but to talk to you. (not joking)&lt;/p&gt;
+
+&lt;p&gt;There are activities in my school which students from different countries will be joining. Korean who speaks Korean and Japanese, Taiwanese who speaks Chinese and a bit of English, Singaporean who speaks English, as well as Japanese who speaks only Japanese, but there was me, who can understand and connect them all!&lt;/p&gt;
+
+&lt;p&gt;Not just through translation, knowing extra languages can help make more friends from all over the world!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;always-having-a-backup-language&quot;&gt;Always having a backup language&lt;/h3&gt;
+
+&lt;p&gt;We all have moments where we need to talk to our friend without a third person understanding, mainly out of politeness (because what we’re about to say might not be polite enough, like talking shit). With a few languages in my pocket, I’m able to pull out the right language at the right time.&lt;/p&gt;
+
+&lt;p&gt;I can ask my Chinese friend, “几点要回？走咯走咯。” in a never-ending Hari Raya open house.
+I can tell my Malay friend, “Tak nak lah, mahal ni,” in an overpriced Japanese outlet.
+I can tell my spy friend, “- -    - — - -    — - —” over a bugged phone call.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;speaking-in-only-one-language-is-hard&quot;&gt;Speaking in only one language is hard&lt;/h3&gt;
+
+&lt;p&gt;I’m well aware of how messed up my languages are. My Chinese is mixed with Cantonese and English, and I can’t speak English without some sort of Chinese slang.&lt;/p&gt;
+
+&lt;p&gt;I’ve always had to flick the “Use only one language” switch on when I’m talking to people that only speak one language, like Taiwanese, American and Japanese. I’ll always have to think twice in my head whether they can understand a certain phrase I use, and try to find a “real” word as a replacement. That’s a struggle for me being multilingual but of course a very good training indeed.&lt;/p&gt;
+
+&lt;p&gt;I love my Singaporean friends who have similar backgrounds, which means we can speak Chinglish/Manglish/Singlish together, hooray!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;keyboard-sucks&quot;&gt;Keyboard sucks&lt;/h3&gt;
+
+&lt;p&gt;As a person who has to text in multiple languages, I have to tap the little globe icon on my phone keyboard to switch between inputs, namely English, Chinese, Japanese, and a handwriting keyboard whenever I can’t read a kanji.&lt;/p&gt;
+
+&lt;p&gt;It’s especially annoying when I accidentally missed the language I want to use next and had to tap another three times to switch it back, only to realize that I tapped too fast and missed it again. And repeat.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;multilingual-faqs&quot;&gt;&lt;strong&gt;Multilingual FAQs&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-you-can-speak-so-many-languages-are-you-a-genius&quot;&gt;1. You can speak so many languages, are you a genius?&lt;/h3&gt;
+
+&lt;p&gt;Seriously, I did not make this question up. I get this sometimes from my Japanese classmates, who are surprised to learn that I know so many languages.&lt;/p&gt;
+
+&lt;p&gt;No, I’m really not a genius. I know dozens of people personally who are like me. If you were born in Malaysia, being bilingual or multilingual is really common, I’m just lucky to have the chance to learn additional Japanese.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-what-language-do-you-think-in&quot;&gt;2. What language do you think in?&lt;/h3&gt;
+
+&lt;p&gt;I’d say that I can think in the language I’m speaking most of the time, without needing to do translation in my head. If I’m just thinking random stuff without talking out loud, it’s primarily in Chinese, but with sprinkles of English words like how I normally speak. However, I realized that I process math in English no matter the language I’m learning math with.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-which-language-is-the-easiesthardest&quot;&gt;3. Which language is the easiest/hardest?&lt;/h3&gt;
+
+&lt;p&gt;To be honest, I really have no idea. Mainly because it’s been so long since I started learning most of the languages I know. It’s said that children can learn a language much easier than an average adult, so I guess all of them were pretty easy for 5-year-old me to learn.&lt;/p&gt;
+
+&lt;p&gt;If I have to pick one as the hardest, I’d probably say Japanese because that’s the only language I still remember the learning process. Anyway, I remember I struggled a lot in English spelling in kindergarten. Poem and classical Chinese in high school were difficult too.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-can-you-say-something-in-language&quot;&gt;4. CaN yOu SaY sOmEtHiNg In (language)?&lt;/h3&gt;
+
+&lt;p&gt;Yes, thank you for requesting. No, I only do paid performance. How about saying something in Python? I know a saying that goes&lt;/p&gt;
+
+&lt;p&gt;print(“stfu”)&lt;/p&gt;
+
+&lt;p&gt;Peace.&lt;/p&gt;
 
 
 		</content>
 		
 		<author>
 			<name>Chong Jun Yi</name></author>
-		<summary type="html">&lt;p&gt;This is a demo page showing the different components of Bootstrap and how they look on this site under the current configuration.&lt;/p&gt;
+		<summary type="html">&lt;p&gt;This comes from the perspective of a person (me) who can technically (it’s complicated, trust me) speak 5 languages. Here’s a little about me:&lt;/p&gt;
 
 </summary>
 		<category term="posts"/>
-		<category term="bootstrap"/><category term="current-theme"/><category term="demo"/><category term="header-hero"/><category term="image"/><category term="skin"/>
+		<category term="language"/><category term="life"/>
 	</entry><entry>
 		<title>Should I Get a Part-time Job in Japan?</title>
 		<link href="http://localhost:4000/202007_part-time-job/" rel="alternate" type="text/html" title="Should I Get a Part-time Job in Japan?"/>
@@ -1498,7 +498,7 @@
 		<content type="html" xml:base="http://localhost:4000/202007_part-time-job/">
 		
   		
-			&lt;img src=&#39;http://localhost:4000/assets/image/sadkeanu2.jpg&#39; &gt;
+			&lt;img src=&#39;http://localhost:4000/assets/image/blog/sadkeanu2.jpg&#39; &gt;
 			
 	&lt;p&gt;4 min.&lt;/p&gt;
 			&lt;p&gt;One of the most surprising things I encountered in Japan is the percentage of students having a part-time job. Among my 46 classmates, I can confidently say that at least 30 of them are working after school, mostly at a restaurant or a convenience store. The number might even be higher because I don’t really know every one of them.&lt;/p&gt;
@@ -1515,11 +515,15 @@
 
 &lt;p&gt;One of my friends spent ¥52465 for a pair of Eytys Halo Suede Off White, size 41. Woah, how did I know all the details? He couldn’t read the English website so I translated every word for him (except for the T&amp;amp;C). He worked almost 60 hours for the shoes, which is really beyond my imagination. An 18-year-old me wouldn’t even spend more than RM40 for a t-shirt and it still hurts if I do it now.&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;what-can-i-get-from-working-part-time&quot;&gt;What can I get from working part-time?&lt;/h2&gt;
 
 &lt;p&gt;As a scholar who is being paid to study and has allowance enough to travel multiple times a year, do I really need to work? That’s the question I asked myself a lot last year.&lt;/p&gt;
 
 &lt;p&gt;Like any other job, it comes down to just two things: Money and experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;do-i-need-the-money&quot;&gt;Do I need the money?&lt;/h3&gt;
 
@@ -1528,6 +532,8 @@
 &lt;p&gt;I’m really privileged to not have any problems financially, all thanks to the sponsor of this post, JPA. That means every cent I ever made from a part-time job will go straight into my saving.&lt;/p&gt;
 
 &lt;p&gt;If I could save more in Japan, my life would be so much easier when I’m back in Malaysia. I could’ve started saving money to buy a house or start a business now, earlier than all of my peers.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;do-i-need-the-experience&quot;&gt;Do I need the experience?&lt;/h3&gt;
 
@@ -1538,6 +544,8 @@
 &lt;p&gt;If I were to work part-time, I would surely choose a job that could be useful for my endeavour to become an engineer. At least I don’t see how working as a cashier help.&lt;/p&gt;
 
 &lt;p&gt;Of course working as a tutor is a great experience, no matter what my job will be in the future. I am teaching English in my school once or twice in a month too! Even though I suck at teaching!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;so-should-i-get-a-part-time-job&quot;&gt;So, should I get a part-time job?&lt;/h2&gt;
 
@@ -1562,7 +570,7 @@
 
 </summary>
 		<category term="posts"/>
-		<category term="downtown"/><category term="image"/><category term="landscape"/><category term="project-links"/><category term="trips"/><category term="wikipedia"/>
+		<category term="life"/><category term="work"/>
 	</entry><entry>
 		<title>The Acueduct of Segovia</title>
 		<link href="http://localhost:4000/201911_acueduct-of-segovia/" rel="alternate" type="text/html" title="The Acueduct of Segovia"/>

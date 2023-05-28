@@ -128,21 +128,51 @@ var store = [{
         "subtitle": null,
         "excerpt":
             "One of the most surprising things I encountered in Japan is the percentage of students having a part-time job. Among my 46 classmates, I can confidently say that at least...",
-        "categories": ["picture"],
+        "categories": [],
         "date": "2020-07-29",
-        "tags": ["landscape","trips","downtown","project-links","wikipedia","image"],
+        "tags": ["life","work"],
         "url": "http://localhost:4000/202007_part-time-job/",
-        "img": "http://localhost:4000/assets/image/sadkeanu2.jpg"
+        "img": "http://localhost:4000/assets/image/blog/sadkeanu2.jpg"
       },{
-        "title": "Current skin",
-        "subtitle": "Showing al the different Bootstrap components available",
+        "title": "Being Multilingual",
+        "subtitle": null,
         "excerpt":
-            "This is a demo page showing the different components of Bootstrap and how they look on this site under the current configuration. Previous Should I Get a Part-time Jo... Should...",
-        "categories": ["skins"],
-        "date": "2020-12-31",
-        "tags": ["skin","bootstrap","current-theme","header-hero","image","demo"],
-        "url": "http://localhost:4000/202012_current-skin/",
-        "img": "https://picsum.photos/id/1018/2000/2000"
+            "This comes from the perspective of a person (me) who can technically (it’s complicated, trust me) speak 5 languages. Here’s a little about me: My mother tongue is Chinese. I...",
+        "categories": [],
+        "date": "2020-08-01",
+        "tags": ["life","language"],
+        "url": "http://localhost:4000/202008_being-multilingual/",
+        "img": "http://localhost:4000/assets/image/blog/bigbrain.jpg"
+      },{
+        "title": "Serba Dinamik: The Hindsight",
+        "subtitle": null,
+        "excerpt":
+            "Earlier this year, Serba Dinamik’s auditor KPMG had raised issues regarding the company’s sales transactions, trade receivables and payables, as well as material on-site balances. The issues raised involved 11...",
+        "categories": [],
+        "date": "2021-12-19",
+        "tags": ["stock","portfolio","Serba Dinamik"],
+        "url": "http://localhost:4000/202112_serba-dinamik/",
+        "img": "http://localhost:4000/assets/image/blog/mcd.jpg"
+      },{
+        "title": "2022 PLAN",
+        "subtitle": "My Investment Plan",
+        "excerpt":
+            "Individual Stocks (50%) Sell stocks that I don’t have strong enough conviction. Continue finding great businesses that I understand. Do valuation and wait. Buy in batches when the price falls...",
+        "categories": [],
+        "date": "2022-01-07",
+        "tags": ["stock","portfolio","plan"],
+        "url": "http://localhost:4000/202201_2022-plan/",
+        "img": "http://localhost:4000/assets/image/blog/stonk.jpg"
+      },{
+        "title": "2021 RECAP",
+        "subtitle": "My Investment Portfolio",
+        "excerpt":
+            "AHHH IT’S REWIND TIME 2021 is definitely a bad year. I lost 19.6% of my portfolio this year, with only cryptocurrencies in the green. If I had invested all my...",
+        "categories": [],
+        "date": "2022-01-15",
+        "tags": ["stock","portfolio","recap"],
+        "url": "http://localhost:4000/202201_2021-recap/",
+        "img": "https://cdn.vox-cdn.com/thumbor/rFOABU_NwquL9sBMldiQb39bPFQ=/1400x788/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/13739200/Screen_Shot_2019_02_05_at_3.24.25_PM.png"
       },{
         "title": "First post!",
         "subtitle": null,
