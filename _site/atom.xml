@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
-	<updated>2023-05-28T20:40:05+09:00</updated>
+	<updated>2023-06-02T15:23:03+09:00</updated>
 	<id>http://localhost:4000/atom.xml</id>
 	<title>Page Found 404 | by junyichong</title>
 	<subtitle>by junyichong</subtitle>
@@ -14,6 +14,296 @@
 	<rights>(c) 2023, Chong Jun Yi</rights>
 	
 	<logo>https://github.com/junyichong.png</logo><entry>
+		<title>Amazonの企業価値評価</title>
+		<link href="http://localhost:4000/202302_amazon-valuation/" rel="alternate" type="text/html" title="Amazonの企業価値評価"/>
+		<published>2023-02-02T00:00:00+09:00</published>
+		<updated>2023-02-02T00:00:00+09:00</updated>
+		<id>http://localhost:4000/202302_amazon-valuation/</id>
+		<content type="html" xml:base="http://localhost:4000/202302_amazon-valuation/">
+		
+		&lt;h3&gt;Sum Of Parts Value Of Amazon&#39;s Businesses&lt;/h3&gt;
+		
+		
+  		
+			&lt;img src=&#39;https://media.loom-app.com/gizmodo/dist/images/2022/11/11/shutterstock_1919679617.jpg?w=1280&#39; &gt;
+			
+	&lt;p&gt;2 min.&lt;/p&gt;
+			&lt;h6 id=&quot;note-this-is-an-article-i-wrote-and-presented-for-a-class-at-university&quot;&gt;&lt;em&gt;(Note: This is an article I wrote and presented for a class at university.)&lt;/em&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;1はじめに&quot;&gt;&lt;strong&gt;1．はじめに&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;h5 id=&quot;11amazonについて&quot;&gt;1.1．Amazonについて&lt;/h5&gt;
+&lt;p&gt;　AmazonというとWeb通販サイトだけを思い浮かべる人が多いかもしれないが，実はAmazonの事業範囲は通販だけではない．Amazonは1995年にジェフ・ベゾス(Jeff Bezos)により設立され，オンライン書店としてのサービスを開始し，現在ではプライムビデオや広告サービスやクラウドサービスなど事業は多角化し，FY2022 Q3の4半期決算報告により，Amazonの過去12か月の総収益は5022億ドルに達した．Amazonの収益構造は図1のようになっている [1]．目先の利益に捉われず積極的に投資を行うことで，他社サービスより市場シェアを獲得することに専念し，Amazonの利益率は長年1～7%だけである．&lt;/p&gt;
+
+&lt;div class=&quot;w3-container w3-center&quot; style=&quot;padding:10px 0px 10px&quot;&gt;
+    &lt;img title=&quot;Amazon&#39;s revenue&quot; class=&quot;w3-image&quot; style=&quot;padding:0px 0px 10px&quot; width=&quot;600&quot; max-width=&quot;600&quot; src=&quot;../assets/image/blog/amazon/revenue.png&quot; alt=&quot;Amazon&#39;s revenue&quot; /&gt;
+    &lt;p&gt;図1　Amazonの収益構造&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;　Bloombergによると，Amazonはアメリカ時間2022年11月9日，時価総額が8790億ドルになり，時価総額が1兆ドル落ちた初めての株式公開企業になってしまった [2]．理由としては，インフレ率の上昇，金利の上昇，経済の悪化などが考えられる．しかし，株価は需要と供給のバランスによって日々変動しているので，実際に企業のビジネスモデルを分析し企業価値を求めないと，企業の株価が安いか高いか評価できない．&lt;/p&gt;
+
+&lt;h5 id=&quot;12サムオブザパーツ分析について&quot;&gt;1.2．サム・オブ・ザ・パーツ分析について&lt;/h5&gt;
+&lt;p&gt;　本稿では，Amazonの各部門のビジネスモデルを分析し，サム・オブ・ザ・パーツ(Sum of the Parts, SOTP)分析によってAmazonの企業価値を算出し，株価と比較することでAmazonに投資する価値があるかどうか評価していきたいと思う．
+SOTP分析とは，複数の事業や資産を有する企業体の企業評価の手法であり，具体的には各事業や各資産毎に事業評価額を算出し，それらを積み上げて全体の企業評価を行う方法である．損をするリスクを最小限に抑えるため，保守的な仮定をしながら評価していきたいと思う．&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2各部門の価値評価&quot;&gt;&lt;strong&gt;2．各部門の価値評価&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;h5 id=&quot;21オンラインショッピング&quot;&gt;2.1．オンラインショッピング&lt;/h5&gt;
+&lt;p&gt;　Marketplace Pulseの推計によると，2021年にAmazonの通販サイトで6000億ドル相当の商品が販売された [3]．Amazon自身による販売とマーケットプレイスによる販売を合わせた流通取引総額(Gross Merchandise Value, GMV)は，3年間で2倍になった．AmazonのオンラインストアによるGMVは前年比11%増の2,100億ドルに達し，サードパーティによるマーケットプレイスのGMVは前年比30%増の3,900億ドルに達した．&lt;/p&gt;
+
+&lt;p&gt;　Amazonの中で最も多くの売上を誇るのは，オンラインストア事業であり，売上約2215億ドルで全体の44.1%を占めている．オンラインのスーパーのような事業のため，世界最大のスーパーマーケットチェーンのWalmartを参考にすると，売上高が6000億ドルで，株価売上高倍率(Price to Sales Ratio, PSR)が長年0.4～0.7倍である [4]．0.5倍のPSRにすると，オンラインストアは2215億×0.5=1108億ドルの企業価値が計算できる．&lt;/p&gt;
+
+&lt;p&gt;　また，次いで多くの売上を上げているのが，サードパーティー・セリング・サービス(Third-party Seller Service)である．だれでもAmazonマーケットプレイスで開店し，商品の販売を行うことができ，Amazonはその販売手数料と送料から売上を得ている．その売上は約1117億ドルで，全体の22.2%を占めている．この中で300億ドルが配送料と推測され，残りの817億ドルが手数料が考えられる．手数料の中に販売プランと紹介料があり，Amazonのページによると，1つの商品につき0.99ドルまたは何ユニット販売しても月額39.99ドルの販売プランがあり，また商品が売れるごとに紹介料が発生する．金額は商品カテゴリによって異なるが，ほとんどの紹介料は約15%である [5]．Amazonは販売のプラットフォームだけ提供し，中国の大手Eコマース企業Alibabaの25%というかなり高い利益率が得られるとすれば [4]，15倍の株価収益率(PER)でサードパーティー・セリング・サービスの企業価値は817億×25%×15=3364億ドルである．&lt;/p&gt;
+
+&lt;h5 id=&quot;22物流&quot;&gt;2.2．物流&lt;/h5&gt;
+&lt;p&gt;　物流センターを中核としたAmazonの物流ネットワークは，EC事業のために投資されたアセットである．コスト効率の高い配送を実現するため，Amazonは20年もかけて1,000億ドル以上の資本投資で，フルフィルメントセンターと物流・輸送ネットワークを構築した． 2021年と2022年の2年間に，それぞれ180億ドルと80億ドルを設備投資に費やした [1]．&lt;/p&gt;
+
+&lt;p&gt;　2004年の時点では，Amazonのフルフィルメントセンターはアメリカ内に7カ所，世界各地に4カ所あったが，2021年末には，北米に253のフルフィルメントセンター，110の仕分けセンター，467の配送ステーションがあり，さらに世界各地に157のフルフィルメントセンター，58の仕分けセンター，588の配送ステーションを建設した．配送ネットワークは全世界で26万人以上のドライバーに拡大し，Amazon Airの貨物便は100機以上になった [1]．&lt;/p&gt;
+
+&lt;p&gt;　Pitney Bowesが発表されたParcel Shipping Index 2022によると，2021年にアメリカで配達された小包のうち，Amazon Logistics が22% (48億個)のパーセルを配達し，初めて大手宅配業者FedExの19%を上回った．また，Amazon Logisticsの売上高は2020年の183億ドルから10%増やし，219億ドルに成長した [6]．
+しかし，100億ドル以上の投資額であっても，長期間にわたって減価償却(depreciation)によって100億ドルの資産と計算されないと考える．主競争相手のUPSとFedExの株価売上高倍率(PSR)を参考にすると，それぞれ1.4倍と0.5倍であり [4]，Amazon LogisticsのPSRをその中央値の1倍にすれば，アメリカ以外の売上高も加え，この物流ネットワークは少なくとも300億ドルの企業価値があると考える．&lt;/p&gt;
+
+&lt;h5 id=&quot;23aws&quot;&gt;2.3．AWS&lt;/h5&gt;
+&lt;p&gt;　AWSとはAmazon Web Servicesの略で，Amazonが提供している200以上の機能を提供しているクラウド・コンピューティング・プラットフォームである．&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;クラウドコンピューティングとは，共用の構成可能なコンピューティングリソース（ネットワーク，サーバー，ストレージ，アプリケーション，サービス）の集積に，どこからでも，簡便に，必要に応じて，ネットワーク経由でアクセスすることを可能とするモデルであり，最小限の利用手続きまたはサービスプロバイダとのやりとりで速やかに割当てられ提供されるものである [7]．&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;(Mell, P. and Grance, T., NIST によるクラウドコンピューティングの定義, NIST Special Publication, Vol.800, p.145, 2011.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;　簡単にいうと，個人や企業や政府機関がサーバー機器を購入し管理する必要がなく，クラウドサービスを使えばコンピューティング，ストレージ，データベース，セキュリティ対策などの機能を利用することができる．コストが低い，拡張性が高い，セキュリティが良いなどのメリットがある．&lt;/p&gt;
+
+&lt;p&gt;　Forrester Researchが発表した「Public Cloud Market Outlook, 2022 To 2026」によると，パブリッククラウド市場は2026年までに全世界で1兆ドルを超える巨大な規模になるとされている [8]．また，Synergy Research Groupの推計では，2022年第3四半期の世界クラウドインフラ市場におけるAWSの市場シェアは34%に達し， 2大競争相手であるMicrosoft AzureとGoogle Cloudの市場シェアの合計を上回っている [9]．&lt;/p&gt;
+
+&lt;p&gt;　AWSは，売上約765億ドルでAmazon全体の約15.2%だけ占めているが，営業利益率は32%で営業利益は248億ドルであり，実はAmazonの事業の中で最も収益性の高い部門である．AWSはクラウドという巨大な市場のリーダーとして，PERを20倍にしても高くないと判断し，AWSは248億×20=4960億ドルの企業価値を持つことが算出できる．&lt;/p&gt;
+
+&lt;h5 id=&quot;24メディア&quot;&gt;2.4．メディア&lt;/h5&gt;
+&lt;p&gt;　
+　Amazonのサブスクリプションサービスは，Amazonプライム会員をはじめ， AWS以外のサブスクリプションサービスに関連するに関連する年会費および月額料金を含む．この部門の売上高は約342億ドルでAmazon全体の約6.1%しか占めていない．Amazonプライムに加入すると，送料無料や映像・音楽など様々なサービスを受けられ，アメリカでは月額14.99ドル，日本では月額500円で，非常にコストパフォーマンスに優れるサービスと言える．送料無料のためAmazonプライム会員になり，全てのサービスを利用している人がほとんどいないので，Amazonのメディアビジネスの企業価値を評価するのが難しいが，ここではPrime Video，ライブ配信サービス「Twitch」，Amazon Music，電子書籍サービス「Kindle」，オーディオブックサービス「Audible」を括ってAmazonのメディアビジネスとして分析していこうと思う．&lt;/p&gt;
+
+&lt;p&gt;　JustWatchが発表した2022年第3四半期のサブスクリプション・ビデオ・オン・デマンド(SVOD)市場シェア報告書を見ると，アメリカではNetflixのシェアは21%で，Amazon Prime Videoの19%，HBO Maxの15%，Disney+の15%と僅差で続く．また，Netflixの有料会員数は2億2309万人で，Prime Videoの2億人を上回った [10]．2018年以来Netflixの時価総額が一番低いときは2022年6月の750億ドルまで下落し，Prime Videoはその半分の価値だけあるとしたら375億ドルの事業が考えられる．&lt;/p&gt;
+
+&lt;p&gt;　Valuates Reportsのレポートによると，世界のライブストリーミング市場は2021年に383億ドルで， 2022年から2028年の間に16.14%の平均成長率(CAGR)で成長すると予測されている [11]．ゲーム配信プラットフォームの中，AmazonのTwitch はストリーミング市場をリードし，総視聴時間の約72%を占めている [12]．特にコロナ禍で世界各地がロックダウン中で，人々が家にいる時間が多くなり，Twitchの2021年の平均同時視聴者数は278万人で，2019年の126万人と比べて120%増加した [13]．&lt;/p&gt;
+
+&lt;p&gt;　MIDiA Researchが発表した2022年ミュージック・サブスクリプション・サービス市場シェア報告書によると，Spotifyはトップで，会員数が1億8780万人で30.5%のシェアを占めていて，Amazon Musicは4位で会員数が8220万人(13.3%)である [14]．また，電子書籍の世界市場規模は，2022年に199.5億ドル，2032年には321.9億ドルに達するとFuture Market Insightsが予測されている．オーディオブックの世界市場規模は2021年に42億ドルとなり，2022年から2030年にかけて26.4%のCAGRで拡大すると予測されている [15]．AmazonはKindleとAudibleによってこの2つの市場に早期参入することで，先発者優位を持ち，大きなシェアを占めることができると考える．&lt;/p&gt;
+
+&lt;p&gt;　ここでは，億万長者のウォーレン・バフェットが使ったことで世に広まった言葉「モート(moat)」について説明したいと思う．&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;モートとは，直訳すれば「お堀」といったような意味である．本来であれば外部からの敵の侵入や攻撃を防ぐための施設であり，ビジネスでこの用語が使われる際には，競合他社の侵略から自社を守ってくれるような参入障壁や競争優位性のことを示している [16]．&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;　ストリーミングサービス，ライブ配信，電子書籍などのメディア分野でマーケットリーダーとして活躍しているが，Amazonのメディアビジネスの主な役割は，Amazonのエコシステムを支えるモートの一部と考えれば良いと思う．Amazonプライムに加入すると，オンラインショッピングから映画・音楽，電子決済まで様々なサービスを提供することによって，各部門が相互に補完しあいながら，顧客をAmazonのエコシステム内に留めている．Amazonプライムは月額500円で非常にコスパが良く，利益を出すわけがなくて，いつまで維持できるか分からないが，Amazon全体のモートを支えるためにメディアビジネスは永遠に赤字が続ける可能性もあり，企業価値評価が困難である．Prime Videoの375億ドルに他のメディア事業を加え，全体的に600億ドルの価値があるだろうと考える．&lt;/p&gt;
+
+&lt;h5 id=&quot;25広告&quot;&gt;2.5．広告&lt;/h5&gt;
+
+&lt;p&gt;　スポンサー広告，ディスプレイ広告，動画広告などのプログラムを通じて，販売者や出版社などに提供する広告サービスである．広告サービルのほとんどはAmazon.comで商品を検索するとき出てくるスポンサー広告であるが，Amazonデバイスやプライムビデオ・Twitchの広告も含まれている．Amazonは，お客様が買いたいものを検索するときに商品の広告を表示するので，Meta (Facebook)やGoogleのようにユーザーの個人情報やアクティビティからユーザーに対して有益な広告を予測する必要がなく，世界中で最も効果的な広告プラットフォームと言っても過言ではないと考える．Amazonの広告サービスの売上は約359億ドルで，YouTubeの299億ドルを上回った [17]．&lt;/p&gt;
+
+&lt;p&gt;　Googleの過去10年の利益率の中央値は22%で，PERは17倍と58倍の間であった．一方，Metaの利益率の中央値は30%で，最近5年間のPERは12倍と36倍の間であった [4]．TikTokにシェアを奪われることやメタバースへの投資など自社特有の問題によって，Metaの時価総額が大きく下げ，PERも史上一番低い数値の12倍に達した．Googleより低い20%の利益率，非常に低い12倍のPERを用いれば，Amazonの広告業務は359億×20%×12=862億ドルの企業価値が算定できる．&lt;/p&gt;
+
+&lt;h5 id=&quot;26その他&quot;&gt;2.6．その他&lt;/h5&gt;
+
+&lt;p&gt;　以上の6つの部門の他，売上高が189億ドルのフィジカルストアがあり，AIアシスタント「Alexa」を搭載したスピーカー「Amazon Echo」，テレビ向け映像出力デバイス「Fire TV Stick」などのハードウェアもある．&lt;/p&gt;
+
+&lt;p&gt;　また，Amazonは様々な領域の会社やスタートアップに投資している．例えば，Amazonは新興EVメーカーであるRivianの20%の株式を保有しており，共同で開発した配達用の電気トラックをアメリカで運行する予定である．また，2022年7月，Amazonはプライマリーケアを提供するOne Medical を 39 億ドルで買収することを発表し，ヘルスケア・医療領域への取り組みを進めている [18]．フードデリバリーGrubhubの株式2%を取得し，プライム会員向けに料理宅配サービスを追加した [19]．しかし，Amazonが投資した全ての企業の分析や価値評価を行うのは非常に時間がかかるので，今回では無視することにした．&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3amazon全体の企業価値評価&quot;&gt;&lt;strong&gt;3．Amazon全体の企業価値評価&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;div class=&quot;w3-container w3-center&quot; style=&quot;padding:20px 0px 20px&quot;&gt;
+    &lt;p&gt;表1　サム・オブ・ザ・パーツによるAmazonの企業価値評価&lt;/p&gt;
+    &lt;img title=&quot;Amazon&#39;s valuation&quot; class=&quot;w3-image&quot; width=&quot;500&quot; max-width=&quot;500&quot; src=&quot;../assets/image/blog/amazon/valuation.png&quot; alt=&quot;Amazon&#39;s valuation&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;　まとめると，Amazonの各部門の企業価値とその合計は表1に示す．単純に全てのパーツを足すと，1兆1194億ドルの企業価値が算出できた．Amazonの発行済み株式数は102億8000万株なので，この場合では約109ドルの株価になる．現時点(2023年1月11日)ではAmazonの株価が約90ドルであり，本稿の計算より17%低くて，つまり株の価格はその本質的価値と17%の差があることが分かる．&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;4おわりに&quot;&gt;&lt;strong&gt;4．おわりに&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;　本稿では，「Amazonの株価が安い」という結論を下したが，決して「Amazonの株式を買うべき」という結論ではない．株価が安いといっても，あくまでも主観的な判断であり，絶対に損をしない保証がない．Amazonだけではなく，株式投資に興味がある方は必ず投資について十分に調査・検討し，よく理解してから自身で判断する必要がある．株式投資は，損したら誰も補償してくれないので，様々なリスクを正しく認識した上で，自分自身の判断と責任に基づいて行なわればならない．投資者として，必ず自分の投資目的や資産の状況などを勘案して，投資対象や投資金額を決めよう．&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;5参考文献&quot;&gt;&lt;strong&gt;5．参考文献&lt;/strong&gt;&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;Amazon Investor Relation, “Quarterly results 2022 Q3,” [オンライン]. Available: https://ir.aboutamazon.com/quarterly-results/default.aspx. [アクセス日: 25 12 2022].&lt;/li&gt;
+  &lt;li&gt;S. Patnaik , J. Wittenstein, “Amazon Becomes World’s First Public Company to Lose $1 Trillion in Market Value,” [オンライン]. Available: https://www.bloomberg.com/news/articles/2022-11-09/amazon-hits-unwelcome-milestone-with-1-trillion-in-value-lost?leadSource=uverify%20wall. [アクセス日: 25 12 2022].&lt;/li&gt;
+  &lt;li&gt;Marketplace Pulse, “Amazon GMV Reached $600 Billion in 2021,” [オンライン]. Available: https://www.marketplacepulse.com/articles/amazon-gmv-reached-600-billion-in-2021. [アクセス日: 9 1 2023].&lt;/li&gt;
+  &lt;li&gt;Macrotrends, “Macrotrends - The Premier Research Platform for Long Term Investors,” [オンライン]. Available: https://www.macrotrends.net/. [アクセス日: 25 12 2022].&lt;/li&gt;
+  &lt;li&gt;Amazon, “Let’s talk numbers,” [オンライン]. Available: https://sell.amazon.com/pricing. [アクセス日: 9 1 2023].&lt;/li&gt;
+  &lt;li&gt;Pitney Bowes, “Parcel Shipping Index 2022,” 2022.&lt;/li&gt;
+  &lt;li&gt;P. Mell and T. Grance, “NISTによるクラウドコンピューティングの定義,” vol. 800, p. 145, 2011.&lt;/li&gt;
+  &lt;li&gt;Forrester, “Public Cloud Is Poised To Surpass $1 Trillion By 2026 — But Not Without Enduring Several Global Challenges,” [オンライン]. Available: https://www.forrester.com/press-newsroom/forrester-public-cloud-market-outlook-2022-to-2026/. [アクセス日: 9 1 2023].&lt;/li&gt;
+  &lt;li&gt;Synergy Research Group, “Q3 Cloud Spending Up Over $11 Billion from 2021 Despite Major Headwinds; Google Increases its Market Share,” [オンライン]. Available: https://www.srgresearch.com/articles/q3-cloud-spending-up-over-11-billion-from-2021-despite-major-headwinds-google-increases-its-market-share. [アクセス日: 9 1 2023].&lt;/li&gt;
+  &lt;li&gt;JustWatch, “Streaming Charts United States (Q3 2022),” [オンライン]. Available: https://www.mediaplaynews.com/justwatch-netflix-third-quarter-market-share-remains-tops-among-u-s-streamers-despite-sub-losses/. [アクセス日: 9 1 2023].&lt;/li&gt;
+  &lt;li&gt;Valuates Reports, “Live Streaming Market Insights and Forecast to 2028,” [オンライン]. Available: https://reports.valuates.com/market-reports/QYRE-Auto-29B912/global-live-streaming. [アクセス日: 9 1 2023].&lt;/li&gt;
+  &lt;li&gt;Stream Scheme, “Twitch Demographic &amp;amp; Growth Statistics [2023 Updated],” [オンライン]. Available: https://www.streamscheme.com/twitch-statistics/. [アクセス日: 9 1 2023].&lt;/li&gt;
+  &lt;li&gt;M. Mulligan, “Music subscriber market shares 2022,” [オンライン]. Available: https://midiaresearch.com/blog/music-subscriber-market-shares-2022. [アクセス日: 9 1 2023].&lt;/li&gt;
+  &lt;li&gt;Future Market Insights, “eBook Market Outlook (2022-2032),” [オンライン]. Available: https://www.futuremarketinsights.com/reports/global-eBook-market. [アクセス日: 9 1 2023].&lt;/li&gt;
+  &lt;li&gt;Warren E. Buffett, “Chairman’s Letter,” 著: 2007 Annual Report, Berkshire Hathaway Inc., 2007, pp. 3-22.&lt;/li&gt;
+  &lt;li&gt;Alphabet Investor Relations, “Alphabet Announces Third Quarter 2022 Results,” [オンライン]. Available: https://abc.xyz/investor/. [アクセス日: 25 12 2022].&lt;/li&gt;
+  &lt;li&gt;H. Landi, “Amazon scoops up primary care company One Medical in deal valued at $3.9B,” Fierce Healthcare, [オンライン]. Available: https://www.fiercehealthcare.com/health-tech/amazon-shells-out-39b-primary-care-startup-one-medical. [アクセス日: 9 1 2023].&lt;/li&gt;
+  &lt;li&gt;A. Satariano, “Amazon strikes a deal with Grubhub as the food-delivery business struggles.,” The New York Times, [オンライン]. Available: https://www.nytimes.com/2022/07/06/business/amazon-grubhub.html. [アクセス日: 9 1 2023].&lt;/li&gt;
+&lt;/ol&gt;
+
+
+		</content>
+		
+		<author>
+			<name>Chong Jun Yi</name></author>
+		<summary type="html">&lt;h6 id=&quot;note-this-is-an-article-i-wrote-and-presented-for-a-class-at-university&quot;&gt;&lt;em&gt;(Note: This is an article I wrote and presented for a class at university.)&lt;/em&gt;&lt;/h6&gt;
+
+</summary>
+		<category term="posts"/>
+		<category term="Amazon"/><category term="investment"/><category term="portfolio"/><category term="stock"/>
+	</entry><entry>
+		<title>2022 RECAP</title>
+		<link href="http://localhost:4000/202301_2022-recap/" rel="alternate" type="text/html" title="2022 RECAP"/>
+		<published>2023-01-20T00:00:00+09:00</published>
+		<updated>2023-01-20T00:00:00+09:00</updated>
+		<id>http://localhost:4000/202301_2022-recap/</id>
+		<content type="html" xml:base="http://localhost:4000/202301_2022-recap/">
+		
+		&lt;h3&gt;My Investment Portfolio&lt;/h3&gt;
+		
+		
+  		
+			&lt;img src=&#39;https://cdn.vox-cdn.com/thumbor/rFOABU_NwquL9sBMldiQb39bPFQ=/1400x788/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/13739200/Screen_Shot_2019_02_05_at_3.24.25_PM.png&#39; &gt;
+			
+	&lt;p&gt;2 min.&lt;/p&gt;
+			&lt;h1 id=&quot;ahhh-its-rewind-time-again&quot;&gt;AHHH IT’S REWIND TIME… again&lt;/h1&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;2022 was a bad year…again. I lost 20.5% of my portfolio this year, slightly worse than the -19.5% last year. Comparing to S&amp;amp;P500 that lost 19.44% and QQQ that lost 32.58% last year, I didn’t do so bad after all, even though it was still bad.&lt;/p&gt;
+
+&lt;p&gt;Below are all my open position and closed positions, plus my thoughts and comments.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;open-positions&quot;&gt;Open Positions&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;kweb--14-15-of-portfolio&quot;&gt;KWEB &lt;em&gt;(-14%, 15% of portfolio)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Still holding onto my basket of Chinese internet stocks. Bought more at $27 thinking it was peak fear but it went as low as $17.&lt;/p&gt;
+
+&lt;p&gt;Don’t buy too much too fast. As the saying goes - “Markets can remain irrational longer than you can remain solvent.”&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;goog--15-14-of-portfolio&quot;&gt;GOOG &lt;em&gt;(-15%, 14% of portfolio)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Started buying at $120 and had my last buy at $85. I have my full position in Google already, hopefully it doesn’t drop like BABA.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;baba--48-11-of-portfolio&quot;&gt;BABA &lt;em&gt;(-48%, 11% of portfolio)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Another year as a BABA bagholder.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;cspx-breakeven-10-of-portfolio&quot;&gt;CSPX &lt;em&gt;(breakeven, 10% of portfolio)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;S&amp;amp;P500 ETF that I bought is one of the best performing assets in my portfolio… I guess that is the price of active stockpicking.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;smh--4-9-of-portfolio&quot;&gt;SMH &lt;em&gt;(-4%, 9% of portfolio)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Tried to understand the semiconductor industry but couldn’t figure out which company is better.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;btc--45-8-of-portfolio&quot;&gt;BTC &lt;em&gt;(-45%, 8% of portfolio)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;The bubble did pop and I held it all the way down.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;amzn-1-4-of-portfolio&quot;&gt;AMZN &lt;em&gt;(+1%, 4% of portfolio)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Did my DCF and sum-of-parts analysis and figured that Amazon stock should be worth around $110. Bought at $83 and will buy more if it drops.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;dis--21-3-of-portfolio&quot;&gt;DIS &lt;em&gt;(-21%, 3% of portfolio)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Bought Disney for the strong brand even though the price is not exactly cheap.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;eth--45-2-of-portfolio&quot;&gt;ETH &lt;em&gt;(-45%, 2% of portfolio)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Still holding a small bag of ETH.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;meta--47-2-of-portfolio&quot;&gt;META &lt;em&gt;(-47%, 2% of portfolio)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Bought at $225 thinking I was being greedy when others were fearful… Then it dropped another 50%.&lt;/p&gt;
+
+&lt;p&gt;Even thought it’s really cheap at 10~15 PE, I didn’t catch the knife this time. Maybe because I don’t have strong enough conviction in META, or maybe because I have trauma from BABA. Not buying more might turn out to be a bad decision.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;aapl-9-1-of-portfolio&quot;&gt;AAPL &lt;em&gt;(+9%, 1% of portfolio)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Apple is still the strongest company of all companies.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;closed-positions&quot;&gt;Closed Positions&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;clov--90&quot;&gt;CLOV &lt;em&gt;(-90%)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Finally sold the stock on the last few trading days of the year. Just wanted to start 2023 with my biggest mistake gone, but in hindsight I might have sold the bottom.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;ipay--14&quot;&gt;IPAY &lt;em&gt;(-14%)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;The company is in a growing industry with a P/E ratio of only 3. Sold after the Serba Dinamik saga as the company has the exact same problem - high receivables.&lt;/p&gt;
+
+&lt;p&gt;Sometimes a company has a low valuation for a reason.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;tenaga--11&quot;&gt;TENAGA &lt;em&gt;(-11%)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Sold the company to raise cash to put into US stocks. Probably almost broke even including the dividend I recieved in the 2 years of holding the stock.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;genting--1&quot;&gt;GENTING &lt;em&gt;(-1%)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Decided to have a more concentrated portfolio so I sold off all the smaller positions that won’t move the needle.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;twtr-1&quot;&gt;TWTR &lt;em&gt;(+1%)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Yep I FOMO’d again.&lt;/p&gt;
+
+&lt;p&gt;Bought the stock when I saw the news of Elon Musk buying, thinking I will not miss the Elon hype train again after Doge and Tesla. Sold after cooled off and realized it is just billionaire doing billionaire shit.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;genm-35&quot;&gt;GENM &lt;em&gt;(+35%)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Selling off all the smaller positions, with some nice gains this time.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;pbbank-46&quot;&gt;PBBANK &lt;em&gt;(+46%)&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Sold when I found that it is trading at almost 2 times book value, which is very high for a bank and relatively high compared to its historical P/B. Turned out I sold almost at the top.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+		</content>
+		
+		<author>
+			<name>Chong Jun Yi</name></author>
+		<summary type="html">&lt;h1 id=&quot;ahhh-its-rewind-time-again&quot;&gt;AHHH IT’S REWIND TIME… again&lt;/h1&gt;
+
+</summary>
+		<category term="posts"/>
+		<category term="investment"/><category term="portfolio"/><category term="recap"/><category term="stock"/>
+	</entry><entry>
 		<title>Keep AI in Mind When Choosing a Career</title>
 		<link href="http://localhost:4000/202208_keep-ai-in-mind/" rel="alternate" type="text/html" title="Keep AI in Mind When Choosing a Career"/>
 		<published>2022-08-05T00:00:00+09:00</published>
@@ -212,7 +502,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h6 id=&quot;note-this-a-speech-i-wrote-and-presented-for-my-english-class&quot;&gt;&lt;em&gt;(Note: This a speech I wrote and presented for my English class.)&lt;/em&gt;&lt;/h6&gt;
+&lt;h6 id=&quot;note-this-is-a-speech-i-wrote-and-presented-for-my-english-class&quot;&gt;&lt;em&gt;(Note: This is a speech I wrote and presented for my English class.)&lt;/em&gt;&lt;/h6&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -267,9 +557,9 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2021 is definitely a bad year. I lost 19.6% of my portfolio this year, with only cryptocurrencies in the green. If I had invested all my money in the S&amp;amp;P500 in January, I would have made 26.9% this year, which means I would have 50% more money than I have now.&lt;/p&gt;
+&lt;p&gt;2021 is definitely a bad year. I lost 19.5% of my portfolio this year, with only cryptocurrencies in the green. If I had invested all my money in the S&amp;amp;P500 in January, I would have made 26.9% this year, which means I would have 50% more money than I have now.&lt;/p&gt;
 
-&lt;p&gt;I went through all my winners and losers, and write down all the lessons and mistakes I have learnt, hopefully 17% is the biggest loss I will ever have. One thing I am most grateful for is that I made all these blunders when I am 22, instead of 44 when I should have a much higher net worth and a lower risk tolerance.&lt;/p&gt;
+&lt;p&gt;I went through all my winners and losers, and write down all the lessons and mistakes I have learnt, hopefully 19.5% is the biggest loss I will ever have. One thing I am most grateful for is that I made all these blunders when I am 22, instead of 44 when I should have a much higher net worth and a lower risk tolerance.&lt;/p&gt;
 
 &lt;p&gt;Since I didn’t do a recap for 2020, below are all the things the market taught me from September 2020 till the end of 2021.&lt;/p&gt;
 

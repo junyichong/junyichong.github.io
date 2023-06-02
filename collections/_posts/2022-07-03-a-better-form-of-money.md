@@ -87,7 +87,7 @@ Lastly, I want to make it clear that this is not financial advice and you should
 
 <br/>
 
-###### *(Note: This a speech I wrote and presented for my English class.)*
+###### *(Note: This is a speech I wrote and presented for my English class.)*
 
 <br/>
 

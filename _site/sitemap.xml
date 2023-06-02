@@ -29,6 +29,14 @@
 <lastmod>2022-08-05T00:00:00+09:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/202301_2022-recap/</loc>
+<lastmod>2023-01-20T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/202302_amazon-valuation/</loc>
+<lastmod>2023-02-02T00:00:00+09:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/projects/first-post</loc>
 <lastmod>2015-01-04T00:00:00+09:00</lastmod>
 </url>
@@ -116,6 +124,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/page2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/page3/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/reference/base.html</loc>

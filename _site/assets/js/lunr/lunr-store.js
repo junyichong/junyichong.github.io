@@ -57,7 +57,7 @@ var store = [{
         "title": "2021 RECAP",
         "subtitle": "My Investment Portfolio",
         "excerpt":
-            "AHHH IT’S REWIND TIME 2021 is definitely a bad year. I lost 19.6% of my portfolio this year, with only cryptocurrencies in the green. If I had invested all my...",
+            "AHHH IT’S REWIND TIME 2021 is definitely a bad year. I lost 19.5% of my portfolio this year, with only cryptocurrencies in the green. If I had invested all my...",
         "categories": [],
         "date": "2022-01-15",
         "tags": ["stock","portfolio","recap","investment"],
@@ -83,6 +83,26 @@ var store = [{
         "tags": ["AI","career","work"],
         "url": "http://localhost:4000/202208_keep-ai-in-mind/",
         "img": "https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/11eeb7f9-7512-49aa-abdc-a27001dd123e/AI_20230215_article-hero_1200x564.jpg"
+      },{
+        "title": "2022 RECAP",
+        "subtitle": "My Investment Portfolio",
+        "excerpt":
+            "AHHH IT’S REWIND TIME… again 2022 was a bad year…again. I lost 20.5% of my portfolio this year, slightly worse than the -19.5% last year. Comparing to S&amp;P500 that lost...",
+        "categories": [],
+        "date": "2023-01-20",
+        "tags": ["stock","portfolio","recap","investment"],
+        "url": "http://localhost:4000/202301_2022-recap/",
+        "img": "https://cdn.vox-cdn.com/thumbor/rFOABU_NwquL9sBMldiQb39bPFQ=/1400x788/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/13739200/Screen_Shot_2019_02_05_at_3.24.25_PM.png"
+      },{
+        "title": "Amazonの企業価値評価",
+        "subtitle": "Sum Of Parts Value Of Amazon's Businesses",
+        "excerpt":
+            "(Note: This is an article I wrote and presented for a class at university.) 1．はじめに 1.1．Amazonについて 　AmazonというとWeb通販サイトだけを思い浮かべる人が多いかもしれないが，実はAmazonの事業範囲は通販だけではない．Amazonは1995年にジェフ・ベゾス(Jeff Bezos)により設立され，オンライン書店としてのサービスを開始し，現在ではプライムビデオや広告サービスやクラウドサービスなど事業は多角化し，FY2022 Q3の4半期決算報告により，Amazonの過去12か月の総収益は5022億ドルに達した．Amazonの収益構造は図1のようになっている [1]．目先の利益に捉われず積極的に投資を行うことで，他社サービスより市場シェアを獲得することに専念し，Amazonの利益率は長年1～7%だけである． 図1　Amazonの収益構造 　Bloombergによると，Amazonはアメリカ時間2022年11月9日，時価総額が8790億ドルになり，時価総額が1兆ドル落ちた初めての株式公開企業になってしまった [2]．理由としては，インフレ率の上昇，金利の上昇，経済の悪化などが考えられる．しかし，株価は需要と供給のバランスによって日々変動しているので，実際に企業のビジネスモデルを分析し企業価値を求めないと，企業の株価が安いか高いか評価できない． 1.2．サム・オブ・ザ・パーツ分析について 　本稿では，Amazonの各部門のビジネスモデルを分析し，サム・オブ・ザ・パーツ(Sum of the Parts, SOTP)分析によってAmazonの企業価値を算出し，株価と比較することでAmazonに投資する価値があるかどうか評価していきたいと思う． SOTP分析とは，複数の事業や資産を有する企業体の企業評価の手法であり，具体的には各事業や各資産毎に事業評価額を算出し，それらを積み上げて全体の企業評価を行う方法である．損をするリスクを最小限に抑えるため，保守的な仮定をしながら評価していきたいと思う．...",
+        "categories": [],
+        "date": "2023-02-02",
+        "tags": ["stock","portfolio","investment","Amazon"],
+        "url": "http://localhost:4000/202302_amazon-valuation/",
+        "img": "https://media.loom-app.com/gizmodo/dist/images/2022/11/11/shutterstock_1919679617.jpg?w=1280"
       },{
         "title": "First post!",
         "subtitle": null,
