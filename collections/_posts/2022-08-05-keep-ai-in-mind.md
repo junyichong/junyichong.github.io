@@ -52,7 +52,7 @@ Whether we like it or not, the advancement of AI technologies will not stop any 
 
 <br/>
 
-###### *(Note: This a "persuasive speech" I wrote and presented for my English class.)*
+###### *(Note: This is a "persuasive speech" I wrote and presented for my English class.)*
 
 <br/>
 

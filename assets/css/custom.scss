@@ -54,3 +54,51 @@ a.hover3:active {}
     width: 70px; /* Adjust the width as per your requirement */
     height: 70px; /* Set the height to maintain aspect ratio */
   }
+
+  .parallax2-img {
+    min-height: 350px;
+    background-position: bottom;
+    background-size: cover;
+    background-attachment: fixed;
+    filter: blur(0px) grayscale(0%) opacity(80%);
+    -webkit-filter: blur(0px) grayscale(0%) opacity(80%);
+}
+
+.motto-img {
+  height: 600px;
+  background-position: bottom;
+  background-size: cover;
+  filter: blur(0px) grayscale(0%) opacity(100%);
+  -webkit-filter: blur(0px) grayscale(0%) opacity(100%);
+  position: relative;
+}
+
+.motto {
+position: absolute;
+top: 0%;
+left: 0;
+width: 100%;
+text-align: center;
+}
+
+.motto-text {
+font-size: 23px;
+color: white;
+letter-spacing: 0px;
+line-height: 30px;
+padding: 0px 20px;
+text-transform: lowercase;
+text-shadow: 0px 0px 0px black;
+}
+
+.motto-overlay {
+position: absolute;
+background-color: black;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+width: 100%;
+height: 100%;
+opacity: 0.3;
+}
