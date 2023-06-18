@@ -34,6 +34,16 @@ var store = [{
         "url": "http://localhost:4000/202008_being-multilingual/",
         "img": "http://localhost:4000/assets/image/blog/bigbrain.jpg"
       },{
+        "title": "One Up on Wall Street",
+        "subtitle": null,
+        "excerpt":
+            "I have been pushing myself to once again pick up the habit of reading in 2021. The last time I read seriously I was 15 (now 22). So far I...",
+        "categories": [],
+        "date": "2021-09-13",
+        "tags": ["stock","investment","book"],
+        "url": "http://localhost:4000/202109_one-up-on-wall-street/",
+        "img": "http://localhost:4000/assets/image/blog/always.jpg"
+      },{
         "title": "Serba Dinamik: The Hindsight",
         "subtitle": null,
         "excerpt":
@@ -63,6 +73,16 @@ var store = [{
         "tags": ["stock","portfolio","recap","investment"],
         "url": "http://localhost:4000/202201_2021-recap/",
         "img": "https://cdn.vox-cdn.com/thumbor/rFOABU_NwquL9sBMldiQb39bPFQ=/1400x788/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/13739200/Screen_Shot_2019_02_05_at_3.24.25_PM.png"
+      },{
+        "title": "The Risks of Investing in Chinese Stocks",
+        "subtitle": null,
+        "excerpt":
+            "This article lists all the risks of investing in Chinese stocks (that I can think of and read about), in both Hong Kong and the US stock market. By the...",
+        "categories": [],
+        "date": "2022-03-21",
+        "tags": ["stock","investment","Chinese stocks"],
+        "url": "http://localhost:4000/202203_chinese-stocks/",
+        "img": "http://localhost:4000/assets/image/blog/notstonks.jpg"
       },{
         "title": "A Better Form of Money",
         "subtitle": null,
@@ -104,33 +124,23 @@ var store = [{
         "url": "http://localhost:4000/202302_amazon-valuation/",
         "img": "https://media.loom-app.com/gizmodo/dist/images/2022/11/11/shutterstock_1919679617.jpg?w=1280"
       },{
-        "title": "First post!",
+        "title": "Investment Portfolio Tracker",
         "subtitle": null,
         "excerpt":
-            "This is my first post, how exciting!  ",
+            "The Investment Portfolio Tracker is a powerful spreadsheet tool I developed to streamline and simplify investment portfolio management. This versatile tool allows users to track their investments, monitor portfolio performance,...",
         "categories": [],
-        "date": "2015-01-04",
-        "tags": ["random","exciting-stuff"],
-        "url": "http://localhost:4000/projects/first-post",
-        "img": null
+        "date": "2021-10-19",
+        "tags": ["investment","portfolio","stock"],
+        "url": "http://localhost:4000/projects/investment-portfolio",
+        "img": "https://www.bankrate.com/2019/03/22142110/How-to-trade-stocks.jpg?auto=webp&optimize=high&crop=16:9&width=912"
       },{
-        "title": "Pirates arrrr",
+        "title": "Pose Detection",
         "subtitle": null,
         "excerpt":
-            "Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water...",
+            "In this project, I explored and compared two popular methods for pose detection: MediaPipe and MoveNet. Through this project, I aimed to analyze the strengths and limitations of each approach...",
         "categories": [],
-        "date": "2015-01-15",
-        "tags": ["pirates","random","wikipedia"],
-        "url": "http://localhost:4000/projects/pirates",
-        "img": null
-      },{
-        "title": "Soccer",
-        "subtitle": "Best sport ever!",
-        "excerpt":
-            "From Wikipedia: Association football, more commonly known as football or soccer,[2] is a sport played between two teams of eleven players with a spherical ball. It is played by 250...",
-        "categories": [],
-        "date": "2015-01-19",
-        "tags": ["random","exciting-stuff","wikipedia"],
-        "url": "http://localhost:4000/projects/soccer",
-        "img": null
+        "date": "2023-06-01",
+        "tags": ["pose detection","MediaPipe","MoveNet"],
+        "url": "http://localhost:4000/projects/pose-detection",
+        "img": "https://editor.analyticsvidhya.com/uploads/33408human-pose-estimation-cover.jpg"
       }]

@@ -27,6 +27,10 @@ a.hover3:visited {text-decoration: none;}
 a.hover3:hover {color: inherit; text-decoration: underline}
 a.hover3:active {}
 
+.text-shadow {
+  text-shadow: 0px 1px 3px rgb(112, 128, 235);
+  font-weight: bold;
+  }
 
 .box {
     position: relative;

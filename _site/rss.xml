@@ -7,8 +7,8 @@
 		<description>by junyichong</description>
 		<language>en-US</language>
 		<copyright>(c) 2023, Chong Jun Yi</copyright>	
-		<pubDate>Sun, 18 Jun 2023 17:00:32 +0900</pubDate>
-		<lastBuildDate>Sun, 18 Jun 2023 17:00:32 +0900</lastBuildDate>
+		<pubDate>Sun, 18 Jun 2023 21:11:10 +0900</pubDate>
+		<lastBuildDate>Sun, 18 Jun 2023 21:11:10 +0900</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml" />
@@ -18,6 +18,44 @@
 			<link>http://localhost:4000/</link>
 			<description>by junyichong</description>
 		</image><item>
+			<title>Pose Detection</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>1 min.</p>
+				<div><p>In this project, I explored and compared two popular methods for pose detection: MediaPipe and MoveNet. Through this project, I aimed to analyze the strengths and limitations of each approach and gain insights into their performance in real-time pose estimation. This is initially a project I planned for my lab research but I ended up using a more accurate (and expensive) motion capture system instead of doing pose detection through videos.</p>
+
+<p><br /></p>
+
+<h5 id="mediapipe">MediaPipe:</h5>
+
+<p><a href="https://github.com/junyichong/pose-detection-mediapipe">Github link</a></p>
+
+<p>Using MediaPipe, I implemented a pose detection system that leverages its robust and efficient framework. MediaPipe provides a comprehensive set of pre-trained models and pipelines for various computer vision tasks, including pose estimation. The MediaPipe-based solution offers accurate and reliable pose detection, making it suitable for a wide range of applications.</p>
+
+<p><br /></p>
+
+<h5 id="movenet">MoveNet:</h5>
+
+<p><a href="https://github.com/junyichong/pose-detection-movenet">Github link</a></p>
+
+<p>Another method I examined is MoveNet, an advanced pose estimation model developed by Google Research. MoveNet utilizes deep learning techniques and lightweight architecture, enabling real-time pose tracking on resource-constrained devices. By implementing MoveNet, I explored its capabilities in delivering accurate and efficient pose estimation results.</p>
+
+<p><br /></p>
+
+<p>Through this project, I conducted a comparative analysis of these two methods, examining factors such as accuracy, speed, and resource requirements. By understanding the trade-offs and unique features of each approach, I aimed to provide insights for selecting the most suitable pose detection method based on specific project requirements.</p>
+
+<p>Overall, this project contributes to the field of computer vision by offering a comprehensive examination of pose detection techniques, showcasing the versatility and performance of MediaPipe and MoveNet in real-world scenarios.</p>
+</div>
+				]]>
+			</description>
+			<link>http://localhost:4000/projects/pose-detection</link>
+			<category>projects</category>
+		    <category>MediaPipe</category><category>MoveNet</category><category>pose detection</category><media:title type="html"><![CDATA[Pose Detection ]]></media:title>
+      <media:content url="https://editor.analyticsvidhya.com/uploads/33408human-pose-estimation-cover.jpg" medium="image"/>
+      <media:thumbnail url="https://editor.analyticsvidhya.com/uploads/33408human-pose-estimation-cover.jpg" /><guid isPermaLink="true">http://localhost:4000/projects/pose-detection</guid>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0900</pubDate>
+		</item><item>
 			<title>Amazonの企業価値評価</title>
 			<description>
 				<![CDATA[	
@@ -509,6 +547,80 @@ SOTP分析とは，複数の事業や資産を有する企業体の企業評価�
       <media:thumbnail url="https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2022/03/pexels-pixabay-315788-scaled.jpg" /><guid isPermaLink="true">http://localhost:4000/202207_a-better-form-of-money/</guid>
       <pubDate>Sun, 03 Jul 2022 00:00:00 +0900</pubDate>
 		</item><item>
+			<title>The Risks of Investing in Chinese Stocks</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>5 min.</p>
+				<div><p>This article lists all the risks of investing in Chinese stocks (that I can think of and read about), in both Hong Kong and the US stock market.</p>
+
+<p>By the time I finished this writing, I have 30% of my portfolio in Chinese stocks, split 2:1 between $BABA and $KWEB.</p>
+
+<p><br /></p>
+
+<h4 id="real-estate-bubble">Real Estate Bubble</h4>
+
+<p>The people in China have always been putting their life savings in the housing market, instead of the stock market like in the US. One of the reasons could be the Chinese tradition of everyone (especially guys) needing to have their own house, in order to start a family. Besides, it is said that the real estate prices can only go up, right? (2008 flashback)</p>
+
+<p>This has made buying a house in China enormously expensive, with a house price-to-household income ratio of 19 in the biggest “tier-one” cities such as Beijing or Shanghai, 10 in tier-two and seven in tier-three cities. The average ratio in the UK is about 10 and in the US it is four.</p>
+
+<p>The problem worsens as 20 of the top 30 property firms in China have breached at least one of three debt redlines set down by the Beijing government to rein in real estate speculation, with Evergrande making the headlines lately. The collapse of Evergrande — which employs 200,000 people and indirectly sustains 3 million jobs — might cause a serious chain reaction in the country, and make domestic and foreign investors lose billions.</p>
+
+<p><br /></p>
+
+<h4 id="variable-interest-entity-vie-structure">Variable Interest Entity (VIE) Structure</h4>
+
+<p>Under Chinese law, foreign ownership in certain (most) Chinese industries is prohibited. So, a company that desires to raise capital overseas has to create a Cayman Islands listed shell company (no real business, no office, no employees), then create a complex web of legal agreements to give the shell company a claim on the profits and control of the assets. This is called the VIE structure.</p>
+
+<p>Through this structure, investors only own shares of the shell company instead of the actual underlying Chinese company. Therefore, at its most extreme, China is completely within its legal right (even if it was illegal, would the CCP care?) to declare all these VIEs worthless, which would wipe out trillions of dollars from international shareholders invested in these VIE companies.</p>
+
+<p>However, some companies, like $BABA have upsized their share repurchase program from $10 billion to $15 billion through 2022, which means they will be buying back the ‘fake shares’ like the rest of us.</p>
+
+<p><br /></p>
+
+<h4 id="policy-change">Policy Change</h4>
+<p>A few months ago, Chinese regulators published reforms that will make private firms teaching the school curriculum ‘non-profit organization’, as Beijing aims to overhaul a sector it says has been “hijacked by capital.” The new regulations ban firms that teach school curriculums from making profits, raising capital, or going public. This should be a good thing for the young generation in China, who are being put under unimaginable pressure by their parents and teachers, to ace the Gao Kao exam.</p>
+
+<p>China’s strict limits on how long minors can play online video games just got stricter. The rules released recently tightened restrictions to curb online game addiction among schoolchildren, which Chinese children and teenagers are barred from online gaming on school days, and limited to one hour a day on weekends and holiday evenings.</p>
+
+<p>Let’s not forget the news where China suspended the $34 billion IPO of Ant Group, the largest FinTech company in China owned by $BABA, just two days before its planned listing, right after Jack Ma criticized the Chinese financial system.</p>
+
+<p>The CCP has been asserting greater control over its private companies, particularly companies like $BABA and Tencent that have extensive data on over a billion Chinese citizens. They are the easy target if the crackdown by the CCP continues.</p>
+
+<p><br /></p>
+
+<h4 id="delisting-fear">Delisting Fear</h4>
+
+<p>$DIDI, a $39 billion ride-hailing company in China, announced that it would delist its shares from the New York Stock Exchange due to concerns about data security. Just six months ago, $DIDI raised billions of dollars from American pension funds and international investors in their initial public offering, ignoring objections from the CCP. This makes investors fear that other Chinese companies in the US would be delisted too. This year, it is estimated that nearly 250 Chinese firms had a total market cap of $2.1 trillion (which is declining every day) trading on American exchanges. It would cause chaos if some of the big names got delisted.</p>
+
+<p>Under the latest regulation, auditing firms have to be subject to inspection by the Public Company Accounting Oversight Board (PCAOB) for all public securities in the US. While more than 50 jurisdictions have worked with the PCAOB to allow the required inspections, two historically have not: China and Hong Kong. If governmental authorities don’t allow the auditors of foreign companies to open their papers to PCAOB inspection for three consecutive years, the companies could be prohibited from trading in the US.</p>
+
+<p>Even though the ADR shares trading in the US is fully convertible to ordinary shares in Hong Kong in the case of delisting, a crash in share price is most certainly inevitable.</p>
+
+<p><br /></p>
+
+<h4 id="common-prosperity">Common Prosperity</h4>
+
+<p>China seeks a private sector more in line with the CCP’s common prosperity goal — aims that Wall Street investors most likely can’t help with. $BABA pledged to ‘donate’ 100 billion yuan ($15.5 billion) to help narrow the nation’s wealth gap by 2025, while Tencent said they would invest 50 billion yuan. This is definitely bad for the investors as the money could be distributed as dividends, used to do share buyback, or invested in the business itself.</p>
+
+<p>As a company that generated $29 billion of free cash flow in 2021, the donation probably won’t hurt $BABA too much. However, who knows if they will be asked for another 100 billion after 2025. On the bright side, the capital spent will be used to help lift millions of Chinese from poverty, which in the long run will benefit the economy and all the companies in China.</p>
+
+<p><br /></p>
+
+<h4 id="chinas-growth-slowdown">China’s Growth Slowdown</h4>
+
+<p>The world’s second-largest economy grew by a weaker-than-expected 4.9% over a year ago in the three months ending in September, down from the previous quarter’s 7.9%. Factory output, retail sales and investment in construction and other fixed assets all weakened.</p>
+
+</div>
+				]]>
+			</description>
+			<link>http://localhost:4000/202203_chinese-stocks/</link>
+			<category>posts</category>
+		    <category>Chinese stocks</category><category>investment</category><category>stock</category><media:title type="html"><![CDATA[The Risks of Investing in Chinese Stocks ]]></media:title>
+      <media:content url="http://localhost:4000/assets/image/blog/notstonks.jpg" medium="image"/>
+      <media:thumbnail url="http://localhost:4000/assets/image/blog/notstonks.jpg" /><guid isPermaLink="true">http://localhost:4000/202203_chinese-stocks/</guid>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0900</pubDate>
+		</item><item>
 			<title>2021 RECAP</title>
 			<description>
 				<![CDATA[	
@@ -831,6 +943,175 @@ Put in more money after I settle everything in university.</p>
       <media:thumbnail url="http://localhost:4000/assets/image/blog/mcd.jpg" /><guid isPermaLink="true">http://localhost:4000/202112_serba-dinamik/</guid>
       <pubDate>Sun, 19 Dec 2021 00:00:00 +0900</pubDate>
 		</item><item>
+			<title>Investment Portfolio Tracker</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>1 min.</p>
+				<div><p>The Investment Portfolio Tracker is a powerful spreadsheet tool I developed to streamline and simplify investment portfolio management. This versatile tool allows users to track their investments, monitor portfolio performance, and seamlessly share the tracker with other individuals or teams.</p>
+
+<p><br /></p>
+
+<h5 id="key-features">Key Features:</h5>
+
+<ol>
+  <li>
+    <p>Comprehensive Portfolio Tracking:
+The tracker provides a comprehensive overview of investments, allowing users to organize and track various assets, such as stocks, bonds, ETFs, or cryptocurrencies. It enables users to record important details like the purchase date, quantity, cost, fees, and any additional notes. Users can also track the cash flow in the portfolio through cash deposit and withdrawal.</p>
+  </li>
+  <li>
+    <p>Real-Time Data Updates:
+Leveraging the power of live data feeds using Google Finance and integration with financial APIs, the tracker fetches and updates asset prices automatically, ensuring real-time valuation of the portfolio. This feature provides users with up-to-date insights into their investments’ performance and overall portfolio value.</p>
+  </li>
+  <li>
+    <p>Performance Analysis:
+The tracker incorporates built-in calculations and visualizations to analyze portfolio performance. It generates reports, charts, and graphs that illustrate asset allocation, historical returns, and performance metrics. These tools aid users in assessing the strengths and weaknesses of their investment strategy.</p>
+  </li>
+  <li>
+    <p>Collaborative Sharing:
+A feature of this portfolio tracker is its ability to be shared with other individuals or teams. Users can grant access to colleagues, partners, or financial advisors, enabling them to view and collaborate on the portfolio in real-time. This fosters efficient communication, collaboration, and joint decision-making regarding investment strategies.</p>
+  </li>
+  <li>
+    <p>Customization and Flexibility:
+The spreadsheet-based design allows users to customize the tracker to suit their specific needs. They can add or remove columns, create additional sheets, or incorporate formulas and macros to automate calculations or perform advanced analysis.</p>
+  </li>
+</ol>
+
+<p><br /></p>
+
+<p>The Investment Portfolio Tracker offers a user-friendly interface, empowering investors to effectively monitor their investments, evaluate performance, and collaborate with others seamlessly. With its flexible design and robust features, this tool serves as a valuable asset for individuals or teams seeking to manage their investment portfolios efficiently and make informed financial decisions.</p>
+
+<p><br /></p>
+
+<p>You can make a copy for yourself with the links below:</p>
+
+<p><a href="https://docs.google.com/spreadsheets/d/1KJYMk7UK99LpfPPCZvGofY9JCXBSEyuLkiQhRdQleAc/edit#gid=15">Version 1.0</a>: 
+In this version, users can only track their investments in the KLSE.</p>
+</div>
+				]]>
+			</description>
+			<link>http://localhost:4000/projects/investment-portfolio</link>
+			<category>projects</category>
+		    <category>investment</category><category>portfolio</category><category>stock</category><media:title type="html"><![CDATA[Investment Portfolio Tracker ]]></media:title>
+      <media:content url="https://www.bankrate.com/2019/03/22142110/How-to-trade-stocks.jpg?auto=webp&optimize=high&crop=16:9&width=912" medium="image"/>
+      <media:thumbnail url="https://www.bankrate.com/2019/03/22142110/How-to-trade-stocks.jpg?auto=webp&optimize=high&crop=16:9&width=912" /><guid isPermaLink="true">http://localhost:4000/projects/investment-portfolio</guid>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0900</pubDate>
+		</item><item>
+			<title>One Up on Wall Street</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>4 min.</p>
+				<div><p>I have been pushing myself to once again pick up the habit of reading in 2021. The last time I read seriously I was 15 (now 22). So far I have finished 11 books (not a lot but at least a good start) and One Up on Wall Street is one of them. Even though I have only read a few books about investing, this book by Peter Lynch is definitely the easiest to understand and no doubt my favourite. I will keep coming back to this article to keep myself on track when I feel uncertain about my investment. Hopefully, I will become a better and better investor.</p>
+
+<p><br /></p>
+
+<h4 id="personal-qualities">Personal Qualities</h4>
+<p>The qualities required to be a successful investor are patience, self-reliance, common sense, a tolerance for pain, open-mindedness, detachment, persistence, humility, flexibility, a willingness to do independent research, an equal willingness to admit to mistakes, and the ability to ignore general panic. It is also crucial to be able to resist human nature and your gut feeling.</p>
+
+<p><br /></p>
+
+<h4 id="reminder">Reminder</h4>
+
+<p>Just because the price goes up doesn’t mean you’re right.</p>
+
+<p>Just because the price goes down doesn’t mean you’re wrong.</p>
+
+<p>Sometime in the next month, year, or three years, the market will decline sharply.</p>
+
+<p>Market declines are great opportunities to buy stocks in companies you like.</p>
+
+<p>Unless you’re confident enough in the company to buy more shares in a dip or crash, sell immediately.
+When in doubt, tune in later.</p>
+
+<p>You don’t have own every good company.</p>
+
+<p>You don’t lose anything by not owning a successful stock, even if it’s a ten-bagger.</p>
+
+<p>There is no next Home Depot, no next Amazon, no next Costco.</p>
+
+<p>To come out ahead you don’t have to be right all the time, or even a majority of the time.</p>
+
+<p>Buying a company with mediocre prospects just because the stock is cheap is a losing technique.</p>
+
+<p>Selling an outstanding fast grower because its stock seems slightly overpriced is a losing technique.</p>
+
+<p>Don’t become so attached to a winner that complacency sets in and you stop monitoring the story.</p>
+
+<p>You won’t improve results by pulling out the flowers and watering the weeds.</p>
+
+<p>Don’t try time things that are beyond your control, i.e. interest rate, stock prices in the short term, monetary policy, recession, etc.</p>
+
+<p><br /></p>
+
+<h4 id="checklist">Checklist</h4>
+
+<p>Consider the size of a company if you expect it to profit from a specific product.</p>
+
+<p>It’s better to miss the first move in a stock and wait to see if a company’s plans are working out.</p>
+
+<p>Look for small companies that are already profitable and have proven that their concept is duplicatable in different markets.</p>
+
+<p>Moderately fast growers (20~25%) in nongrowth industries are ideal investments.</p>
+
+<p>Invest in simple companies that appear dull, mundane, out of favour, and haven’t caught the fancy of Wall Street.</p>
+
+<p>Companies that have no debt can’t go bankrupt.</p>
+
+<p>Base your purchases on the company’s prospects, not on the president’s resume or speaking ability.</p>
+
+<p>Avoid hot stocks in hot industries.</p>
+
+<p>If the stock is grossly overpriced, even if everything else goes right, you won’t make any money.</p>
+
+<p>Find a storyline to follow as a way of monitoring a company’s progress.</p>
+
+<p>Look for companies with little or no institutional ownership.</p>
+
+<p>All else being equal, favour companies in which management has a significant personal investment over companies run by people that benefit only from their salaries.</p>
+
+<p>Beware the stocks with exiting names.</p>
+
+<p>Buy a business that can be run by any idiot.</p>
+
+<p><br /></p>
+
+<h4 id="the-six-categories-of-stocks">The Six Categories of Stocks</h4>
+
+<h6 id="1-the-slow-growers--focus-on-dividend-and-payout-ratio">1. THE SLOW GROWERS — focus on dividend and payout ratio</h6>
+
+<p>Large and aging companies are the slower grower but slightly faster than the gross national product. Sooner or later every popular fast-growing industry becomes slow growing.</p>
+
+<h6 id="2-the-stalwarts--focus-on-pe-ratio-and-factors-to-accelerate-growth-rate">2. THE STALWARTS — focus on P/E ratio and factors to accelerate growth rate</h6>
+
+<p>These are multi-billion companies that are expected to grow faster than slow growers (10~12% annual growth). Companies in this category offer good protection during recessions and hard times. For example, people will continue to eat cornflakes during recession and thus Kellogg will grow steadily.</p>
+
+<h6 id="3-the-fast-growers---focus-on-where-and-how-it-plans-to-continue-to-grow-fast">3. THE FAST GROWERS  — focus on where and how it plans to continue to grow fast</h6>
+
+<p>These are small, aggressive new enterprises that grow at 20~25% a year. With a small portfolio, one or two of these can make a career. A fast growing company doesn’t necessarily have to be in the fast-growing industry. Risk in fast growers is overzealous and underfinanced young companies.</p>
+
+<h6 id="4-the-cyclicals--focus-on-business-conditions-inventories-and-prices">4. THE CYCLICALS — focus on business conditions, inventories and prices</h6>
+
+<p>In a cyclical industry, companies’ sales and profits are expanding and contracting regularly. The autos and the airlines, the tire companies, steel companies, and chemical companies are all cyclicals. When bought at the wrong part of the economic cycle, it may be years before you’ll see another upswing.</p>
+
+<h6 id="5-turnarounds--focus-on-the-companys-plan">5. TURNAROUNDS — focus on the company’s plan</h6>
+
+<p>Turnaround candidates have been battered, depressed and go so far down in a down cycle that people think it would never come back again. The majority of turnarounds fail, but the occasional major success makes the turnaround business very exciting, and very rewarding overall.</p>
+
+<h6 id="6-the-asset-plays--focus-on-assets-and-how-much-they-are-worth">6. THE ASSET PLAYS — focus on assets and how much they are worth</h6>
+
+<p>An asset play is any company that is sitting on something valuable that you have known about, but the crown has overlooked. You are looking for a business with assets whether it’s cash, investments, properties, machines, etc that is worth more than the price you will pay for the stock.</p>
+
+</div>
+				]]>
+			</description>
+			<link>http://localhost:4000/202109_one-up-on-wall-street/</link>
+			<category>posts</category>
+		    <category>book</category><category>investment</category><category>stock</category><media:title type="html"><![CDATA[One Up on Wall Street ]]></media:title>
+      <media:content url="http://localhost:4000/assets/image/blog/always.jpg" medium="image"/>
+      <media:thumbnail url="http://localhost:4000/assets/image/blog/always.jpg" /><guid isPermaLink="true">http://localhost:4000/202109_one-up-on-wall-street/</guid>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0900</pubDate>
+		</item><item>
 			<title>Being Multilingual</title>
 			<description>
 				<![CDATA[	
@@ -1027,52 +1308,5 @@ I can tell my spy friend, “- -    - — - -    — - —” over a bugged phon
       <media:content url="http://localhost:4000/assets/image/blog/sadkeanu2.jpg" medium="image"/>
       <media:thumbnail url="http://localhost:4000/assets/image/blog/sadkeanu2.jpg" /><guid isPermaLink="true">http://localhost:4000/202007_part-time-job/</guid>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0900</pubDate>
-		</item><item>
-			<title>Soccer</title>
-			<description>
-				<![CDATA[	
- 				<h3><p>Best sport ever!</p>
-</h3>
-    		<p>1 min.</p>
-				<div><p>From Wikipedia:</p>
-
-<p>Association football, more commonly known as football or soccer,[2] is a sport played between two teams of eleven players with a spherical ball. It is played by 250 million players in over 200 countries, making it the world’s most popular sport.[3][4][5][6] The game is played on a rectangular field with a goal at each end. The object of the game is to score by getting the ball into the opposing goal.</p>
-
-<p>The goalkeepers are the only players allowed to touch the ball with their hands or arms while it is in play and then only in their penalty area. Outfield players mostly use their feet to strike or pass the ball, but may use their head or torso to strike the ball instead. The team that scores the most goals by the end of the match wins. If the score is level at the end of the game, either a draw is declared or the game goes into extra time and/or a penalty shootout depending on the format of the competition. The Laws of the Game were originally codified in England by The Football Association in 1863. Association football is governed internationally by the International Federation of Association Football (FIFA; French: Fédération Internationale de Football Association) which organises a World Cup every four years.[7]</p>
-</div>
-				]]>
-			</description>
-			<link>http://localhost:4000/projects/soccer</link>
-			<category>projects</category>
-		    <category>exciting-stuff</category><category>random</category><category>wikipedia</category><guid isPermaLink="true">http://localhost:4000/projects/soccer</guid>
-      <pubDate>Mon, 19 Jan 2015 00:00:00 +0900</pubDate>
-		</item><item>
-			<title>Pirates arrrr</title>
-			<description>
-				<![CDATA[	
- 				
-    		<p>1 min.</p>
-				<div><p>Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. It does not normally include crimes committed against persons traveling on the same vessel as the perpetrator (e.g. one passenger stealing from others on the same vessel). The term has been used throughout history to refer to raids across land borders by non-state agents.</p>
-</div>
-				]]>
-			</description>
-			<link>http://localhost:4000/projects/pirates</link>
-			<category>projects</category>
-		    <category>pirates</category><category>random</category><category>wikipedia</category><guid isPermaLink="true">http://localhost:4000/projects/pirates</guid>
-      <pubDate>Thu, 15 Jan 2015 00:00:00 +0900</pubDate>
-		</item><item>
-			<title>First post!</title>
-			<description>
-				<![CDATA[	
- 				
-    		<p>1 min.</p>
-				<div><p>This is my first post, how exciting!</p>
-</div>
-				]]>
-			</description>
-			<link>http://localhost:4000/projects/first-post</link>
-			<category>projects</category>
-		    <category>exciting-stuff</category><category>random</category><guid isPermaLink="true">http://localhost:4000/projects/first-post</guid>
-      <pubDate>Sun, 04 Jan 2015 00:00:00 +0900</pubDate>
 		</item></channel>
 </rss>
