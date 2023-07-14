@@ -7,8 +7,8 @@
 		<description>by junyichong</description>
 		<language>en-US</language>
 		<copyright>(c) 2023, Chong Jun Yi</copyright>	
-		<pubDate>Fri, 14 Jul 2023 11:05:55 +0900</pubDate>
-		<lastBuildDate>Fri, 14 Jul 2023 11:05:55 +0900</lastBuildDate>
+		<pubDate>Fri, 14 Jul 2023 11:13:43 +0900</pubDate>
+		<lastBuildDate>Fri, 14 Jul 2023 11:13:43 +0900</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml" />
@@ -1009,8 +1009,12 @@ The spreadsheet-based design allows users to customize the tracker to suit their
 
 <p>You can make a copy for yourself with the links below:</p>
 
-<p><a href="https://docs.google.com/spreadsheets/d/1KJYMk7UK99LpfPPCZvGofY9JCXBSEyuLkiQhRdQleAc/edit#gid=15">Version 1.0</a>: 
-In this version, users can only track their investments in the KLSE.</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1KJYMk7UK99LpfPPCZvGofY9JCXBSEyuLkiQhRdQleAc/edit#gid=15">Version 1.0</a>:</p>
+<ul>
+  <li>track investments in the KLSE</li>
+  <li>sort investments into 5 categories (REIT, Blue Chip, Value, Growth, Speculation)</li>
+  <li>see total fees</li>
+</ul>
 </div>
 				]]>
 			</description>

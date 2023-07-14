@@ -35,4 +35,6 @@ The Investment Portfolio Tracker offers a user-friendly interface, empowering in
 You can make a copy for yourself with the links below:
 
 [Version 1.0](https://docs.google.com/spreadsheets/d/1KJYMk7UK99LpfPPCZvGofY9JCXBSEyuLkiQhRdQleAc/edit#gid=15): 
-In this version, users can only track their investments in the KLSE.
+- track investments in the KLSE
+- sort investments into 5 categories (REIT, Blue Chip, Value, Growth, Speculation)
+- see total fees

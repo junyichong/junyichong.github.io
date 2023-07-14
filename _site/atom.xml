@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
-	<updated>2023-07-14T11:05:55+09:00</updated>
+	<updated>2023-07-14T11:13:43+09:00</updated>
 	<id>http://localhost:4000/atom.xml</id>
 	<title>Page Found 404 | by junyichong</title>
 	<subtitle>by junyichong</subtitle>
@@ -1091,8 +1091,12 @@ The spreadsheet-based design allows users to customize the tracker to suit their
 
 &lt;p&gt;You can make a copy for yourself with the links below:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1KJYMk7UK99LpfPPCZvGofY9JCXBSEyuLkiQhRdQleAc/edit#gid=15&quot;&gt;Version 1.0&lt;/a&gt;: 
-In this version, users can only track their investments in the KLSE.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1KJYMk7UK99LpfPPCZvGofY9JCXBSEyuLkiQhRdQleAc/edit#gid=15&quot;&gt;Version 1.0&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;track investments in the KLSE&lt;/li&gt;
+  &lt;li&gt;sort investments into 5 categories (REIT, Blue Chip, Value, Growth, Speculation)&lt;/li&gt;
+  &lt;li&gt;see total fees&lt;/li&gt;
+&lt;/ul&gt;
 
 		</content>
 		
