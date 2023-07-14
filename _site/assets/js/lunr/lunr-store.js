@@ -143,4 +143,14 @@ var store = [{
         "tags": ["pose detection","MediaPipe","MoveNet"],
         "url": "http://localhost:4000/projects/pose-detection",
         "img": "https://editor.analyticsvidhya.com/uploads/33408human-pose-estimation-cover.jpg"
+      },{
+        "title": "Live Stream Chat Scraper and Analysis",
+        "subtitle": null,
+        "excerpt":
+            "In this project, I aimed to leverage the power of live stream chat to extract valuable insights and analytics. Utilizing the chat-downloader tool developed by xenova, I successfully retrieved chat...",
+        "categories": [],
+        "date": "2023-07-14",
+        "tags": ["live stream","chat scraper"],
+        "url": "http://localhost:4000/projects/chat-analysis",
+        "img": "https://cdn.mos.cms.futurecdn.net/rP2H723xYVPHsEFikvT2i6.jpg"
       }]

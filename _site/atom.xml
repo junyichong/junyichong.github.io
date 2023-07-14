@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
-	<updated>2023-06-18T21:19:30+09:00</updated>
+	<updated>2023-07-14T11:05:55+09:00</updated>
 	<id>http://localhost:4000/atom.xml</id>
 	<title>Page Found 404 | by junyichong</title>
 	<subtitle>by junyichong</subtitle>
@@ -14,6 +14,37 @@
 	<rights>(c) 2023, Chong Jun Yi</rights>
 	
 	<logo>https://github.com/junyichong.png</logo><entry>
+		<title>Live Stream Chat Scraper and Analysis</title>
+		<link href="http://localhost:4000/projects/chat-analysis" rel="alternate" type="text/html" title="Live Stream Chat Scraper and Analysis"/>
+		<published>2023-07-14T00:00:00+09:00</published>
+		<updated>2023-07-14T00:00:00+09:00</updated>
+		<id>http://localhost:4000/projects/chat-analysis</id>
+		<content type="html" xml:base="http://localhost:4000/projects/chat-analysis">
+		
+  		
+			&lt;img src=&#39;https://cdn.mos.cms.futurecdn.net/rP2H723xYVPHsEFikvT2i6.jpg&#39; &gt;
+			
+	&lt;p&gt;1 min.&lt;/p&gt;
+			&lt;p&gt;In this project, I aimed to leverage the power of live stream chat to extract valuable insights and analytics. Utilizing the &lt;a href=&quot;https://github.com/xenova/chat-downloader&quot;&gt;chat-downloader&lt;/a&gt; tool developed by xenova, I successfully retrieved chat data from popular live streaming platforms such as Twitch and YouTube. I conducted a comprehensive analysis of the chats from famous streamers like XQC, Disguised Toast, and Ludwig.&lt;/p&gt;
+
+&lt;p&gt;For instance, I focused on extracting all chat messages from the initial 10 minutes of each live stream, organizing them based on unique users, and calculating the average number of messages per chatter. To facilitate easy comparison of metrics across different streamers, I compiled the results into a .csv file.&lt;/p&gt;
+
+&lt;p&gt;Among the seven streamers I analyzed, XQC unsurprisingly garnered the highest number of chatters (5795) during the first 10 minutes. Interestingly, Fuslie stood out with the most dedicated fan base, as they averaged 3.3 messages per chatter! (Let’s go LESLER!)&lt;/p&gt;
+
+&lt;p&gt;By harnessing live stream chat data, this project shed light on audience engagement, fan loyalty, and popular streamers’ reach. It exemplifies the power of data analysis in uncovering valuable insights within the dynamic and interactive realm of live streaming.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/junyichong/chat-analysis/tree/main&quot;&gt;Github link&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		
+		<author>
+			<name>Chong Jun Yi</name></author>
+		<summary type="html">&lt;p&gt;In this project, I aimed to leverage the power of live stream chat to extract valuable insights and analytics. Utilizing the &lt;a href=&quot;https://github.com/xenova/chat-downloader&quot;&gt;chat-downloader&lt;/a&gt; tool developed by xenova, I successfully retrieved chat data from popular live streaming platforms such as Twitch and YouTube. I conducted a comprehensive analysis of the chats from famous streamers like XQC, Disguised Toast, and Ludwig.&lt;/p&gt;
+
+</summary>
+		<category term="projects"/>
+		<category term="chat scraper"/><category term="live stream"/>
+	</entry><entry>
 		<title>Pose Detection</title>
 		<link href="http://localhost:4000/projects/pose-detection" rel="alternate" type="text/html" title="Pose Detection"/>
 		<published>2023-06-01T00:00:00+09:00</published>

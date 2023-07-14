@@ -8,7 +8,7 @@ header_img: ../assets/image/flower.jpg
 
 <h3><a href="https://docs.google.com/spreadsheets/d/1ePEcpLNRmXISJV8rtCk3hKJ-w-9MiT_yH2cuIAUOrcM/edit#gid=6" target="_blank">Total Portfolio</a></h3>
 
-*Updated on 28 May 2023*
+*Updated on 14 July 2023*
 
 <div class="w3-container" style="padding:0px 0px 0px">
     <img title="Portfolio" class="w3-image w3-padding" width="600" max-width="600"

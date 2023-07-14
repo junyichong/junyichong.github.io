@@ -7,8 +7,8 @@
 		<description>by junyichong</description>
 		<language>en-US</language>
 		<copyright>(c) 2023, Chong Jun Yi</copyright>	
-		<pubDate>Sun, 18 Jun 2023 21:19:30 +0900</pubDate>
-		<lastBuildDate>Sun, 18 Jun 2023 21:19:30 +0900</lastBuildDate>
+		<pubDate>Fri, 14 Jul 2023 11:05:55 +0900</pubDate>
+		<lastBuildDate>Fri, 14 Jul 2023 11:05:55 +0900</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml" />
@@ -18,6 +18,30 @@
 			<link>http://localhost:4000/</link>
 			<description>by junyichong</description>
 		</image><item>
+			<title>Live Stream Chat Scraper and Analysis</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>1 min.</p>
+				<div><p>In this project, I aimed to leverage the power of live stream chat to extract valuable insights and analytics. Utilizing the <a href="https://github.com/xenova/chat-downloader">chat-downloader</a> tool developed by xenova, I successfully retrieved chat data from popular live streaming platforms such as Twitch and YouTube. I conducted a comprehensive analysis of the chats from famous streamers like XQC, Disguised Toast, and Ludwig.</p>
+
+<p>For instance, I focused on extracting all chat messages from the initial 10 minutes of each live stream, organizing them based on unique users, and calculating the average number of messages per chatter. To facilitate easy comparison of metrics across different streamers, I compiled the results into a .csv file.</p>
+
+<p>Among the seven streamers I analyzed, XQC unsurprisingly garnered the highest number of chatters (5795) during the first 10 minutes. Interestingly, Fuslie stood out with the most dedicated fan base, as they averaged 3.3 messages per chatter! (Let’s go LESLER!)</p>
+
+<p>By harnessing live stream chat data, this project shed light on audience engagement, fan loyalty, and popular streamers’ reach. It exemplifies the power of data analysis in uncovering valuable insights within the dynamic and interactive realm of live streaming.</p>
+
+<p><a href="https://github.com/junyichong/chat-analysis/tree/main">Github link</a></p>
+</div>
+				]]>
+			</description>
+			<link>http://localhost:4000/projects/chat-analysis</link>
+			<category>projects</category>
+		    <category>chat scraper</category><category>live stream</category><media:title type="html"><![CDATA[Live Stream Chat Scraper and Analysis ]]></media:title>
+      <media:content url="https://cdn.mos.cms.futurecdn.net/rP2H723xYVPHsEFikvT2i6.jpg" medium="image"/>
+      <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/rP2H723xYVPHsEFikvT2i6.jpg" /><guid isPermaLink="true">http://localhost:4000/projects/chat-analysis</guid>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0900</pubDate>
+		</item><item>
 			<title>Pose Detection</title>
 			<description>
 				<![CDATA[	
