@@ -7,8 +7,8 @@
 		<description>by junyichong</description>
 		<language>en-US</language>
 		<copyright>(c) 2023, Chong Jun Yi</copyright>	
-		<pubDate>Fri, 14 Jul 2023 11:13:43 +0900</pubDate>
-		<lastBuildDate>Fri, 14 Jul 2023 11:13:43 +0900</lastBuildDate>
+		<pubDate>Sun, 16 Jul 2023 19:35:47 +0900</pubDate>
+		<lastBuildDate>Sun, 16 Jul 2023 19:35:47 +0900</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml" />
@@ -1009,11 +1009,18 @@ The spreadsheet-based design allows users to customize the tracker to suit their
 
 <p>You can make a copy for yourself with the links below:</p>
 
-<p><a href="https://docs.google.com/spreadsheets/d/1KJYMk7UK99LpfPPCZvGofY9JCXBSEyuLkiQhRdQleAc/edit#gid=15">Version 1.0</a>:</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1KJYMk7UK99LpfPPCZvGofY9JCXBSEyuLkiQhRdQleAc/edit#gid=15">V1.0</a>:</p>
 <ul>
   <li>track investments in the KLSE</li>
   <li>sort investments into 5 categories (REIT, Blue Chip, Value, Growth, Speculation)</li>
   <li>see total fees</li>
+</ul>
+
+<p><a href="https://docs.google.com/spreadsheets/d/1pytKYgiZIDsyQ0fzBvyogrh8iBufVE9Qv4uQ4DXa7Mo/edit#gid=6">V1.1</a>:</p>
+<ul>
+  <li>track investments in the KLSE</li>
+  <li>dark mode</li>
+  <li>removed category</li>
 </ul>
 </div>
 				]]>
