@@ -7,8 +7,8 @@
 		<description>by junyichong</description>
 		<language>en-US</language>
 		<copyright>(c) 2023, Chong Jun Yi</copyright>	
-		<pubDate>Sun, 16 Jul 2023 19:35:47 +0900</pubDate>
-		<lastBuildDate>Sun, 16 Jul 2023 19:35:47 +0900</lastBuildDate>
+		<pubDate>Wed, 26 Jul 2023 11:45:01 +0900</pubDate>
+		<lastBuildDate>Wed, 26 Jul 2023 11:45:01 +0900</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml" />
@@ -1021,6 +1021,13 @@ The spreadsheet-based design allows users to customize the tracker to suit their
   <li>track investments in the KLSE</li>
   <li>dark mode</li>
   <li>removed category</li>
+</ul>
+
+<p><a href="https://docs.google.com/spreadsheets/d/1kttSMgYIRa_Mmmr8cNw0pTH1Bx3R0q-loEVEtDAOjVU/edit#gid=6">V2.0</a>:</p>
+<ul>
+  <li>track international investments</li>
+  <li>dark mode</li>
+  <li>sort investments into 4 categories (USD, US Stocks, China Stocks, Other)</li>
 </ul>
 </div>
 				]]>

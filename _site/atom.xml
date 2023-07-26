@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
-	<updated>2023-07-16T19:35:47+09:00</updated>
+	<updated>2023-07-26T11:45:01+09:00</updated>
 	<id>http://localhost:4000/atom.xml</id>
 	<title>Page Found 404 | by junyichong</title>
 	<subtitle>by junyichong</subtitle>
@@ -1103,6 +1103,13 @@ The spreadsheet-based design allows users to customize the tracker to suit their
   &lt;li&gt;track investments in the KLSE&lt;/li&gt;
   &lt;li&gt;dark mode&lt;/li&gt;
   &lt;li&gt;removed category&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1kttSMgYIRa_Mmmr8cNw0pTH1Bx3R0q-loEVEtDAOjVU/edit#gid=6&quot;&gt;V2.0&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;track international investments&lt;/li&gt;
+  &lt;li&gt;dark mode&lt;/li&gt;
+  &lt;li&gt;sort investments into 4 categories (USD, US Stocks, China Stocks, Other)&lt;/li&gt;
 &lt;/ul&gt;
 
 		</content>
