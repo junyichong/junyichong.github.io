@@ -1,7 +1,7 @@
 ---
 layout: indexcategory
 title: 'Projects'
-subtitle: 'my very high effort works'
+subtitle: 'my extremely high effort works'
 permalink: /projects
 include_collection: projects
 index_sort: date
