@@ -21,7 +21,7 @@ header_img: ../assets/image/flower.jpg
 
 <div class="image-container">
     <a href="https://docs.google.com/spreadsheets/d/1qdFK497pn5k0ho04FuBRrXCS_HnsCsMqx7EzPnnGfNU/edit#gid=6" target="_blank"><img border="0" data-original-height="512" data-original-width="512" height="70" src="https://images-na.ssl-images-amazon.com/images/I/41vhau+b0IS.eprt" width="70" alt="IBKR"/></a>
-    <a href="https://docs.google.com/spreadsheets/d/1LfaYtySUEs_tY80JPCqIYt7JgK0pe06Y5AerM4uQqX4/edit#gid=1447322971"  target="_blank"><img border="0" data-original-height="512" data-original-width="512" height="70" src="https://downloadr2.apkmirror.com/wp-content/uploads/2023/05/42/6462f9659847c.png" width="70" alt="Webull"/></a>
+    <a href="https://docs.google.com/spreadsheets/d/1LfaYtySUEs_tY80JPCqIYt7JgK0pe06Y5AerM4uQqX4/edit#gid=1447322971"  target="_blank"><img border="0" data-original-height="512" data-original-width="512" height="70" src="https://i0.wp.com/sethisfy.com/wp-content/uploads/2022/07/Webull-True-0-US-Commission-Icon-2.png?resize=128%2C128&ssl=1" width="70" alt="Webull"/></a>
 </div>
   
 <br/>
