@@ -22,9 +22,10 @@ a.hover2:visited {text-decoration: none; color: blue}
 a.hover2:hover {color: DodgerBlue}
 a.hover2:active {}
 
-a.hover3:link {text-decoration: none;}
-a.hover3:visited {text-decoration: none;}
-a.hover3:hover {color: inherit; text-decoration: underline}
+a.hover3:link {text-decoration: none; color: DodgerBlue}
+a.hover3:visited {text-decoration: none; color: DodgerBlue}
+a.hover3:hover {color: DodgerBlue; text-decoration: underline}
+// a.hover3:hover {color: inherit; text-decoration: underline}
 a.hover3:active {}
 
 .text-shadow {
