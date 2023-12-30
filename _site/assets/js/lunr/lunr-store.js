@@ -124,6 +124,16 @@ var store = [{
         "url": "http://localhost:4000/202302_amazon-valuation/",
         "img": "https://media.loom-app.com/gizmodo/dist/images/2022/11/11/shutterstock_1919679617.jpg?w=1280"
       },{
+        "title": "2023 RECAP",
+        "subtitle": "My Investment Portfolio",
+        "excerpt":
+            "It’s rewind time! 2023! Well, 2023 was a solid year for my investments. My portfolio saw a 40.2% boost (33.8% before adjusting for foreign exchange), outpacing the S&amp;P500’s 24.8% but...",
+        "categories": [],
+        "date": "2023-12-30",
+        "tags": ["stock","portfolio","recap","investment"],
+        "url": "http://localhost:4000/202312_2023-recap/",
+        "img": "https://cdn.vox-cdn.com/thumbor/rFOABU_NwquL9sBMldiQb39bPFQ=/1400x788/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/13739200/Screen_Shot_2019_02_05_at_3.24.25_PM.png"
+      },{
         "title": "Investment Portfolio Tracker",
         "subtitle": null,
         "excerpt":
