@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
-	<updated>2024-03-03T19:30:55+09:00</updated>
+	<updated>2024-07-09T21:50:35+08:00</updated>
 	<id>http://localhost:4000/atom.xml</id>
 	<title>Page Found 404 | by junyichong</title>
 	<subtitle>by junyichong</subtitle>
@@ -16,8 +16,8 @@
 	<logo>https://github.com/junyichong.png</logo><entry>
 		<title>2023 RECAP</title>
 		<link href="http://localhost:4000/202312_2023-recap/" rel="alternate" type="text/html" title="2023 RECAP"/>
-		<published>2023-12-30T00:00:00+09:00</published>
-		<updated>2023-12-30T00:00:00+09:00</updated>
+		<published>2023-12-30T00:00:00+08:00</published>
+		<updated>2023-12-30T00:00:00+08:00</updated>
 		<id>http://localhost:4000/202312_2023-recap/</id>
 		<content type="html" xml:base="http://localhost:4000/202312_2023-recap/">
 		
@@ -132,8 +132,8 @@
 	</entry><entry>
 		<title>Live Stream Chat Scraper and Analysis</title>
 		<link href="http://localhost:4000/projects/chat-analysis" rel="alternate" type="text/html" title="Live Stream Chat Scraper and Analysis"/>
-		<published>2023-07-14T00:00:00+09:00</published>
-		<updated>2023-07-14T00:00:00+09:00</updated>
+		<published>2023-07-14T00:00:00+08:00</published>
+		<updated>2023-07-14T00:00:00+08:00</updated>
 		<id>http://localhost:4000/projects/chat-analysis</id>
 		<content type="html" xml:base="http://localhost:4000/projects/chat-analysis">
 		
@@ -163,8 +163,8 @@
 	</entry><entry>
 		<title>Pose Detection</title>
 		<link href="http://localhost:4000/projects/pose-detection" rel="alternate" type="text/html" title="Pose Detection"/>
-		<published>2023-06-01T00:00:00+09:00</published>
-		<updated>2023-06-01T00:00:00+09:00</updated>
+		<published>2023-06-01T00:00:00+08:00</published>
+		<updated>2023-06-01T00:00:00+08:00</updated>
 		<id>http://localhost:4000/projects/pose-detection</id>
 		<content type="html" xml:base="http://localhost:4000/projects/pose-detection">
 		
@@ -208,8 +208,8 @@
 	</entry><entry>
 		<title>Amazonの企業価値評価</title>
 		<link href="http://localhost:4000/202302_amazon-valuation/" rel="alternate" type="text/html" title="Amazonの企業価値評価"/>
-		<published>2023-02-02T00:00:00+09:00</published>
-		<updated>2023-02-02T00:00:00+09:00</updated>
+		<published>2023-02-02T00:00:00+08:00</published>
+		<updated>2023-02-02T00:00:00+08:00</updated>
 		<id>http://localhost:4000/202302_amazon-valuation/</id>
 		<content type="html" xml:base="http://localhost:4000/202302_amazon-valuation/">
 		
@@ -358,8 +358,8 @@ SOTP分析とは，複数の事業や資産を有する企業体の企業評価�
 	</entry><entry>
 		<title>2022 RECAP</title>
 		<link href="http://localhost:4000/202301_2022-recap/" rel="alternate" type="text/html" title="2022 RECAP"/>
-		<published>2023-01-20T00:00:00+09:00</published>
-		<updated>2023-01-20T00:00:00+09:00</updated>
+		<published>2023-01-20T00:00:00+08:00</published>
+		<updated>2023-01-20T00:00:00+08:00</updated>
 		<id>http://localhost:4000/202301_2022-recap/</id>
 		<content type="html" xml:base="http://localhost:4000/202301_2022-recap/">
 		
@@ -498,8 +498,8 @@ SOTP分析とは，複数の事業や資産を有する企業体の企業評価�
 	</entry><entry>
 		<title>Keep AI in Mind When Choosing a Career</title>
 		<link href="http://localhost:4000/202208_keep-ai-in-mind/" rel="alternate" type="text/html" title="Keep AI in Mind When Choosing a Career"/>
-		<published>2022-08-05T00:00:00+09:00</published>
-		<updated>2022-08-05T00:00:00+09:00</updated>
+		<published>2022-08-05T00:00:00+08:00</published>
+		<updated>2022-08-05T00:00:00+08:00</updated>
 		<id>http://localhost:4000/202208_keep-ai-in-mind/</id>
 		<content type="html" xml:base="http://localhost:4000/202208_keep-ai-in-mind/">
 		
@@ -607,8 +607,8 @@ SOTP分析とは，複数の事業や資産を有する企業体の企業評価�
 	</entry><entry>
 		<title>A Better Form of Money</title>
 		<link href="http://localhost:4000/202207_a-better-form-of-money/" rel="alternate" type="text/html" title="A Better Form of Money"/>
-		<published>2022-07-03T00:00:00+09:00</published>
-		<updated>2022-07-03T00:00:00+09:00</updated>
+		<published>2022-07-03T00:00:00+08:00</published>
+		<updated>2022-07-03T00:00:00+08:00</updated>
 		<id>http://localhost:4000/202207_a-better-form-of-money/</id>
 		<content type="html" xml:base="http://localhost:4000/202207_a-better-form-of-money/">
 		
@@ -733,8 +733,8 @@ SOTP分析とは，複数の事業や資産を有する企業体の企業評価�
 	</entry><entry>
 		<title>The Risks of Investing in Chinese Stocks</title>
 		<link href="http://localhost:4000/202203_chinese-stocks/" rel="alternate" type="text/html" title="The Risks of Investing in Chinese Stocks"/>
-		<published>2022-03-21T00:00:00+09:00</published>
-		<updated>2022-03-21T00:00:00+09:00</updated>
+		<published>2022-03-21T00:00:00+08:00</published>
+		<updated>2022-03-21T00:00:00+08:00</updated>
 		<id>http://localhost:4000/202203_chinese-stocks/</id>
 		<content type="html" xml:base="http://localhost:4000/202203_chinese-stocks/">
 		
@@ -814,8 +814,8 @@ SOTP分析とは，複数の事業や資産を有する企業体の企業評価�
 	</entry><entry>
 		<title>2021 RECAP</title>
 		<link href="http://localhost:4000/202201_2021-recap/" rel="alternate" type="text/html" title="2021 RECAP"/>
-		<published>2022-01-15T00:00:00+09:00</published>
-		<updated>2022-01-15T00:00:00+09:00</updated>
+		<published>2022-01-15T00:00:00+08:00</published>
+		<updated>2022-01-15T00:00:00+08:00</updated>
 		<id>http://localhost:4000/202201_2021-recap/</id>
 		<content type="html" xml:base="http://localhost:4000/202201_2021-recap/">
 		
@@ -980,8 +980,8 @@ If something is too good to be true, it’s not.&lt;/p&gt;
 	</entry><entry>
 		<title>2022 PLAN</title>
 		<link href="http://localhost:4000/202201_2022-plan/" rel="alternate" type="text/html" title="2022 PLAN"/>
-		<published>2022-01-07T00:00:00+09:00</published>
-		<updated>2022-01-07T00:00:00+09:00</updated>
+		<published>2022-01-07T00:00:00+08:00</published>
+		<updated>2022-01-07T00:00:00+08:00</updated>
 		<id>http://localhost:4000/202201_2022-plan/</id>
 		<content type="html" xml:base="http://localhost:4000/202201_2022-plan/">
 		
@@ -1067,8 +1067,8 @@ Put in more money after I settle everything in university.&lt;/p&gt;
 	</entry><entry>
 		<title>Serba Dinamik: The Hindsight</title>
 		<link href="http://localhost:4000/202112_serba-dinamik/" rel="alternate" type="text/html" title="Serba Dinamik: The Hindsight"/>
-		<published>2021-12-19T00:00:00+09:00</published>
-		<updated>2021-12-19T00:00:00+09:00</updated>
+		<published>2021-12-19T00:00:00+08:00</published>
+		<updated>2021-12-19T00:00:00+08:00</updated>
 		<id>http://localhost:4000/202112_serba-dinamik/</id>
 		<content type="html" xml:base="http://localhost:4000/202112_serba-dinamik/">
 		
@@ -1161,8 +1161,8 @@ Put in more money after I settle everything in university.&lt;/p&gt;
 	</entry><entry>
 		<title>Investment Portfolio Tracker</title>
 		<link href="http://localhost:4000/projects/investment-portfolio" rel="alternate" type="text/html" title="Investment Portfolio Tracker"/>
-		<published>2021-10-19T00:00:00+09:00</published>
-		<updated>2021-10-19T00:00:00+09:00</updated>
+		<published>2021-10-19T00:00:00+08:00</published>
+		<updated>2021-10-19T00:00:00+08:00</updated>
 		<id>http://localhost:4000/projects/investment-portfolio</id>
 		<content type="html" xml:base="http://localhost:4000/projects/investment-portfolio">
 		
@@ -1240,8 +1240,8 @@ The spreadsheet-based design allows users to customize the tracker to suit their
 	</entry><entry>
 		<title>One Up on Wall Street</title>
 		<link href="http://localhost:4000/202109_one-up-on-wall-street/" rel="alternate" type="text/html" title="One Up on Wall Street"/>
-		<published>2021-09-13T00:00:00+09:00</published>
-		<updated>2021-09-13T00:00:00+09:00</updated>
+		<published>2021-09-13T00:00:00+08:00</published>
+		<updated>2021-09-13T00:00:00+08:00</updated>
 		<id>http://localhost:4000/202109_one-up-on-wall-street/</id>
 		<content type="html" xml:base="http://localhost:4000/202109_one-up-on-wall-street/">
 		
@@ -1362,8 +1362,8 @@ When in doubt, tune in later.&lt;/p&gt;
 	</entry><entry>
 		<title>Being Multilingual</title>
 		<link href="http://localhost:4000/202008_being-multilingual/" rel="alternate" type="text/html" title="Being Multilingual"/>
-		<published>2020-08-01T00:00:00+09:00</published>
-		<updated>2020-08-01T00:00:00+09:00</updated>
+		<published>2020-08-01T00:00:00+08:00</published>
+		<updated>2020-08-01T00:00:00+08:00</updated>
 		<id>http://localhost:4000/202008_being-multilingual/</id>
 		<content type="html" xml:base="http://localhost:4000/202008_being-multilingual/">
 		
@@ -1491,8 +1491,8 @@ I can tell my spy friend, “- -    - — - -    — - —” over a bugged phon
 	</entry><entry>
 		<title>Should I Get a Part-time Job in Japan?</title>
 		<link href="http://localhost:4000/202007_part-time-job/" rel="alternate" type="text/html" title="Should I Get a Part-time Job in Japan?"/>
-		<published>2020-07-29T00:00:00+09:00</published>
-		<updated>2020-07-29T00:00:00+09:00</updated>
+		<published>2020-07-29T00:00:00+08:00</published>
+		<updated>2020-07-29T00:00:00+08:00</updated>
 		<id>http://localhost:4000/202007_part-time-job/</id>
 		<content type="html" xml:base="http://localhost:4000/202007_part-time-job/">
 		

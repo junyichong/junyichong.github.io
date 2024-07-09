@@ -8,11 +8,11 @@ header_img: ../assets/image/flower.jpg
 
 <h3><a href="https://docs.google.com/spreadsheets/d/1ePEcpLNRmXISJV8rtCk3hKJ-w-9MiT_yH2cuIAUOrcM/edit#gid=6" target="_blank">Total Portfolio</a></h3>
 
-*Updated on 31 December 2023*
+*Updated on 30 June 2024*
 
 <div class="w3-container" style="padding:0px 0px 0px">
     <img title="Portfolio" class="w3-image w3-padding" width="600" max-width="600"
-        src="../assets/image/portfolio_dec_2023.png" alt="Portfolio">
+        src="../assets/image/portfolio_jun_2024.png" alt="Portfolio">
 </div>
 
 <br/>
@@ -20,8 +20,9 @@ header_img: ../assets/image/flower.jpg
 #### International Stocks
 
 <div class="image-container">
-    <a href="https://docs.google.com/spreadsheets/d/1qdFK497pn5k0ho04FuBRrXCS_HnsCsMqx7EzPnnGfNU/edit#gid=6" target="_blank"><img border="0" data-original-height="512" data-original-width="512" height="70" src="https://images-na.ssl-images-amazon.com/images/I/41vhau+b0IS.eprt" width="70" alt="IBKR"/></a>
+    <a href="https://docs.google.com/spreadsheets/d/1qdFK497pn5k0ho04FuBRrXCS_HnsCsMqx7EzPnnGfNU/edit#gid=6" target="_blank"><img border="0" data-original-height="512" data-original-width="512" height="70" src="..\assets\image\ibkr.png" width="70" alt="IBKR"/></a>
     <a href="https://docs.google.com/spreadsheets/d/1LfaYtySUEs_tY80JPCqIYt7JgK0pe06Y5AerM4uQqX4/edit#gid=1447322971"  target="_blank"><img border="0" data-original-height="512" data-original-width="512" height="70" src="../assets\image\webull.png" width="70" alt="Webull"/></a>
+    <a href="https://docs.google.com/spreadsheets/d/1yhX3LVtEnW3-U9-iwMN8SgAQUNQTP48JukrHSlPJSY8/edit?gid=6#gid=6"  target="_blank"><img border="0" data-original-height="512" data-original-width="512" height="70" src="../assets\image\webullmy.png" width="70" alt="Webull"/></a>
     <a href="https://docs.google.com/spreadsheets/d/1tTtzQicCEuFzlTI1tn20GhqLWHrId5vRjj1iuhDY4l8/edit#gid=6"  target="_blank"><img border="0" data-original-height="512" data-original-width="512" height="70" src="../assets\image\moomoo.png" width="70" alt="Moomoo"/></a>
 </div>
   
@@ -40,8 +41,8 @@ header_img: ../assets/image/flower.jpg
 
 <div class="image-container">
     <a href="https://docs.google.com/spreadsheets/d/1gzyJOdA0-_UbH8eZ28CZHG5RyePSemmauLkBwGdF6ac/edit#gid=6" target="_blank"><img border="0" data-original-height="512" data-original-width="512" height="70" src="https://pbs.twimg.com/profile_images/1483025183871062020/tDSWlyc8_400x400.jpg" width="70" alt="Luno"/></a>
-    <a href="https://docs.google.com/spreadsheets/d/1cV0rQYW1dihOH0HBjzx2md0ZkrAyXMP2Xf3VlQnOkPE/edit#gid=6" target="_blank"><img border="0" data-original-height="512" data-original-width="512" height="70" src="https://play-lh.googleusercontent.com/mHjR3KaAMw3RGA15-t8gXNAy_Onr4ZYUQ07Z9fG2vd51IXO5rd7wtdqEWbNMPTgdqrk" width="70" alt="Ledger"/></a>
-    <a href="https://docs.google.com/spreadsheets/d/1N1rDELjN8oLF5li09UvYG8XsYgitarFqFfWv5xRo_Ek/edit#gid=6" target="_blank"><img border="0" data-original-height="512" data-original-width="512" height="70" src="https://ffnews.com/wp-content/uploads/2021/03/BlockFi.jpg" width="70" alt="BlockFi"/></a>
+    <a href="https://docs.google.com/spreadsheets/d/1cV0rQYW1dihOH0HBjzx2md0ZkrAyXMP2Xf3VlQnOkPE/edit#gid=6" target="_blank"><img border="0" data-original-height="512" data-original-width="512" height="70" src="..\assets\image\ledger.png" width="70" alt="Ledger"/></a>
+    <a href="https://docs.google.com/spreadsheets/d/1N1rDELjN8oLF5li09UvYG8XsYgitarFqFfWv5xRo_Ek/edit#gid=6" target="_blank"><img border="0" data-original-height="512" data-original-width="512" height="70" src="..\assets\image\BlockFi.webp" width="70" alt="BlockFi"/></a>
 </div>
   
 <br/>
