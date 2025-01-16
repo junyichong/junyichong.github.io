@@ -8,11 +8,11 @@ header_img: ../assets/image/flower.jpg
 
 <h3><a href="https://docs.google.com/spreadsheets/d/1ePEcpLNRmXISJV8rtCk3hKJ-w-9MiT_yH2cuIAUOrcM/edit#gid=6" target="_blank">Total Portfolio</a></h3>
 
-*Updated on 30 September 2024*
+*Updated on 31 December 2024*
 
 <div class="w3-container" style="padding:0px 0px 0px">
     <img title="Portfolio" class="w3-image w3-padding" width="600" max-width="600"
-        src="../assets/image/portfolio_sep_2024.png" alt="Portfolio">
+        src="../assets/image/portfolio_dec_2024.png" alt="Portfolio">
 </div>
 
 <br/>
