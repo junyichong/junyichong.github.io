@@ -2,7 +2,7 @@
 title: "Amazonの企業価値評価"
 subtitle: "Sum Of Parts Value Of Amazon's Businesses"
 header_type: hero
-header_img: https://media.loom-app.com/gizmodo/dist/images/2022/11/11/shutterstock_1919679617.jpg?w=1280
+header_img: https://www.thestreet.com/.image/t_share/MTg4NDUxNTA3NjAxOTQyNDc1/01daily-amazon-audio-app-videosixteenbyninejumbo1600-v2.jpg
 tags: [stock, portfolio, investment, Amazon]
 ---
 
