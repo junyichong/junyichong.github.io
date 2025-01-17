@@ -6,9 +6,9 @@
 		<link>http://localhost:4000/</link>
 		<description>by junyichong</description>
 		<language>en-US</language>
-		<copyright>(c) 2024, Chong Jun Yi</copyright>	
-		<pubDate>Mon, 15 Jul 2024 12:58:40 +0800</pubDate>
-		<lastBuildDate>Mon, 15 Jul 2024 12:58:40 +0800</lastBuildDate>
+		<copyright>(c) 2025, Chong Jun Yi</copyright>	
+		<pubDate>Fri, 17 Jan 2025 18:07:10 +0800</pubDate>
+		<lastBuildDate>Fri, 17 Jan 2025 18:07:10 +0800</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml" />
@@ -324,8 +324,8 @@ SOTP分析とは，複数の事業や資産を有する企業体の企業評価�
 			<link>http://localhost:4000/202302_amazon-valuation/</link>
 			<category>posts</category>
 		    <category>Amazon</category><category>investment</category><category>portfolio</category><category>stock</category><media:title type="html"><![CDATA[Amazonの企業価値評価 ]]></media:title>
-      <media:content url="https://media.loom-app.com/gizmodo/dist/images/2022/11/11/shutterstock_1919679617.jpg?w=1280" medium="image"/>
-      <media:thumbnail url="https://media.loom-app.com/gizmodo/dist/images/2022/11/11/shutterstock_1919679617.jpg?w=1280" /><guid isPermaLink="true">http://localhost:4000/202302_amazon-valuation/</guid>
+      <media:content url="https://www.thestreet.com/.image/t_share/MTg4NDUxNTA3NjAxOTQyNDc1/01daily-amazon-audio-app-videosixteenbyninejumbo1600-v2.jpg" medium="image"/>
+      <media:thumbnail url="https://www.thestreet.com/.image/t_share/MTg4NDUxNTA3NjAxOTQyNDc1/01daily-amazon-audio-app-videosixteenbyninejumbo1600-v2.jpg" /><guid isPermaLink="true">http://localhost:4000/202302_amazon-valuation/</guid>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0800</pubDate>
 		</item><item>
 			<title>2022 RECAP</title>

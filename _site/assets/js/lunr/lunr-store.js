@@ -122,7 +122,7 @@ var store = [{
         "date": "2023-02-02",
         "tags": ["stock","portfolio","investment","Amazon"],
         "url": "http://localhost:4000/202302_amazon-valuation/",
-        "img": "https://media.loom-app.com/gizmodo/dist/images/2022/11/11/shutterstock_1919679617.jpg?w=1280"
+        "img": "https://www.thestreet.com/.image/t_share/MTg4NDUxNTA3NjAxOTQyNDc1/01daily-amazon-audio-app-videosixteenbyninejumbo1600-v2.jpg"
       },{
         "title": "2023 RECAP",
         "subtitle": "My Investment Portfolio",
