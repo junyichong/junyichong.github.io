@@ -134,7 +134,7 @@ var store = [{
         "url": "http://localhost:4000/202312_2023-recap/",
         "img": "https://cdn.vox-cdn.com/thumbor/rFOABU_NwquL9sBMldiQb39bPFQ=/1400x788/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/13739200/Screen_Shot_2019_02_05_at_3.24.25_PM.png"
       },{
-        "title": "Investment Portfolio Tracker",
+        "title": "Investment Portfolio Tracker (Google Sheet)",
         "subtitle": null,
         "excerpt":
             "The Investment Portfolio Tracker is a powerful spreadsheet tool I developed to streamline and simplify investment portfolio management. This versatile tool allows users to track their investments, monitor portfolio performance,...",
@@ -163,4 +163,14 @@ var store = [{
         "tags": ["live stream","chat scraper"],
         "url": "http://localhost:4000/projects/chat-analysis",
         "img": "https://cdn.mos.cms.futurecdn.net/rP2H723xYVPHsEFikvT2i6.jpg"
+      },{
+        "title": "Investment Portfolio Dashboard (BigQuery + Looker)",
+        "subtitle": null,
+        "excerpt":
+            "I used to track my investments on spreadsheets, but as my portfolio grew and I opened more brokerage accounts, maintaining these spreadsheets became increasingly cumbersome. To reduce the hassle and...",
+        "categories": [],
+        "date": "2025-01-20",
+        "tags": ["investment","portfolio","stock"],
+        "url": "http://localhost:4000/projects/investment-portfolio-dashboard",
+        "img": "https://coloradowealthgroup.com/media/blog/image/image_33.jpg"
       }]

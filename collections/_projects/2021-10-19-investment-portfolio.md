@@ -1,5 +1,5 @@
 ---
-title: Investment Portfolio Tracker
+title: Investment Portfolio Tracker (Google Sheet)
 header_type: hero
 header_img: https://www.bankrate.com/2019/03/22142110/How-to-trade-stocks.jpg?auto=webp&optimize=high&crop=16:9&width=912
 tags: [investment, portfolio, stock]

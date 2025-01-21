@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
-	<updated>2025-01-18T15:35:33+08:00</updated>
+	<updated>2025-01-21T11:43:33+08:00</updated>
 	<id>http://localhost:4000/atom.xml</id>
 	<title>Page Found 404 | by junyichong</title>
 	<subtitle>by junyichong</subtitle>
@@ -14,6 +14,51 @@
 	<rights>(c) 2025, Chong Jun Yi</rights>
 	
 	<logo>https://github.com/junyichong.png</logo><entry>
+		<title>Investment Portfolio Dashboard (BigQuery + Looker)</title>
+		<link href="http://localhost:4000/projects/investment-portfolio-dashboard" rel="alternate" type="text/html" title="Investment Portfolio Dashboard (BigQuery + Looker)"/>
+		<published>2025-01-20T00:00:00+08:00</published>
+		<updated>2025-01-20T00:00:00+08:00</updated>
+		<id>http://localhost:4000/projects/investment-portfolio-dashboard</id>
+		<content type="html" xml:base="http://localhost:4000/projects/investment-portfolio-dashboard">
+		
+  		
+			&lt;img src=&#39;https://coloradowealthgroup.com/media/blog/image/image_33.jpg&#39; &gt;
+			
+	&lt;p&gt;1 min.&lt;/p&gt;
+			&lt;p&gt;I used to track my investments on &lt;a href=&quot;https://www.junyichong.com/projects/investment-portfolio&quot;&gt;spreadsheets&lt;/a&gt;, but as my portfolio grew and I opened more brokerage accounts, maintaining these spreadsheets became increasingly cumbersome. To reduce the hassle and centralize all my investment data, I decided to build an investment portfolio dashboard using Looker and BigQuery. This dashboard now allows me to analyze my investment data from my first stock in 2020 to the latest updates, providing an intuitive way to visualize trends, evaluate asset allocation, and track cumulative performance.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;using-bigquery-for-data-analysis&quot;&gt;Using BigQuery for Data Analysis&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/junyichong/investment-portfolio-bigquery&quot;&gt;Github link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The foundation of this project was setting up BigQuery to handle all the data analysis. I started by gathering all my previous transaction data and historical stock price data into a Google Sheet, which acted as a central repository for my investment records. BigQuery was then configured to read and analyze this data, enabling me to perform complex calculations and generate meaningful insights.&lt;/p&gt;
+
+&lt;p&gt;Using SQL in BigQuery, I built data models to calculate essential metrics such as cumulative costs, realized and unrealized gains, and asset allocation percentages. By leveraging BigQuery’s ability to set up scheduled queries, I automated daily updates, ensuring that my analysis always reflected the latest information.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;visualizing-data-with-looker&quot;&gt;Visualizing Data with Looker&lt;/h5&gt;
+
+&lt;p&gt;Once the data was ready, I used Looker to create an interactive and visually engaging dashboard (in dark mode of course). Even though the functionality is not as robust as Power BI, Looker’s flexibility allowed me to design dynamic charts and reports tailored to my needs. For instance, I created performance trendlines to track how my portfolio has performed against the S&amp;amp;P 500 index, fees tracker to highlight the importance of less is more, and industry and regional breakdown to visualize diversification.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This combination of BigQuery and Looker transformed the way I manage my investments. The dashboard not only saves time but also provides valuable insights that help me make more informed decisions.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+		</content>
+		
+		<author>
+			<name>Chong Jun Yi</name></author>
+		<summary type="html">&lt;p&gt;I used to track my investments on &lt;a href=&quot;https://www.junyichong.com/projects/investment-portfolio&quot;&gt;spreadsheets&lt;/a&gt;, but as my portfolio grew and I opened more brokerage accounts, maintaining these spreadsheets became increasingly cumbersome. To reduce the hassle and centralize all my investment data, I decided to build an investment portfolio dashboard using Looker and BigQuery. This dashboard now allows me to analyze my investment data from my first stock in 2020 to the latest updates, providing an intuitive way to visualize trends, evaluate asset allocation, and track cumulative performance.&lt;/p&gt;
+
+</summary>
+		<category term="projects"/>
+		<category term="investment"/><category term="portfolio"/><category term="stock"/>
+	</entry><entry>
 		<title>2023 RECAP</title>
 		<link href="http://localhost:4000/202312_2023-recap/" rel="alternate" type="text/html" title="2023 RECAP"/>
 		<published>2023-12-30T00:00:00+08:00</published>
@@ -1159,8 +1204,8 @@ Put in more money after I settle everything in university.&lt;/p&gt;
 		<category term="posts"/>
 		<category term="Serba Dinamik"/><category term="investment"/><category term="portfolio"/><category term="stock"/>
 	</entry><entry>
-		<title>Investment Portfolio Tracker</title>
-		<link href="http://localhost:4000/projects/investment-portfolio" rel="alternate" type="text/html" title="Investment Portfolio Tracker"/>
+		<title>Investment Portfolio Tracker (Google Sheet)</title>
+		<link href="http://localhost:4000/projects/investment-portfolio" rel="alternate" type="text/html" title="Investment Portfolio Tracker (Google Sheet)"/>
 		<published>2021-10-19T00:00:00+08:00</published>
 		<updated>2021-10-19T00:00:00+08:00</updated>
 		<id>http://localhost:4000/projects/investment-portfolio</id>

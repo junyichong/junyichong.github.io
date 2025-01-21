@@ -7,8 +7,8 @@
 		<description>by junyichong</description>
 		<language>en-US</language>
 		<copyright>(c) 2025, Chong Jun Yi</copyright>	
-		<pubDate>Sat, 18 Jan 2025 15:35:33 +0800</pubDate>
-		<lastBuildDate>Sat, 18 Jan 2025 15:35:33 +0800</lastBuildDate>
+		<pubDate>Tue, 21 Jan 2025 11:43:33 +0800</pubDate>
+		<lastBuildDate>Tue, 21 Jan 2025 11:43:33 +0800</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml" />
@@ -18,6 +18,44 @@
 			<link>http://localhost:4000/</link>
 			<description>by junyichong</description>
 		</image><item>
+			<title>Investment Portfolio Dashboard (BigQuery + Looker)</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>1 min.</p>
+				<div><p>I used to track my investments on <a href="https://www.junyichong.com/projects/investment-portfolio">spreadsheets</a>, but as my portfolio grew and I opened more brokerage accounts, maintaining these spreadsheets became increasingly cumbersome. To reduce the hassle and centralize all my investment data, I decided to build an investment portfolio dashboard using Looker and BigQuery. This dashboard now allows me to analyze my investment data from my first stock in 2020 to the latest updates, providing an intuitive way to visualize trends, evaluate asset allocation, and track cumulative performance.</p>
+
+<p><br /></p>
+
+<h5 id="using-bigquery-for-data-analysis">Using BigQuery for Data Analysis</h5>
+
+<p><a href="https://github.com/junyichong/investment-portfolio-bigquery">Github link</a></p>
+
+<p>The foundation of this project was setting up BigQuery to handle all the data analysis. I started by gathering all my previous transaction data and historical stock price data into a Google Sheet, which acted as a central repository for my investment records. BigQuery was then configured to read and analyze this data, enabling me to perform complex calculations and generate meaningful insights.</p>
+
+<p>Using SQL in BigQuery, I built data models to calculate essential metrics such as cumulative costs, realized and unrealized gains, and asset allocation percentages. By leveraging BigQuery’s ability to set up scheduled queries, I automated daily updates, ensuring that my analysis always reflected the latest information.</p>
+
+<p><br /></p>
+
+<h5 id="visualizing-data-with-looker">Visualizing Data with Looker</h5>
+
+<p>Once the data was ready, I used Looker to create an interactive and visually engaging dashboard (in dark mode of course). Even though the functionality is not as robust as Power BI, Looker’s flexibility allowed me to design dynamic charts and reports tailored to my needs. For instance, I created performance trendlines to track how my portfolio has performed against the S&amp;P 500 index, fees tracker to highlight the importance of less is more, and industry and regional breakdown to visualize diversification.</p>
+
+<p><br /></p>
+
+<p>This combination of BigQuery and Looker transformed the way I manage my investments. The dashboard not only saves time but also provides valuable insights that help me make more informed decisions.</p>
+
+<p><br /></p>
+</div>
+				]]>
+			</description>
+			<link>http://localhost:4000/projects/investment-portfolio-dashboard</link>
+			<category>projects</category>
+		    <category>investment</category><category>portfolio</category><category>stock</category><media:title type="html"><![CDATA[Investment Portfolio Dashboard (BigQuery + Looker) ]]></media:title>
+      <media:content url="https://coloradowealthgroup.com/media/blog/image/image_33.jpg" medium="image"/>
+      <media:thumbnail url="https://coloradowealthgroup.com/media/blog/image/image_33.jpg" /><guid isPermaLink="true">http://localhost:4000/projects/investment-portfolio-dashboard</guid>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0800</pubDate>
+		</item><item>
 			<title>2023 RECAP</title>
 			<description>
 				<![CDATA[	
@@ -1074,7 +1112,7 @@ Put in more money after I settle everything in university.</p>
       <media:thumbnail url="http://localhost:4000/assets/image/blog/mcd.jpg" /><guid isPermaLink="true">http://localhost:4000/202112_serba-dinamik/</guid>
       <pubDate>Sun, 19 Dec 2021 00:00:00 +0800</pubDate>
 		</item><item>
-			<title>Investment Portfolio Tracker</title>
+			<title>Investment Portfolio Tracker (Google Sheet)</title>
 			<description>
 				<![CDATA[	
  				
@@ -1141,7 +1179,7 @@ The spreadsheet-based design allows users to customize the tracker to suit their
 			</description>
 			<link>http://localhost:4000/projects/investment-portfolio</link>
 			<category>projects</category>
-		    <category>investment</category><category>portfolio</category><category>stock</category><media:title type="html"><![CDATA[Investment Portfolio Tracker ]]></media:title>
+		    <category>investment</category><category>portfolio</category><category>stock</category><media:title type="html"><![CDATA[Investment Portfolio Tracker (Google Sheet) ]]></media:title>
       <media:content url="https://www.bankrate.com/2019/03/22142110/How-to-trade-stocks.jpg?auto=webp&optimize=high&crop=16:9&width=912" medium="image"/>
       <media:thumbnail url="https://www.bankrate.com/2019/03/22142110/How-to-trade-stocks.jpg?auto=webp&optimize=high&crop=16:9&width=912" /><guid isPermaLink="true">http://localhost:4000/projects/investment-portfolio</guid>
       <pubDate>Tue, 19 Oct 2021 00:00:00 +0800</pubDate>
