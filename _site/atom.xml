@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
-	<updated>2025-01-21T11:43:33+08:00</updated>
+	<updated>2025-04-10T11:04:26+08:00</updated>
 	<id>http://localhost:4000/atom.xml</id>
 	<title>Page Found 404 | by junyichong</title>
 	<subtitle>by junyichong</subtitle>
@@ -14,7 +14,7 @@
 	<rights>(c) 2025, Chong Jun Yi</rights>
 	
 	<logo>https://github.com/junyichong.png</logo><entry>
-		<title>Investment Portfolio Dashboard (BigQuery + Looker)</title>
+		<title type="html">Investment Portfolio Dashboard (BigQuery + Looker)</title>
 		<link href="http://localhost:4000/projects/investment-portfolio-dashboard" rel="alternate" type="text/html" title="Investment Portfolio Dashboard (BigQuery + Looker)"/>
 		<published>2025-01-20T00:00:00+08:00</published>
 		<updated>2025-01-20T00:00:00+08:00</updated>
@@ -59,15 +59,15 @@
 		<category term="projects"/>
 		<category term="investment"/><category term="portfolio"/><category term="stock"/>
 	</entry><entry>
-		<title>2023 RECAP</title>
+		<title type="html">2023 RECAP</title>
 		<link href="http://localhost:4000/202312_2023-recap/" rel="alternate" type="text/html" title="2023 RECAP"/>
 		<published>2023-12-30T00:00:00+08:00</published>
 		<updated>2023-12-30T00:00:00+08:00</updated>
 		<id>http://localhost:4000/202312_2023-recap/</id>
 		<content type="html" xml:base="http://localhost:4000/202312_2023-recap/">
 		
-		&lt;h3&gt;My Investment Portfolio&lt;/h3&gt;
 		
+		&lt;h3&gt;My Investment Portfolio&lt;/h3&gt;
 		
   		
 			&lt;img src=&#39;https://cdn.vox-cdn.com/thumbor/rFOABU_NwquL9sBMldiQb39bPFQ=/1400x788/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/13739200/Screen_Shot_2019_02_05_at_3.24.25_PM.png&#39; &gt;
@@ -175,7 +175,7 @@
 		<category term="posts"/>
 		<category term="investment"/><category term="portfolio"/><category term="recap"/><category term="stock"/>
 	</entry><entry>
-		<title>Live Stream Chat Scraper and Analysis</title>
+		<title type="html">Live Stream Chat Scraper and Analysis</title>
 		<link href="http://localhost:4000/projects/chat-analysis" rel="alternate" type="text/html" title="Live Stream Chat Scraper and Analysis"/>
 		<published>2023-07-14T00:00:00+08:00</published>
 		<updated>2023-07-14T00:00:00+08:00</updated>
@@ -206,7 +206,7 @@
 		<category term="projects"/>
 		<category term="chat scraper"/><category term="live stream"/>
 	</entry><entry>
-		<title>Pose Detection</title>
+		<title type="html">Pose Detection</title>
 		<link href="http://localhost:4000/projects/pose-detection" rel="alternate" type="text/html" title="Pose Detection"/>
 		<published>2023-06-01T00:00:00+08:00</published>
 		<updated>2023-06-01T00:00:00+08:00</updated>
@@ -251,15 +251,15 @@
 		<category term="projects"/>
 		<category term="MediaPipe"/><category term="MoveNet"/><category term="pose detection"/>
 	</entry><entry>
-		<title>Amazonの企業価値評価</title>
+		<title type="html">Amazonの企業価値評価</title>
 		<link href="http://localhost:4000/202302_amazon-valuation/" rel="alternate" type="text/html" title="Amazonの企業価値評価"/>
 		<published>2023-02-02T00:00:00+08:00</published>
 		<updated>2023-02-02T00:00:00+08:00</updated>
 		<id>http://localhost:4000/202302_amazon-valuation/</id>
 		<content type="html" xml:base="http://localhost:4000/202302_amazon-valuation/">
 		
-		&lt;h3&gt;Sum Of Parts Value Of Amazon&#39;s Businesses&lt;/h3&gt;
 		
+		&lt;h3&gt;Sum Of Parts Value Of Amazon’s Businesses&lt;/h3&gt;
 		
   		
 			&lt;img src=&#39;https://www.thestreet.com/.image/t_share/MTg4NDUxNTA3NjAxOTQyNDc1/01daily-amazon-audio-app-videosixteenbyninejumbo1600-v2.jpg&#39; &gt;
@@ -401,15 +401,15 @@ SOTP分析とは，複数の事業や資産を有する企業体の企業評価�
 		<category term="posts"/>
 		<category term="Amazon"/><category term="investment"/><category term="portfolio"/><category term="stock"/>
 	</entry><entry>
-		<title>2022 RECAP</title>
+		<title type="html">2022 RECAP</title>
 		<link href="http://localhost:4000/202301_2022-recap/" rel="alternate" type="text/html" title="2022 RECAP"/>
 		<published>2023-01-20T00:00:00+08:00</published>
 		<updated>2023-01-20T00:00:00+08:00</updated>
 		<id>http://localhost:4000/202301_2022-recap/</id>
 		<content type="html" xml:base="http://localhost:4000/202301_2022-recap/">
 		
-		&lt;h3&gt;My Investment Portfolio&lt;/h3&gt;
 		
+		&lt;h3&gt;My Investment Portfolio&lt;/h3&gt;
 		
   		
 			&lt;img src=&#39;https://cdn.vox-cdn.com/thumbor/rFOABU_NwquL9sBMldiQb39bPFQ=/1400x788/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/13739200/Screen_Shot_2019_02_05_at_3.24.25_PM.png&#39; &gt;
@@ -541,15 +541,15 @@ SOTP分析とは，複数の事業や資産を有する企業体の企業評価�
 		<category term="posts"/>
 		<category term="investment"/><category term="portfolio"/><category term="recap"/><category term="stock"/>
 	</entry><entry>
-		<title>Keep AI in Mind When Choosing a Career</title>
+		<title type="html">Keep AI in Mind When Choosing a Career</title>
 		<link href="http://localhost:4000/202208_keep-ai-in-mind/" rel="alternate" type="text/html" title="Keep AI in Mind When Choosing a Career"/>
 		<published>2022-08-05T00:00:00+08:00</published>
 		<updated>2022-08-05T00:00:00+08:00</updated>
 		<id>http://localhost:4000/202208_keep-ai-in-mind/</id>
 		<content type="html" xml:base="http://localhost:4000/202208_keep-ai-in-mind/">
 		
-		&lt;h3&gt;I wrote this before ChatGPT...&lt;/h3&gt;
 		
+		&lt;h3&gt;I wrote this before ChatGPT…&lt;/h3&gt;
 		
   		
 			&lt;img src=&#39;https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/11eeb7f9-7512-49aa-abdc-a27001dd123e/AI_20230215_article-hero_1200x564.jpg&#39; &gt;
@@ -650,7 +650,7 @@ SOTP分析とは，複数の事業や資産を有する企業体の企業評価�
 		<category term="posts"/>
 		<category term="AI"/><category term="career"/><category term="work"/>
 	</entry><entry>
-		<title>A Better Form of Money</title>
+		<title type="html">A Better Form of Money</title>
 		<link href="http://localhost:4000/202207_a-better-form-of-money/" rel="alternate" type="text/html" title="A Better Form of Money"/>
 		<published>2022-07-03T00:00:00+08:00</published>
 		<updated>2022-07-03T00:00:00+08:00</updated>
@@ -776,7 +776,7 @@ SOTP分析とは，複数の事業や資産を有する企業体の企業評価�
 		<category term="posts"/>
 		<category term="Bitcoin"/><category term="investment"/><category term="money"/>
 	</entry><entry>
-		<title>The Risks of Investing in Chinese Stocks</title>
+		<title type="html">The Risks of Investing in Chinese Stocks</title>
 		<link href="http://localhost:4000/202203_chinese-stocks/" rel="alternate" type="text/html" title="The Risks of Investing in Chinese Stocks"/>
 		<published>2022-03-21T00:00:00+08:00</published>
 		<updated>2022-03-21T00:00:00+08:00</updated>
@@ -857,15 +857,15 @@ SOTP分析とは，複数の事業や資産を有する企業体の企業評価�
 		<category term="posts"/>
 		<category term="Chinese stocks"/><category term="investment"/><category term="stock"/>
 	</entry><entry>
-		<title>2021 RECAP</title>
+		<title type="html">2021 RECAP</title>
 		<link href="http://localhost:4000/202201_2021-recap/" rel="alternate" type="text/html" title="2021 RECAP"/>
 		<published>2022-01-15T00:00:00+08:00</published>
 		<updated>2022-01-15T00:00:00+08:00</updated>
 		<id>http://localhost:4000/202201_2021-recap/</id>
 		<content type="html" xml:base="http://localhost:4000/202201_2021-recap/">
 		
-		&lt;h3&gt;My Investment Portfolio&lt;/h3&gt;
 		
+		&lt;h3&gt;My Investment Portfolio&lt;/h3&gt;
 		
   		
 			&lt;img src=&#39;https://cdn.vox-cdn.com/thumbor/rFOABU_NwquL9sBMldiQb39bPFQ=/1400x788/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/13739200/Screen_Shot_2019_02_05_at_3.24.25_PM.png&#39; &gt;
@@ -1023,15 +1023,15 @@ If something is too good to be true, it’s not.&lt;/p&gt;
 		<category term="posts"/>
 		<category term="investment"/><category term="portfolio"/><category term="recap"/><category term="stock"/>
 	</entry><entry>
-		<title>2022 PLAN</title>
+		<title type="html">2022 PLAN</title>
 		<link href="http://localhost:4000/202201_2022-plan/" rel="alternate" type="text/html" title="2022 PLAN"/>
 		<published>2022-01-07T00:00:00+08:00</published>
 		<updated>2022-01-07T00:00:00+08:00</updated>
 		<id>http://localhost:4000/202201_2022-plan/</id>
 		<content type="html" xml:base="http://localhost:4000/202201_2022-plan/">
 		
-		&lt;h3&gt;My Investment Plan&lt;/h3&gt;
 		
+		&lt;h3&gt;My Investment Plan&lt;/h3&gt;
 		
   		
 			&lt;img src=&#39;http://localhost:4000/assets/image/blog/stonk.jpg&#39; &gt;
@@ -1110,7 +1110,7 @@ Put in more money after I settle everything in university.&lt;/p&gt;
 		<category term="posts"/>
 		<category term="investment"/><category term="plan"/><category term="portfolio"/><category term="stock"/>
 	</entry><entry>
-		<title>Serba Dinamik: The Hindsight</title>
+		<title type="html">Serba Dinamik: The Hindsight</title>
 		<link href="http://localhost:4000/202112_serba-dinamik/" rel="alternate" type="text/html" title="Serba Dinamik: The Hindsight"/>
 		<published>2021-12-19T00:00:00+08:00</published>
 		<updated>2021-12-19T00:00:00+08:00</updated>
@@ -1204,7 +1204,7 @@ Put in more money after I settle everything in university.&lt;/p&gt;
 		<category term="posts"/>
 		<category term="Serba Dinamik"/><category term="investment"/><category term="portfolio"/><category term="stock"/>
 	</entry><entry>
-		<title>Investment Portfolio Tracker (Google Sheet)</title>
+		<title type="html">Investment Portfolio Tracker (Google Sheet)</title>
 		<link href="http://localhost:4000/projects/investment-portfolio" rel="alternate" type="text/html" title="Investment Portfolio Tracker (Google Sheet)"/>
 		<published>2021-10-19T00:00:00+08:00</published>
 		<updated>2021-10-19T00:00:00+08:00</updated>
@@ -1283,7 +1283,7 @@ The spreadsheet-based design allows users to customize the tracker to suit their
 		<category term="projects"/>
 		<category term="investment"/><category term="portfolio"/><category term="stock"/>
 	</entry><entry>
-		<title>One Up on Wall Street</title>
+		<title type="html">One Up on Wall Street</title>
 		<link href="http://localhost:4000/202109_one-up-on-wall-street/" rel="alternate" type="text/html" title="One Up on Wall Street"/>
 		<published>2021-09-13T00:00:00+08:00</published>
 		<updated>2021-09-13T00:00:00+08:00</updated>
@@ -1405,7 +1405,7 @@ When in doubt, tune in later.&lt;/p&gt;
 		<category term="posts"/>
 		<category term="book"/><category term="investment"/><category term="stock"/>
 	</entry><entry>
-		<title>Being Multilingual</title>
+		<title type="html">Being Multilingual</title>
 		<link href="http://localhost:4000/202008_being-multilingual/" rel="alternate" type="text/html" title="Being Multilingual"/>
 		<published>2020-08-01T00:00:00+08:00</published>
 		<updated>2020-08-01T00:00:00+08:00</updated>
@@ -1534,7 +1534,7 @@ I can tell my spy friend, “- -    - — - -    — - —” over a bugged phon
 		<category term="posts"/>
 		<category term="language"/><category term="life"/>
 	</entry><entry>
-		<title>Should I Get a Part-time Job in Japan?</title>
+		<title type="html">Should I Get a Part-time Job in Japan?</title>
 		<link href="http://localhost:4000/202007_part-time-job/" rel="alternate" type="text/html" title="Should I Get a Part-time Job in Japan?"/>
 		<published>2020-07-29T00:00:00+08:00</published>
 		<updated>2020-07-29T00:00:00+08:00</updated>

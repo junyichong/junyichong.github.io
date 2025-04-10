@@ -8,11 +8,11 @@ header_img: ../assets/image/flower.jpg
 
 <h3><a href="https://docs.google.com/spreadsheets/d/1ePEcpLNRmXISJV8rtCk3hKJ-w-9MiT_yH2cuIAUOrcM/edit#gid=6" target="_blank">Total Portfolio</a></h3>
 
-*Updated on 31 December 2024*
+*Updated on 31 Mar 2025*
 
 <div class="w3-container" style="padding:0px 0px 0px">
     <img title="Portfolio" class="w3-image w3-padding" width="600" max-width="600"
-        src="../assets/image/portfolio_dec_2024.png" alt="Portfolio">
+        src="../assets/image/portfolio_apr_2025.png" alt="Portfolio">
 </div>
 
 <br/>
@@ -31,7 +31,7 @@ header_img: ../assets/image/flower.jpg
 #### Malaysia Stocks
 
 <div class="image-container">
-    <a href="https://docs.google.com/spreadsheets/d/1v7_0KYNggyNbgN8Wbd2FHBp1fYweKBsW1z2WPsm-Yy8/edit#gid=6" target="_blank"><img border="0" data-original-height="280" data-original-width="280" height="70" src="https://avatars.githubusercontent.com/u/3453451?s=280&amp;v=4" width="70" alt="Rakuten Trade"/></a>
+    <a href="https://docs.google.com/spreadsheets/d/1v7_0KYNggyNbgN8Wbd2FHBp1fYweKBsW1z2WPsm-Yy8/edit#gid=6" target="_blank"><img border="0" data-original-height="280" data-original-width="280" height="70" src="..\assets\image\rakutentrade.png" width="70" alt="Rakuten Trade"/></a>
     <a href="https://docs.google.com/spreadsheets/d/1pujfT4zOm2dxKLawru-KMvxzmon5Z9XWIvGNoX1qPnQ/edit?gid=6#gid=6" target="_blank"><img border="0" data-original-height="280" data-original-width="280" height="70" src="..\assets\image\epf.png" width="70" alt="EPF"/></a>
     <!-- <a href="https://docs.google.com/spreadsheets/d/1XZxEnjjm4uYV0vF56_1Mn17VFbjiAsoQkyLnh_tcsik/edit#gid=6"  target="_blank"><img border="0" data-original-height="512" data-original-width="512" height="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfkk9Q-3JQL47sRT6a6m7EIxBGoI8l2F623A&usqp=CAU" width="70" alt="M+"/></a> -->
 </div>
@@ -41,7 +41,7 @@ header_img: ../assets/image/flower.jpg
 #### Cryptocurrencies
 
 <div class="image-container">
-    <a href="https://docs.google.com/spreadsheets/d/1gzyJOdA0-_UbH8eZ28CZHG5RyePSemmauLkBwGdF6ac/edit#gid=6" target="_blank"><img border="0" data-original-height="512" data-original-width="512" height="70" src="https://pbs.twimg.com/profile_images/1483025183871062020/tDSWlyc8_400x400.jpg" width="70" alt="Luno"/></a>
+    <a href="https://docs.google.com/spreadsheets/d/1gzyJOdA0-_UbH8eZ28CZHG5RyePSemmauLkBwGdF6ac/edit#gid=6" target="_blank"><img border="0" data-original-height="512" data-original-width="512" height="70" src="..\assets\image\luno.png" width="70" alt="Luno"/></a>
     <a href="https://docs.google.com/spreadsheets/d/1cV0rQYW1dihOH0HBjzx2md0ZkrAyXMP2Xf3VlQnOkPE/edit#gid=6" target="_blank"><img border="0" data-original-height="512" data-original-width="512" height="70" src="..\assets\image\ledger.png" width="70" alt="Ledger"/></a>
     <a href="https://docs.google.com/spreadsheets/d/1N1rDELjN8oLF5li09UvYG8XsYgitarFqFfWv5xRo_Ek/edit#gid=6" target="_blank"><img border="0" data-original-height="512" data-original-width="512" height="70" src="..\assets\image\BlockFi.webp" width="70" alt="BlockFi"/></a>
 </div>

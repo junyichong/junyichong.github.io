@@ -7,8 +7,8 @@
 		<description>by junyichong</description>
 		<language>en-US</language>
 		<copyright>(c) 2025, Chong Jun Yi</copyright>	
-		<pubDate>Tue, 21 Jan 2025 11:43:33 +0800</pubDate>
-		<lastBuildDate>Tue, 21 Jan 2025 11:43:33 +0800</lastBuildDate>
+		<pubDate>Thu, 10 Apr 2025 11:04:26 +0800</pubDate>
+		<lastBuildDate>Thu, 10 Apr 2025 11:04:26 +0800</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml" />
@@ -59,8 +59,7 @@
 			<title>2023 RECAP</title>
 			<description>
 				<![CDATA[	
- 				<h3><p>My Investment Portfolio</p>
-</h3>
+ 				<h3>My Investment Portfolio</h3>
     		<p>3 min.</p>
 				<div><h1 id="its-rewind-time-2023">It’s rewind time! 2023!</h1>
 
@@ -228,8 +227,7 @@
 			<title>Amazonの企業価値評価</title>
 			<description>
 				<![CDATA[	
- 				<h3><p>Sum Of Parts Value Of Amazon’s Businesses</p>
-</h3>
+ 				<h3>Sum Of Parts Value Of Amazon’s Businesses</h3>
     		<p>2 min.</p>
 				<div><h6 id="note-this-is-an-article-i-wrote-and-presented-for-a-class-at-university"><em>(Note: This is an article I wrote and presented for a class at university.)</em></h6>
 
@@ -369,8 +367,7 @@ SOTP分析とは，複数の事業や資産を有する企業体の企業評価�
 			<title>2022 RECAP</title>
 			<description>
 				<![CDATA[	
- 				<h3><p>My Investment Portfolio</p>
-</h3>
+ 				<h3>My Investment Portfolio</h3>
     		<p>2 min.</p>
 				<div><h1 id="ahhh-its-rewind-time-again">AHHH IT’S REWIND TIME… again</h1>
 
@@ -500,8 +497,7 @@ SOTP分析とは，複数の事業や資産を有する企業体の企業評価�
 			<title>Keep AI in Mind When Choosing a Career</title>
 			<description>
 				<![CDATA[	
- 				<h3><p>I wrote this before ChatGPT…</p>
-</h3>
+ 				<h3>I wrote this before ChatGPT…</h3>
     		<p>6 min.</p>
 				<div><p>You have probably seen in movies how the AI assistant JARVIS accomplishes any task given by Iron Man in the Marvel Cinematic Universe, or how the rogue AI Skynet tries to destroy the human species in the Terminator franchise. Even though the Artificial Intelligence or AI we have today is still in no way close to how it is portrayed in science fiction, the fact remains that it is already having an enormous impact on our daily lives.</p>
 
@@ -793,8 +789,7 @@ SOTP分析とは，複数の事業や資産を有する企業体の企業評価�
 			<title>2021 RECAP</title>
 			<description>
 				<![CDATA[	
- 				<h3><p>My Investment Portfolio</p>
-</h3>
+ 				<h3>My Investment Portfolio</h3>
     		<p>5 min.</p>
 				<div><h1 id="ahhh-its-rewind-time">AHHH IT’S REWIND TIME</h1>
 
@@ -950,8 +945,7 @@ If something is too good to be true, it’s not.</p>
 			<title>2022 PLAN</title>
 			<description>
 				<![CDATA[	
- 				<h3><p>My Investment Plan</p>
-</h3>
+ 				<h3>My Investment Plan</h3>
     		<p>1 min.</p>
 				<div><p><img src="../assets/image/blog/2022bad.jpg" alt="2021 is finally over!" title="2022 is coming!" /></p>
 
