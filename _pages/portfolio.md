@@ -12,7 +12,7 @@ header_img: ../assets/image/flower.jpg
 
 <div class="w3-container" style="padding:0px 0px 0px">
     <img title="Portfolio" class="w3-image w3-padding" width="600" max-width="600"
-        src="../assets/image/portfolio_apr_2025.png" alt="Portfolio">
+        src="../assets/image/portfolio_jun_2025.png" alt="Portfolio">
 </div>
 
 <br/>
