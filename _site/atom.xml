@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
-	<updated>2025-11-09T14:27:04+08:00</updated>
+	<updated>2026-04-26T11:50:22+08:00</updated>
 	<id>http://localhost:4000/atom.xml</id>
 	<title>Page Found 404 | by junyichong</title>
 	<subtitle>by junyichong</subtitle>
@@ -11,7 +11,7 @@
 		<name>Chong Jun Yi</name>
 					
 	</author>
-	<rights>(c) 2025, Chong Jun Yi</rights>
+	<rights>(c) 2026, Chong Jun Yi</rights>
 	
 	<logo>https://github.com/junyichong.png</logo><entry>
 		<title type="html">Investment Portfolio Dashboard (BigQuery + Looker)</title>
